@@ -1,0 +1,3286 @@
+Cod_Bairros,Nome_Bairros,Data,Pluviometria
+MB,M Boi Mirim,01-01-23,1.1
+CL,Campo Limpo,01-01-23,2.0
+CS,Capela do Socorro,01-01-23,0.3
+IP,Ipiranga,01-01-23,0.0
+JA,Jabaquara,01-01-23,0.1
+SA,Santo Amaro,01-01-23,0.2
+VM,Vila Mariana,01-01-23,0.0
+PA,Parelheiros ,01-01-23,0.3
+AD,Cidade Ademar,01-01-23,0.2
+MB,M Boi Mirim,02-01-23,0.9
+CL,Campo Limpo,02-01-23,1.1
+CS,Capela do Socorro,02-01-23,1.2
+IP,Ipiranga,02-01-23,0.2
+JA,Jabaquara,02-01-23,0.4
+SA,Santo Amaro,02-01-23,0.2
+VM,Vila Mariana,02-01-23,0.0
+PA,Parelheiros ,02-01-23,8.4
+AD,Cidade Ademar,02-01-23,1.7
+MB,M Boi Mirim,03-01-23,11.7
+CL,Campo Limpo,03-01-23,14.8
+CS,Capela do Socorro,03-01-23,12.9
+IP,Ipiranga,03-01-23,3.5
+JA,Jabaquara,03-01-23,3.4000000000000004
+SA,Santo Amaro,03-01-23,13.9
+VM,Vila Mariana,03-01-23,5.7
+PA,Parelheiros ,03-01-23,5.4
+AD,Cidade Ademar,03-01-23,11.1
+MB,M Boi Mirim,04-01-23,26.7
+CL,Campo Limpo,04-01-23,30.5
+CS,Capela do Socorro,04-01-23,20.6
+IP,Ipiranga,04-01-23,30.6
+JA,Jabaquara,04-01-23,29.300000000000004
+SA,Santo Amaro,04-01-23,29.4
+VM,Vila Mariana,04-01-23,32.6
+PA,Parelheiros ,04-01-23,30.2
+AD,Cidade Ademar,04-01-23,26.5
+MB,M Boi Mirim,05-01-23,9.6
+CL,Campo Limpo,05-01-23,10.2
+CS,Capela do Socorro,05-01-23,9.5
+IP,Ipiranga,05-01-23,10.8
+JA,Jabaquara,05-01-23,12.3
+SA,Santo Amaro,05-01-23,11.5
+VM,Vila Mariana,05-01-23,10.8
+PA,Parelheiros ,05-01-23,11.4
+AD,Cidade Ademar,05-01-23,11.8
+MB,M Boi Mirim,06-01-23,5.4
+CL,Campo Limpo,06-01-23,3.0
+CS,Capela do Socorro,06-01-23,4.1000000000000005
+IP,Ipiranga,06-01-23,2.6
+JA,Jabaquara,06-01-23,1.9
+SA,Santo Amaro,06-01-23,1.9
+VM,Vila Mariana,06-01-23,4.4
+PA,Parelheiros ,06-01-23,4.300000000000001
+AD,Cidade Ademar,06-01-23,2.3
+MB,M Boi Mirim,07-01-23,0.1
+CL,Campo Limpo,07-01-23,0.1
+CS,Capela do Socorro,07-01-23,0.1
+IP,Ipiranga,07-01-23,0.4
+JA,Jabaquara,07-01-23,0.1
+SA,Santo Amaro,07-01-23,0.0
+VM,Vila Mariana,07-01-23,0.2
+PA,Parelheiros ,07-01-23,0.3
+AD,Cidade Ademar,07-01-23,0.2
+MB,M Boi Mirim,08-01-23,1.5
+CL,Campo Limpo,08-01-23,1.7
+CS,Capela do Socorro,08-01-23,1.3
+IP,Ipiranga,08-01-23,0.4
+JA,Jabaquara,08-01-23,0.6
+SA,Santo Amaro,08-01-23,1.2
+VM,Vila Mariana,08-01-23,0.4
+PA,Parelheiros ,08-01-23,3.8
+AD,Cidade Ademar,08-01-23,1.0
+MB,M Boi Mirim,09-01-23,0.7000000000000001
+CL,Campo Limpo,09-01-23,0.3
+CS,Capela do Socorro,09-01-23,0.4
+IP,Ipiranga,09-01-23,0.1
+JA,Jabaquara,09-01-23,0.1
+SA,Santo Amaro,09-01-23,0.1
+VM,Vila Mariana,09-01-23,0.2
+PA,Parelheiros ,09-01-23,1.8
+AD,Cidade Ademar,09-01-23,0.1
+MB,M Boi Mirim,10-01-23,7.4
+CL,Campo Limpo,10-01-23,9.4
+CS,Capela do Socorro,10-01-23,5.1000000000000005
+IP,Ipiranga,10-01-23,9.6
+JA,Jabaquara,10-01-23,7.899999999999999
+SA,Santo Amaro,10-01-23,9.8
+VM,Vila Mariana,10-01-23,10.2
+PA,Parelheiros ,10-01-23,6.0
+AD,Cidade Ademar,10-01-23,7.6
+MB,M Boi Mirim,11-01-23,10.0
+CL,Campo Limpo,11-01-23,14.1
+CS,Capela do Socorro,11-01-23,10.4
+IP,Ipiranga,11-01-23,12.3
+JA,Jabaquara,11-01-23,13.2
+SA,Santo Amaro,11-01-23,11.5
+VM,Vila Mariana,11-01-23,10.1
+PA,Parelheiros ,11-01-23,12.3
+AD,Cidade Ademar,11-01-23,11.3
+MB,M Boi Mirim,12-01-23,1.6
+CL,Campo Limpo,12-01-23,1.9
+CS,Capela do Socorro,12-01-23,2.1
+IP,Ipiranga,12-01-23,1.0
+JA,Jabaquara,12-01-23,1.4
+SA,Santo Amaro,12-01-23,2.3
+VM,Vila Mariana,12-01-23,1.2
+PA,Parelheiros ,12-01-23,3.1
+AD,Cidade Ademar,12-01-23,2.4
+MB,M Boi Mirim,13-01-23,10.3
+CL,Campo Limpo,13-01-23,15.3
+CS,Capela do Socorro,13-01-23,6.699999999999999
+IP,Ipiranga,13-01-23,20.3
+JA,Jabaquara,13-01-23,18.2
+SA,Santo Amaro,13-01-23,15.5
+VM,Vila Mariana,13-01-23,23.3
+PA,Parelheiros ,13-01-23,6.3
+AD,Cidade Ademar,13-01-23,11.9
+MB,M Boi Mirim,14-01-23,3.7
+CL,Campo Limpo,14-01-23,3.5
+CS,Capela do Socorro,14-01-23,3.5
+IP,Ipiranga,14-01-23,3.7
+JA,Jabaquara,14-01-23,4.9
+SA,Santo Amaro,14-01-23,4.1
+VM,Vila Mariana,14-01-23,4.0
+PA,Parelheiros ,14-01-23,2.9
+AD,Cidade Ademar,14-01-23,4.7
+MB,M Boi Mirim,15-01-23,19.8
+CL,Campo Limpo,15-01-23,10.4
+CS,Capela do Socorro,15-01-23,18.0
+IP,Ipiranga,15-01-23,38.6
+JA,Jabaquara,15-01-23,35.2
+SA,Santo Amaro,15-01-23,37.7
+VM,Vila Mariana,15-01-23,24.4
+PA,Parelheiros ,15-01-23,1.4
+AD,Cidade Ademar,15-01-23,32.8
+MB,M Boi Mirim,16-01-23,0.9
+CL,Campo Limpo,16-01-23,8.4
+CS,Capela do Socorro,16-01-23,0.3
+IP,Ipiranga,16-01-23,4.1
+JA,Jabaquara,16-01-23,2.2
+SA,Santo Amaro,16-01-23,3.9
+VM,Vila Mariana,16-01-23,6.5
+PA,Parelheiros ,16-01-23,1.2000000000000002
+AD,Cidade Ademar,16-01-23,0.7
+MB,M Boi Mirim,17-01-23,0.0
+CL,Campo Limpo,17-01-23,0.0
+CS,Capela do Socorro,17-01-23,0.0
+IP,Ipiranga,17-01-23,0.5
+JA,Jabaquara,17-01-23,0.4
+SA,Santo Amaro,17-01-23,0.1
+VM,Vila Mariana,17-01-23,0.4
+PA,Parelheiros ,17-01-23,0.1
+AD,Cidade Ademar,17-01-23,0.1
+MB,M Boi Mirim,18-01-23,0.0
+CL,Campo Limpo,18-01-23,0.0
+CS,Capela do Socorro,18-01-23,0.0
+IP,Ipiranga,18-01-23,0.1
+JA,Jabaquara,18-01-23,0.0
+SA,Santo Amaro,18-01-23,0.0
+VM,Vila Mariana,18-01-23,0.0
+PA,Parelheiros ,18-01-23,0.0
+AD,Cidade Ademar,18-01-23,0.0
+MB,M Boi Mirim,19-01-23,0.0
+CL,Campo Limpo,19-01-23,0.0
+CS,Capela do Socorro,19-01-23,0.0
+IP,Ipiranga,19-01-23,0.0
+JA,Jabaquara,19-01-23,0.0
+SA,Santo Amaro,19-01-23,0.0
+VM,Vila Mariana,19-01-23,0.0
+PA,Parelheiros ,19-01-23,0.0
+AD,Cidade Ademar,19-01-23,0.0
+MB,M Boi Mirim,20-01-23,17.8
+CL,Campo Limpo,20-01-23,5.8
+CS,Capela do Socorro,20-01-23,31.3
+IP,Ipiranga,20-01-23,7.199999999999999
+JA,Jabaquara,20-01-23,8.799999999999999
+SA,Santo Amaro,20-01-23,8.299999999999999
+VM,Vila Mariana,20-01-23,6.3
+PA,Parelheiros ,20-01-23,36.1
+AD,Cidade Ademar,20-01-23,16.7
+MB,M Boi Mirim,21-01-23,0.0
+CL,Campo Limpo,21-01-23,0.0
+CS,Capela do Socorro,21-01-23,0.3
+IP,Ipiranga,21-01-23,0.1
+JA,Jabaquara,21-01-23,0.0
+SA,Santo Amaro,21-01-23,0.1
+VM,Vila Mariana,21-01-23,0.1
+PA,Parelheiros ,21-01-23,0.5
+AD,Cidade Ademar,21-01-23,0.0
+MB,M Boi Mirim,22-01-23,0.0
+CL,Campo Limpo,22-01-23,0.0
+CS,Capela do Socorro,22-01-23,3.9
+IP,Ipiranga,22-01-23,0.2
+JA,Jabaquara,22-01-23,0.3
+SA,Santo Amaro,22-01-23,0.1
+VM,Vila Mariana,22-01-23,0.0
+PA,Parelheiros ,22-01-23,4.5
+AD,Cidade Ademar,22-01-23,1.8
+MB,M Boi Mirim,23-01-23,19.8
+CL,Campo Limpo,23-01-23,21.3
+CS,Capela do Socorro,23-01-23,14.999999999999998
+IP,Ipiranga,23-01-23,1.8
+JA,Jabaquara,23-01-23,5.7
+SA,Santo Amaro,23-01-23,6.300000000000001
+VM,Vila Mariana,23-01-23,1.7
+PA,Parelheiros ,23-01-23,19.7
+AD,Cidade Ademar,23-01-23,6.6000000000000005
+MB,M Boi Mirim,24-01-23,0.0
+CL,Campo Limpo,24-01-23,0.2
+CS,Capela do Socorro,24-01-23,0.0
+IP,Ipiranga,24-01-23,0.1
+JA,Jabaquara,24-01-23,0.0
+SA,Santo Amaro,24-01-23,0.1
+VM,Vila Mariana,24-01-23,0.3
+PA,Parelheiros ,24-01-23,0.2
+AD,Cidade Ademar,24-01-23,0.0
+MB,M Boi Mirim,25-01-23,0.0
+CL,Campo Limpo,25-01-23,0.0
+CS,Capela do Socorro,25-01-23,0.0
+IP,Ipiranga,25-01-23,0.0
+JA,Jabaquara,25-01-23,0.0
+SA,Santo Amaro,25-01-23,0.0
+VM,Vila Mariana,25-01-23,0.0
+PA,Parelheiros ,25-01-23,0.0
+AD,Cidade Ademar,25-01-23,0.0
+MB,M Boi Mirim,26-01-23,0.0
+CL,Campo Limpo,26-01-23,0.0
+CS,Capela do Socorro,26-01-23,0.0
+IP,Ipiranga,26-01-23,0.0
+JA,Jabaquara,26-01-23,0.0
+SA,Santo Amaro,26-01-23,0.0
+VM,Vila Mariana,26-01-23,0.0
+PA,Parelheiros ,26-01-23,0.0
+AD,Cidade Ademar,26-01-23,0.0
+MB,M Boi Mirim,27-01-23,0.0
+CL,Campo Limpo,27-01-23,0.0
+CS,Capela do Socorro,27-01-23,0.0
+IP,Ipiranga,27-01-23,0.0
+JA,Jabaquara,27-01-23,0.0
+SA,Santo Amaro,27-01-23,0.0
+VM,Vila Mariana,27-01-23,0.0
+PA,Parelheiros ,27-01-23,0.0
+AD,Cidade Ademar,27-01-23,0.0
+MB,M Boi Mirim,28-01-23,12.9
+CL,Campo Limpo,28-01-23,14.5
+CS,Capela do Socorro,28-01-23,2.9
+IP,Ipiranga,28-01-23,3.9
+JA,Jabaquara,28-01-23,5.9
+SA,Santo Amaro,28-01-23,10.2
+VM,Vila Mariana,28-01-23,14.5
+PA,Parelheiros ,28-01-23,1.2000000000000002
+AD,Cidade Ademar,28-01-23,3.1
+MB,M Boi Mirim,29-01-23,5.8
+CL,Campo Limpo,29-01-23,0.9
+CS,Capela do Socorro,29-01-23,17.6
+IP,Ipiranga,29-01-23,21.8
+JA,Jabaquara,29-01-23,42.6
+SA,Santo Amaro,29-01-23,20.1
+VM,Vila Mariana,29-01-23,6.0
+PA,Parelheiros ,29-01-23,15.9
+AD,Cidade Ademar,29-01-23,42.3
+MB,M Boi Mirim,30-01-23,3.0
+CL,Campo Limpo,30-01-23,2.1
+CS,Capela do Socorro,30-01-23,4.1
+IP,Ipiranga,30-01-23,1.4
+JA,Jabaquara,30-01-23,1.7
+SA,Santo Amaro,30-01-23,1.7000000000000002
+VM,Vila Mariana,30-01-23,1.2
+PA,Parelheiros ,30-01-23,1.3
+AD,Cidade Ademar,30-01-23,3.9
+MB,M Boi Mirim,31-01-23,20.2
+CL,Campo Limpo,31-01-23,21.2
+CS,Capela do Socorro,31-01-23,16.4
+IP,Ipiranga,31-01-23,19.700000000000003
+JA,Jabaquara,31-01-23,25.8
+SA,Santo Amaro,31-01-23,23.4
+VM,Vila Mariana,31-01-23,16.400000000000002
+PA,Parelheiros ,31-01-23,9.5
+AD,Cidade Ademar,31-01-23,31.4
+MB,M Boi Mirim,01-02-23,0.7000000000000001
+CL,Campo Limpo,01-02-23,0.7999999999999999
+CS,Capela do Socorro,01-02-23,1.2
+IP,Ipiranga,01-02-23,15.7
+JA,Jabaquara,01-02-23,6.699999999999999
+SA,Santo Amaro,01-02-23,3.5
+VM,Vila Mariana,01-02-23,9.8
+PA,Parelheiros ,01-02-23,1.1
+AD,Cidade Ademar,01-02-23,2.0
+MB,M Boi Mirim,02-02-23,3.0
+CL,Campo Limpo,02-02-23,1.3
+CS,Capela do Socorro,02-02-23,17.5
+IP,Ipiranga,02-02-23,3.0
+JA,Jabaquara,02-02-23,6.4
+SA,Santo Amaro,02-02-23,2.8
+VM,Vila Mariana,02-02-23,0.7
+PA,Parelheiros ,02-02-23,16.3
+AD,Cidade Ademar,02-02-23,20.9
+MB,M Boi Mirim,03-02-23,6.1
+CL,Campo Limpo,03-02-23,9.8
+CS,Capela do Socorro,03-02-23,6.5
+IP,Ipiranga,03-02-23,7.199999999999999
+JA,Jabaquara,03-02-23,11.9
+SA,Santo Amaro,03-02-23,11.8
+VM,Vila Mariana,03-02-23,8.4
+PA,Parelheiros ,03-02-23,2.1
+AD,Cidade Ademar,03-02-23,11.9
+MB,M Boi Mirim,04-02-23,0.3
+CL,Campo Limpo,04-02-23,0.3
+CS,Capela do Socorro,04-02-23,0.4
+IP,Ipiranga,04-02-23,0.6
+JA,Jabaquara,04-02-23,0.4
+SA,Santo Amaro,04-02-23,0.2
+VM,Vila Mariana,04-02-23,0.7999999999999999
+PA,Parelheiros ,04-02-23,1.0
+AD,Cidade Ademar,04-02-23,0.2
+MB,M Boi Mirim,05-02-23,7.3
+CL,Campo Limpo,05-02-23,6.9
+CS,Capela do Socorro,05-02-23,7.6
+IP,Ipiranga,05-02-23,3.2
+JA,Jabaquara,05-02-23,3.5
+SA,Santo Amaro,05-02-23,3.9
+VM,Vila Mariana,05-02-23,2.4000000000000004
+PA,Parelheiros ,05-02-23,3.8
+AD,Cidade Ademar,05-02-23,3.4
+MB,M Boi Mirim,06-02-23,1.8
+CL,Campo Limpo,06-02-23,2.0
+CS,Capela do Socorro,06-02-23,7.2
+IP,Ipiranga,06-02-23,14.6
+JA,Jabaquara,06-02-23,32.9
+SA,Santo Amaro,06-02-23,13.6
+VM,Vila Mariana,06-02-23,10.2
+PA,Parelheiros ,06-02-23,22.5
+AD,Cidade Ademar,06-02-23,18.6
+MB,M Boi Mirim,07-02-23,18.7
+CL,Campo Limpo,07-02-23,32.8
+CS,Capela do Socorro,07-02-23,13.6
+IP,Ipiranga,07-02-23,44.0
+JA,Jabaquara,07-02-23,28.700000000000003
+SA,Santo Amaro,07-02-23,42.0
+VM,Vila Mariana,07-02-23,52.7
+PA,Parelheiros ,07-02-23,4.5
+AD,Cidade Ademar,07-02-23,28.3
+MB,M Boi Mirim,08-02-23,0.2
+CL,Campo Limpo,08-02-23,0.1
+CS,Capela do Socorro,08-02-23,0.1
+IP,Ipiranga,08-02-23,0.0
+JA,Jabaquara,08-02-23,0.0
+SA,Santo Amaro,08-02-23,0.0
+VM,Vila Mariana,08-02-23,0.0
+PA,Parelheiros ,08-02-23,0.2
+AD,Cidade Ademar,08-02-23,0.0
+MB,M Boi Mirim,09-02-23,2.8
+CL,Campo Limpo,09-02-23,0.4
+CS,Capela do Socorro,09-02-23,0.4
+IP,Ipiranga,09-02-23,0.0
+JA,Jabaquara,09-02-23,0.0
+SA,Santo Amaro,09-02-23,0.2
+VM,Vila Mariana,09-02-23,0.0
+PA,Parelheiros ,09-02-23,0.4
+AD,Cidade Ademar,09-02-23,0.0
+MB,M Boi Mirim,10-02-23,0.8
+CL,Campo Limpo,10-02-23,1.1
+CS,Capela do Socorro,10-02-23,1.4
+IP,Ipiranga,10-02-23,0.6
+JA,Jabaquara,10-02-23,1.7000000000000002
+SA,Santo Amaro,10-02-23,1.6
+VM,Vila Mariana,10-02-23,0.7
+PA,Parelheiros ,10-02-23,5.199999999999999
+AD,Cidade Ademar,10-02-23,2.0
+MB,M Boi Mirim,11-02-23,10.0
+CL,Campo Limpo,11-02-23,7.6
+CS,Capela do Socorro,11-02-23,7.0
+IP,Ipiranga,11-02-23,7.7
+JA,Jabaquara,11-02-23,8.0
+SA,Santo Amaro,11-02-23,8.0
+VM,Vila Mariana,11-02-23,8.2
+PA,Parelheiros ,11-02-23,11.3
+AD,Cidade Ademar,11-02-23,8.6
+MB,M Boi Mirim,12-02-23,37.7
+CL,Campo Limpo,12-02-23,40.2
+CS,Capela do Socorro,12-02-23,38.1
+IP,Ipiranga,12-02-23,37.3
+JA,Jabaquara,12-02-23,54.0
+SA,Santo Amaro,12-02-23,62.9
+VM,Vila Mariana,12-02-23,50.9
+PA,Parelheiros ,12-02-23,21.700000000000003
+AD,Cidade Ademar,12-02-23,61.1
+MB,M Boi Mirim,13-02-23,1.1
+CL,Campo Limpo,13-02-23,2.4000000000000004
+CS,Capela do Socorro,13-02-23,1.8
+IP,Ipiranga,13-02-23,2.3
+JA,Jabaquara,13-02-23,6.300000000000001
+SA,Santo Amaro,13-02-23,3.4000000000000004
+VM,Vila Mariana,13-02-23,0.5
+PA,Parelheiros ,13-02-23,5.9
+AD,Cidade Ademar,13-02-23,5.1000000000000005
+MB,M Boi Mirim,14-02-23,2.1
+CL,Campo Limpo,14-02-23,0.9
+CS,Capela do Socorro,14-02-23,3.3000000000000003
+IP,Ipiranga,14-02-23,1.1
+JA,Jabaquara,14-02-23,5.2
+SA,Santo Amaro,14-02-23,2.4
+VM,Vila Mariana,14-02-23,0.2
+PA,Parelheiros ,14-02-23,3.7
+AD,Cidade Ademar,14-02-23,5.1
+MB,M Boi Mirim,15-02-23,12.7
+CL,Campo Limpo,15-02-23,15.8
+CS,Capela do Socorro,15-02-23,7.9
+IP,Ipiranga,15-02-23,2.5
+JA,Jabaquara,15-02-23,7.2
+SA,Santo Amaro,15-02-23,13.4
+VM,Vila Mariana,15-02-23,3.3000000000000003
+PA,Parelheiros ,15-02-23,2.1
+AD,Cidade Ademar,15-02-23,13.3
+MB,M Boi Mirim,16-02-23,23.6
+CL,Campo Limpo,16-02-23,23.3
+CS,Capela do Socorro,16-02-23,16.6
+IP,Ipiranga,16-02-23,22.1
+JA,Jabaquara,16-02-23,25.4
+SA,Santo Amaro,16-02-23,20.700000000000003
+VM,Vila Mariana,16-02-23,24.200000000000003
+PA,Parelheiros ,16-02-23,13.4
+AD,Cidade Ademar,16-02-23,21.5
+MB,M Boi Mirim,17-02-23,0.4
+CL,Campo Limpo,17-02-23,0.6
+CS,Capela do Socorro,17-02-23,0.0
+IP,Ipiranga,17-02-23,1.3000000000000005
+JA,Jabaquara,17-02-23,0.1
+SA,Santo Amaro,17-02-23,0.2
+VM,Vila Mariana,17-02-23,0.3
+PA,Parelheiros ,17-02-23,0.2
+AD,Cidade Ademar,17-02-23,0.1
+MB,M Boi Mirim,18-02-23,18.1
+CL,Campo Limpo,18-02-23,17.700000000000003
+CS,Capela do Socorro,18-02-23,24.4
+IP,Ipiranga,18-02-23,41.7
+JA,Jabaquara,18-02-23,63.2
+SA,Santo Amaro,18-02-23,45.2
+VM,Vila Mariana,18-02-23,43.3
+PA,Parelheiros ,18-02-23,30.0
+AD,Cidade Ademar,18-02-23,54.4
+MB,M Boi Mirim,19-02-23,14.6
+CL,Campo Limpo,19-02-23,14.0
+CS,Capela do Socorro,19-02-23,19.0
+IP,Ipiranga,19-02-23,20.1
+JA,Jabaquara,19-02-23,20.3
+SA,Santo Amaro,19-02-23,16.500000000000004
+VM,Vila Mariana,19-02-23,21.0
+PA,Parelheiros ,19-02-23,34.2
+AD,Cidade Ademar,19-02-23,19.7
+MB,M Boi Mirim,20-02-23,1.9
+CL,Campo Limpo,20-02-23,1.7999999999999998
+CS,Capela do Socorro,20-02-23,1.3
+IP,Ipiranga,20-02-23,6.8
+JA,Jabaquara,20-02-23,3.8
+SA,Santo Amaro,20-02-23,3.4
+VM,Vila Mariana,20-02-23,10.6
+PA,Parelheiros ,20-02-23,3.3
+AD,Cidade Ademar,20-02-23,1.2
+MB,M Boi Mirim,21-02-23,20.3
+CL,Campo Limpo,21-02-23,16.2
+CS,Capela do Socorro,21-02-23,27.5
+IP,Ipiranga,21-02-23,39.9
+JA,Jabaquara,21-02-23,52.2
+SA,Santo Amaro,21-02-23,50.5
+VM,Vila Mariana,21-02-23,35.5
+PA,Parelheiros ,21-02-23,10.3
+AD,Cidade Ademar,21-02-23,49.7
+MB,M Boi Mirim,22-02-23,0.6
+CL,Campo Limpo,22-02-23,0.1
+CS,Capela do Socorro,22-02-23,1.2
+IP,Ipiranga,22-02-23,2.8000000000000003
+JA,Jabaquara,22-02-23,1.1
+SA,Santo Amaro,22-02-23,1.3
+VM,Vila Mariana,22-02-23,2.5
+PA,Parelheiros ,22-02-23,1.7999999999999998
+AD,Cidade Ademar,22-02-23,0.3
+MB,M Boi Mirim,23-02-23,6.8
+CL,Campo Limpo,23-02-23,16.3
+CS,Capela do Socorro,23-02-23,12.4
+IP,Ipiranga,23-02-23,16.9
+JA,Jabaquara,23-02-23,60.9
+SA,Santo Amaro,23-02-23,56.2
+VM,Vila Mariana,23-02-23,30.3
+PA,Parelheiros ,23-02-23,10.3
+AD,Cidade Ademar,23-02-23,48.7
+MB,M Boi Mirim,24-02-23,0.2
+CL,Campo Limpo,24-02-23,0.3
+CS,Capela do Socorro,24-02-23,1.2
+IP,Ipiranga,24-02-23,0.4
+JA,Jabaquara,24-02-23,1.2000000000000002
+SA,Santo Amaro,24-02-23,0.8
+VM,Vila Mariana,24-02-23,2.3
+PA,Parelheiros ,24-02-23,0.8999999999999999
+AD,Cidade Ademar,24-02-23,0.7
+MB,M Boi Mirim,25-02-23,3.8
+CL,Campo Limpo,25-02-23,4.0
+CS,Capela do Socorro,25-02-23,2.0
+IP,Ipiranga,25-02-23,0.6
+JA,Jabaquara,25-02-23,2.9
+SA,Santo Amaro,25-02-23,2.1
+VM,Vila Mariana,25-02-23,0.4
+PA,Parelheiros ,25-02-23,2.9000000000000004
+AD,Cidade Ademar,25-02-23,3.2
+MB,M Boi Mirim,26-02-23,0.0
+CL,Campo Limpo,26-02-23,0.0
+CS,Capela do Socorro,26-02-23,0.0
+IP,Ipiranga,26-02-23,0.0
+JA,Jabaquara,26-02-23,0.0
+SA,Santo Amaro,26-02-23,0.0
+VM,Vila Mariana,26-02-23,0.0
+PA,Parelheiros ,26-02-23,0.0
+AD,Cidade Ademar,26-02-23,0.0
+MB,M Boi Mirim,27-02-23,0.3
+CL,Campo Limpo,27-02-23,0.1
+CS,Capela do Socorro,27-02-23,0.3
+IP,Ipiranga,27-02-23,0.0
+JA,Jabaquara,27-02-23,0.0
+SA,Santo Amaro,27-02-23,0.0
+VM,Vila Mariana,27-02-23,0.0
+PA,Parelheiros ,27-02-23,2.3
+AD,Cidade Ademar,27-02-23,0.0
+MB,M Boi Mirim,28-02-23,5.3
+CL,Campo Limpo,28-02-23,7.8
+CS,Capela do Socorro,28-02-23,7.4
+IP,Ipiranga,28-02-23,12.7
+JA,Jabaquara,28-02-23,14.4
+SA,Santo Amaro,28-02-23,12.3
+VM,Vila Mariana,28-02-23,11.2
+PA,Parelheiros ,28-02-23,8.999999999999998
+AD,Cidade Ademar,28-02-23,11.6
+MB,M Boi Mirim,01-03-23,3.7
+CL,Campo Limpo,01-03-23,5.9
+CS,Capela do Socorro,01-03-23,2.7
+IP,Ipiranga,01-03-23,0.2
+JA,Jabaquara,01-03-23,1.7
+SA,Santo Amaro,01-03-23,5.9
+VM,Vila Mariana,01-03-23,0.1
+PA,Parelheiros ,01-03-23,0.7
+AD,Cidade Ademar,01-03-23,5.2
+MB,M Boi Mirim,02-03-23,0.0
+CL,Campo Limpo,02-03-23,0.0
+CS,Capela do Socorro,02-03-23,0.0
+IP,Ipiranga,02-03-23,0.0
+JA,Jabaquara,02-03-23,0.0
+SA,Santo Amaro,02-03-23,0.0
+VM,Vila Mariana,02-03-23,0.0
+PA,Parelheiros ,02-03-23,0.0
+AD,Cidade Ademar,02-03-23,0.0
+MB,M Boi Mirim,03-03-23,4.5
+CL,Campo Limpo,03-03-23,7.5
+CS,Capela do Socorro,03-03-23,8.200000000000001
+IP,Ipiranga,03-03-23,21.7
+JA,Jabaquara,03-03-23,10.0
+SA,Santo Amaro,03-03-23,2.4
+VM,Vila Mariana,03-03-23,8.6
+PA,Parelheiros ,03-03-23,10.3
+AD,Cidade Ademar,03-03-23,7.2
+MB,M Boi Mirim,04-03-23,0.3
+CL,Campo Limpo,04-03-23,0.3
+CS,Capela do Socorro,04-03-23,0.1
+IP,Ipiranga,04-03-23,0.1
+JA,Jabaquara,04-03-23,0.1
+SA,Santo Amaro,04-03-23,0.1
+VM,Vila Mariana,04-03-23,0.2
+PA,Parelheiros ,04-03-23,0.6
+AD,Cidade Ademar,04-03-23,0.1
+MB,M Boi Mirim,05-03-23,8.1
+CL,Campo Limpo,05-03-23,5.4
+CS,Capela do Socorro,05-03-23,12.8
+IP,Ipiranga,05-03-23,4.2
+JA,Jabaquara,05-03-23,9.2
+SA,Santo Amaro,05-03-23,9.8
+VM,Vila Mariana,05-03-23,3.6
+PA,Parelheiros ,05-03-23,21.200000000000003
+AD,Cidade Ademar,05-03-23,10.1
+MB,M Boi Mirim,06-03-23,16.7
+CL,Campo Limpo,06-03-23,15.3
+CS,Capela do Socorro,06-03-23,16.4
+IP,Ipiranga,06-03-23,8.200000000000001
+JA,Jabaquara,06-03-23,19.8
+SA,Santo Amaro,06-03-23,14.8
+VM,Vila Mariana,06-03-23,8.1
+PA,Parelheiros ,06-03-23,26.3
+AD,Cidade Ademar,06-03-23,15.6
+MB,M Boi Mirim,07-03-23,1.1
+CL,Campo Limpo,07-03-23,1.4
+CS,Capela do Socorro,07-03-23,0.9
+IP,Ipiranga,07-03-23,0.6
+JA,Jabaquara,07-03-23,0.7999999999999999
+SA,Santo Amaro,07-03-23,1.2
+VM,Vila Mariana,07-03-23,0.7
+PA,Parelheiros ,07-03-23,0.8999999999999999
+AD,Cidade Ademar,07-03-23,1.1
+MB,M Boi Mirim,08-03-23,34.900000000000006
+CL,Campo Limpo,08-03-23,22.2
+CS,Capela do Socorro,08-03-23,14.9
+IP,Ipiranga,08-03-23,29.0
+JA,Jabaquara,08-03-23,34.6
+SA,Santo Amaro,08-03-23,40.7
+VM,Vila Mariana,08-03-23,45.2
+PA,Parelheiros ,08-03-23,8.6
+AD,Cidade Ademar,08-03-23,27.9
+MB,M Boi Mirim,09-03-23,3.1
+CL,Campo Limpo,09-03-23,3.4
+CS,Capela do Socorro,09-03-23,6.199999999999999
+IP,Ipiranga,09-03-23,14.3
+JA,Jabaquara,09-03-23,13.3
+SA,Santo Amaro,09-03-23,5.1
+VM,Vila Mariana,09-03-23,7.2
+PA,Parelheiros ,09-03-23,3.5
+AD,Cidade Ademar,09-03-23,18.5
+MB,M Boi Mirim,10-03-23,40.49999999999999
+CL,Campo Limpo,10-03-23,47.3
+CS,Capela do Socorro,10-03-23,40.3
+IP,Ipiranga,10-03-23,38.99999999999999
+JA,Jabaquara,10-03-23,68.39999999999999
+SA,Santo Amaro,10-03-23,57.6
+VM,Vila Mariana,10-03-23,46.1
+PA,Parelheiros ,10-03-23,17.799999999999997
+AD,Cidade Ademar,10-03-23,66.70000000000002
+MB,M Boi Mirim,11-03-23,8.600000000000001
+CL,Campo Limpo,11-03-23,8.899999999999999
+CS,Capela do Socorro,11-03-23,13.7
+IP,Ipiranga,11-03-23,29.0
+JA,Jabaquara,11-03-23,14.3
+SA,Santo Amaro,11-03-23,6.1
+VM,Vila Mariana,11-03-23,12.6
+PA,Parelheiros ,11-03-23,10.9
+AD,Cidade Ademar,11-03-23,5.3
+MB,M Boi Mirim,12-03-23,24.3
+CL,Campo Limpo,12-03-23,20.8
+CS,Capela do Socorro,12-03-23,40.0
+IP,Ipiranga,12-03-23,28.7
+JA,Jabaquara,12-03-23,16.2
+SA,Santo Amaro,12-03-23,15.9
+VM,Vila Mariana,12-03-23,16.900000000000002
+PA,Parelheiros ,12-03-23,21.500000000000004
+AD,Cidade Ademar,12-03-23,27.4
+MB,M Boi Mirim,13-03-23,20.7
+CL,Campo Limpo,13-03-23,30.4
+CS,Capela do Socorro,13-03-23,9.8
+IP,Ipiranga,13-03-23,36.2
+JA,Jabaquara,13-03-23,42.3
+SA,Santo Amaro,13-03-23,36.6
+VM,Vila Mariana,13-03-23,32.1
+PA,Parelheiros ,13-03-23,1.7000000000000002
+AD,Cidade Ademar,13-03-23,24.4
+MB,M Boi Mirim,14-03-23,1.3
+CL,Campo Limpo,14-03-23,5.3
+CS,Capela do Socorro,14-03-23,2.0
+IP,Ipiranga,14-03-23,3.8
+JA,Jabaquara,14-03-23,2.8
+SA,Santo Amaro,14-03-23,2.6
+VM,Vila Mariana,14-03-23,4.5
+PA,Parelheiros ,14-03-23,2.1
+AD,Cidade Ademar,14-03-23,1.4
+MB,M Boi Mirim,15-03-23,0.2
+CL,Campo Limpo,15-03-23,0.0
+CS,Capela do Socorro,15-03-23,0.0
+IP,Ipiranga,15-03-23,0.0
+JA,Jabaquara,15-03-23,0.0
+SA,Santo Amaro,15-03-23,0.0
+VM,Vila Mariana,15-03-23,0.0
+PA,Parelheiros ,15-03-23,0.6
+AD,Cidade Ademar,15-03-23,0.0
+MB,M Boi Mirim,16-03-23,0.0
+CL,Campo Limpo,16-03-23,0.0
+CS,Capela do Socorro,16-03-23,0.0
+IP,Ipiranga,16-03-23,0.0
+JA,Jabaquara,16-03-23,0.0
+SA,Santo Amaro,16-03-23,0.0
+VM,Vila Mariana,16-03-23,0.0
+PA,Parelheiros ,16-03-23,0.0
+AD,Cidade Ademar,16-03-23,0.0
+MB,M Boi Mirim,17-03-23,0.0
+CL,Campo Limpo,17-03-23,0.0
+CS,Capela do Socorro,17-03-23,0.0
+IP,Ipiranga,17-03-23,0.0
+JA,Jabaquara,17-03-23,0.0
+SA,Santo Amaro,17-03-23,0.0
+VM,Vila Mariana,17-03-23,0.0
+PA,Parelheiros ,17-03-23,0.0
+AD,Cidade Ademar,17-03-23,0.0
+MB,M Boi Mirim,18-03-23,0.0
+CL,Campo Limpo,18-03-23,0.0
+CS,Capela do Socorro,18-03-23,0.0
+IP,Ipiranga,18-03-23,0.0
+JA,Jabaquara,18-03-23,0.0
+SA,Santo Amaro,18-03-23,0.0
+VM,Vila Mariana,18-03-23,0.0
+PA,Parelheiros ,18-03-23,0.0
+AD,Cidade Ademar,18-03-23,0.0
+MB,M Boi Mirim,19-03-23,0.1
+CL,Campo Limpo,19-03-23,0.0
+CS,Capela do Socorro,19-03-23,0.0
+IP,Ipiranga,19-03-23,0.0
+JA,Jabaquara,19-03-23,0.0
+SA,Santo Amaro,19-03-23,0.0
+VM,Vila Mariana,19-03-23,0.0
+PA,Parelheiros ,19-03-23,0.0
+AD,Cidade Ademar,19-03-23,0.0
+MB,M Boi Mirim,20-03-23,0.1
+CL,Campo Limpo,20-03-23,0.5
+CS,Capela do Socorro,20-03-23,0.5
+IP,Ipiranga,20-03-23,0.0
+JA,Jabaquara,20-03-23,0.0
+SA,Santo Amaro,20-03-23,0.6
+VM,Vila Mariana,20-03-23,0.3
+PA,Parelheiros ,20-03-23,0.0
+AD,Cidade Ademar,20-03-23,0.2
+MB,M Boi Mirim,21-03-23,0.0
+CL,Campo Limpo,21-03-23,0.0
+CS,Capela do Socorro,21-03-23,0.0
+IP,Ipiranga,21-03-23,0.0
+JA,Jabaquara,21-03-23,0.0
+SA,Santo Amaro,21-03-23,0.0
+VM,Vila Mariana,21-03-23,0.0
+PA,Parelheiros ,21-03-23,0.0
+AD,Cidade Ademar,21-03-23,0.0
+MB,M Boi Mirim,22-03-23,0.0
+CL,Campo Limpo,22-03-23,0.0
+CS,Capela do Socorro,22-03-23,0.0
+IP,Ipiranga,22-03-23,0.0
+JA,Jabaquara,22-03-23,0.0
+SA,Santo Amaro,22-03-23,0.0
+VM,Vila Mariana,22-03-23,0.0
+PA,Parelheiros ,22-03-23,0.0
+AD,Cidade Ademar,22-03-23,0.0
+MB,M Boi Mirim,23-03-23,0.0
+CL,Campo Limpo,23-03-23,0.0
+CS,Capela do Socorro,23-03-23,0.0
+IP,Ipiranga,23-03-23,0.0
+JA,Jabaquara,23-03-23,0.0
+SA,Santo Amaro,23-03-23,0.0
+VM,Vila Mariana,23-03-23,0.0
+PA,Parelheiros ,23-03-23,0.0
+AD,Cidade Ademar,23-03-23,0.0
+MB,M Boi Mirim,24-03-23,0.0
+CL,Campo Limpo,24-03-23,0.0
+CS,Capela do Socorro,24-03-23,0.0
+IP,Ipiranga,24-03-23,0.0
+JA,Jabaquara,24-03-23,0.0
+SA,Santo Amaro,24-03-23,0.0
+VM,Vila Mariana,24-03-23,0.0
+PA,Parelheiros ,24-03-23,0.0
+AD,Cidade Ademar,24-03-23,0.0
+MB,M Boi Mirim,25-03-23,0.0
+CL,Campo Limpo,25-03-23,0.0
+CS,Capela do Socorro,25-03-23,0.0
+IP,Ipiranga,25-03-23,0.0
+JA,Jabaquara,25-03-23,0.0
+SA,Santo Amaro,25-03-23,0.0
+VM,Vila Mariana,25-03-23,0.0
+PA,Parelheiros ,25-03-23,0.0
+AD,Cidade Ademar,25-03-23,0.0
+MB,M Boi Mirim,26-03-23,0.7
+CL,Campo Limpo,26-03-23,0.6
+CS,Capela do Socorro,26-03-23,2.1
+IP,Ipiranga,26-03-23,3.2
+JA,Jabaquara,26-03-23,3.0
+SA,Santo Amaro,26-03-23,0.9
+VM,Vila Mariana,26-03-23,3.2
+PA,Parelheiros ,26-03-23,3.3
+AD,Cidade Ademar,26-03-23,2.5
+MB,M Boi Mirim,27-03-23,3.9
+CL,Campo Limpo,27-03-23,7.399999999999999
+CS,Capela do Socorro,27-03-23,5.0
+IP,Ipiranga,27-03-23,16.700000000000003
+JA,Jabaquara,27-03-23,17.0
+SA,Santo Amaro,27-03-23,11.8
+VM,Vila Mariana,27-03-23,13.8
+PA,Parelheiros ,27-03-23,2.8
+AD,Cidade Ademar,27-03-23,13.6
+MB,M Boi Mirim,28-03-23,0.0
+CL,Campo Limpo,28-03-23,0.0
+CS,Capela do Socorro,28-03-23,0.0
+IP,Ipiranga,28-03-23,0.0
+JA,Jabaquara,28-03-23,0.0
+SA,Santo Amaro,28-03-23,0.0
+VM,Vila Mariana,28-03-23,0.0
+PA,Parelheiros ,28-03-23,0.0
+AD,Cidade Ademar,28-03-23,0.0
+MB,M Boi Mirim,29-03-23,4.5
+CL,Campo Limpo,29-03-23,1.8
+CS,Capela do Socorro,29-03-23,6.0
+IP,Ipiranga,29-03-23,0.4
+JA,Jabaquara,29-03-23,0.0
+SA,Santo Amaro,29-03-23,1.2
+VM,Vila Mariana,29-03-23,0.8
+PA,Parelheiros ,29-03-23,2.4
+AD,Cidade Ademar,29-03-23,0.7
+MB,M Boi Mirim,30-03-23,0.0
+CL,Campo Limpo,30-03-23,0.0
+CS,Capela do Socorro,30-03-23,0.3
+IP,Ipiranga,30-03-23,0.0
+JA,Jabaquara,30-03-23,0.0
+SA,Santo Amaro,30-03-23,0.0
+VM,Vila Mariana,30-03-23,0.0
+PA,Parelheiros ,30-03-23,1.5
+AD,Cidade Ademar,30-03-23,0.0
+MB,M Boi Mirim,31-03-23,16.7
+CL,Campo Limpo,31-03-23,17.6
+CS,Capela do Socorro,31-03-23,20.7
+IP,Ipiranga,31-03-23,12.6
+JA,Jabaquara,31-03-23,12.6
+SA,Santo Amaro,31-03-23,15.4
+VM,Vila Mariana,31-03-23,12.9
+PA,Parelheiros ,31-03-23,5.1
+AD,Cidade Ademar,31-03-23,23.4
+MB,M Boi Mirim,01-04-23,0.1
+CL,Campo Limpo,01-04-23,0.2
+CS,Capela do Socorro,01-04-23,0.8999999999999999
+IP,Ipiranga,01-04-23,0.1
+JA,Jabaquara,01-04-23,0.2
+SA,Santo Amaro,01-04-23,0.0
+VM,Vila Mariana,01-04-23,0.0
+PA,Parelheiros ,01-04-23,20.0
+AD,Cidade Ademar,01-04-23,0.1
+MB,M Boi Mirim,02-04-23,0.1
+CL,Campo Limpo,02-04-23,0.1
+CS,Capela do Socorro,02-04-23,0.2
+IP,Ipiranga,02-04-23,0.0
+JA,Jabaquara,02-04-23,0.1
+SA,Santo Amaro,02-04-23,0.2
+VM,Vila Mariana,02-04-23,0.0
+PA,Parelheiros ,02-04-23,0.6000000000000001
+AD,Cidade Ademar,02-04-23,0.2
+MB,M Boi Mirim,03-04-23,0.0
+CL,Campo Limpo,03-04-23,0.0
+CS,Capela do Socorro,03-04-23,0.0
+IP,Ipiranga,03-04-23,0.0
+JA,Jabaquara,03-04-23,0.0
+SA,Santo Amaro,03-04-23,0.0
+VM,Vila Mariana,03-04-23,0.0
+PA,Parelheiros ,03-04-23,0.0
+AD,Cidade Ademar,03-04-23,0.0
+MB,M Boi Mirim,04-04-23,0.0
+CL,Campo Limpo,04-04-23,0.0
+CS,Capela do Socorro,04-04-23,0.0
+IP,Ipiranga,04-04-23,0.0
+JA,Jabaquara,04-04-23,0.0
+SA,Santo Amaro,04-04-23,0.0
+VM,Vila Mariana,04-04-23,0.0
+PA,Parelheiros ,04-04-23,0.0
+AD,Cidade Ademar,04-04-23,0.0
+MB,M Boi Mirim,05-04-23,0.0
+CL,Campo Limpo,05-04-23,0.0
+CS,Capela do Socorro,05-04-23,0.0
+IP,Ipiranga,05-04-23,0.0
+JA,Jabaquara,05-04-23,0.0
+SA,Santo Amaro,05-04-23,0.0
+VM,Vila Mariana,05-04-23,0.0
+PA,Parelheiros ,05-04-23,0.0
+AD,Cidade Ademar,05-04-23,0.0
+MB,M Boi Mirim,06-04-23,0.0
+CL,Campo Limpo,06-04-23,0.0
+CS,Capela do Socorro,06-04-23,0.0
+IP,Ipiranga,06-04-23,0.0
+JA,Jabaquara,06-04-23,0.0
+SA,Santo Amaro,06-04-23,0.0
+VM,Vila Mariana,06-04-23,0.0
+PA,Parelheiros ,06-04-23,0.0
+AD,Cidade Ademar,06-04-23,0.0
+MB,M Boi Mirim,07-04-23,7.5
+CL,Campo Limpo,07-04-23,9.6
+CS,Capela do Socorro,07-04-23,11.9
+IP,Ipiranga,07-04-23,9.1
+JA,Jabaquara,07-04-23,9.9
+SA,Santo Amaro,07-04-23,10.8
+VM,Vila Mariana,07-04-23,8.1
+PA,Parelheiros ,07-04-23,14.8
+AD,Cidade Ademar,07-04-23,12.7
+MB,M Boi Mirim,08-04-23,1.0
+CL,Campo Limpo,08-04-23,0.5
+CS,Capela do Socorro,08-04-23,3.2
+IP,Ipiranga,08-04-23,0.7
+JA,Jabaquara,08-04-23,0.4
+SA,Santo Amaro,08-04-23,0.1
+VM,Vila Mariana,08-04-23,0.6
+PA,Parelheiros ,08-04-23,10.1
+AD,Cidade Ademar,08-04-23,0.5
+MB,M Boi Mirim,09-04-23,0.3
+CL,Campo Limpo,09-04-23,0.2
+CS,Capela do Socorro,09-04-23,1.4
+IP,Ipiranga,09-04-23,0.0
+JA,Jabaquara,09-04-23,0.1
+SA,Santo Amaro,09-04-23,0.0
+VM,Vila Mariana,09-04-23,0.0
+PA,Parelheiros ,09-04-23,1.6
+AD,Cidade Ademar,09-04-23,0.2
+MB,M Boi Mirim,10-04-23,0.0
+CL,Campo Limpo,10-04-23,0.0
+CS,Capela do Socorro,10-04-23,0.0
+IP,Ipiranga,10-04-23,0.0
+JA,Jabaquara,10-04-23,0.0
+SA,Santo Amaro,10-04-23,0.0
+VM,Vila Mariana,10-04-23,0.0
+PA,Parelheiros ,10-04-23,0.0
+AD,Cidade Ademar,10-04-23,0.0
+MB,M Boi Mirim,11-04-23,0.0
+CL,Campo Limpo,11-04-23,0.0
+CS,Capela do Socorro,11-04-23,0.0
+IP,Ipiranga,11-04-23,0.0
+JA,Jabaquara,11-04-23,0.0
+SA,Santo Amaro,11-04-23,0.0
+VM,Vila Mariana,11-04-23,0.0
+PA,Parelheiros ,11-04-23,0.0
+AD,Cidade Ademar,11-04-23,0.0
+MB,M Boi Mirim,12-04-23,0.3
+CL,Campo Limpo,12-04-23,0.4
+CS,Capela do Socorro,12-04-23,0.4
+IP,Ipiranga,12-04-23,0.1
+JA,Jabaquara,12-04-23,0.1
+SA,Santo Amaro,12-04-23,0.0
+VM,Vila Mariana,12-04-23,0.4
+PA,Parelheiros ,12-04-23,6.0
+AD,Cidade Ademar,12-04-23,0.3
+MB,M Boi Mirim,13-04-23,0.2
+CL,Campo Limpo,13-04-23,0.4
+CS,Capela do Socorro,13-04-23,0.3
+IP,Ipiranga,13-04-23,0.7
+JA,Jabaquara,13-04-23,0.3
+SA,Santo Amaro,13-04-23,0.7
+VM,Vila Mariana,13-04-23,1.6
+PA,Parelheiros ,13-04-23,0.2
+AD,Cidade Ademar,13-04-23,0.2
+MB,M Boi Mirim,14-04-23,11.2
+CL,Campo Limpo,14-04-23,14.2
+CS,Capela do Socorro,14-04-23,13.4
+IP,Ipiranga,14-04-23,10.7
+JA,Jabaquara,14-04-23,12.0
+SA,Santo Amaro,14-04-23,12.7
+VM,Vila Mariana,14-04-23,12.2
+PA,Parelheiros ,14-04-23,14.8
+AD,Cidade Ademar,14-04-23,14.7
+MB,M Boi Mirim,15-04-23,1.1
+CL,Campo Limpo,15-04-23,1.4
+CS,Capela do Socorro,15-04-23,3.8
+IP,Ipiranga,15-04-23,4.2
+JA,Jabaquara,15-04-23,3.3
+SA,Santo Amaro,15-04-23,1.7999999999999998
+VM,Vila Mariana,15-04-23,2.8000000000000003
+PA,Parelheiros ,15-04-23,10.2
+AD,Cidade Ademar,15-04-23,4.4
+MB,M Boi Mirim,16-04-23,0.0
+CL,Campo Limpo,16-04-23,0.0
+CS,Capela do Socorro,16-04-23,0.0
+IP,Ipiranga,16-04-23,0.0
+JA,Jabaquara,16-04-23,0.0
+SA,Santo Amaro,16-04-23,0.0
+VM,Vila Mariana,16-04-23,0.0
+PA,Parelheiros ,16-04-23,0.0
+AD,Cidade Ademar,16-04-23,0.0
+MB,M Boi Mirim,17-04-23,1.5
+CL,Campo Limpo,17-04-23,1.8
+CS,Capela do Socorro,17-04-23,2.4
+IP,Ipiranga,17-04-23,2.4
+JA,Jabaquara,17-04-23,2.2
+SA,Santo Amaro,17-04-23,1.7
+VM,Vila Mariana,17-04-23,2.2
+PA,Parelheiros ,17-04-23,1.3
+AD,Cidade Ademar,17-04-23,2.2
+MB,M Boi Mirim,18-04-23,32.400000000000006
+CL,Campo Limpo,18-04-23,39.5
+CS,Capela do Socorro,18-04-23,47.2
+IP,Ipiranga,18-04-23,35.099999999999994
+JA,Jabaquara,18-04-23,41.400000000000006
+SA,Santo Amaro,18-04-23,43.3
+VM,Vila Mariana,18-04-23,39.900000000000006
+PA,Parelheiros ,18-04-23,35.2
+AD,Cidade Ademar,18-04-23,49.400000000000006
+MB,M Boi Mirim,19-04-23,1.2
+CL,Campo Limpo,19-04-23,1.7
+CS,Capela do Socorro,19-04-23,0.6
+IP,Ipiranga,19-04-23,0.7
+JA,Jabaquara,19-04-23,0.6
+SA,Santo Amaro,19-04-23,0.6
+VM,Vila Mariana,19-04-23,1.0
+PA,Parelheiros ,19-04-23,0.1
+AD,Cidade Ademar,19-04-23,0.7
+MB,M Boi Mirim,20-04-23,0.0
+CL,Campo Limpo,20-04-23,0.0
+CS,Capela do Socorro,20-04-23,0.0
+IP,Ipiranga,20-04-23,0.0
+JA,Jabaquara,20-04-23,0.0
+SA,Santo Amaro,20-04-23,0.0
+VM,Vila Mariana,20-04-23,0.0
+PA,Parelheiros ,20-04-23,0.0
+AD,Cidade Ademar,20-04-23,0.0
+MB,M Boi Mirim,21-04-23,0.0
+CL,Campo Limpo,21-04-23,0.0
+CS,Capela do Socorro,21-04-23,0.0
+IP,Ipiranga,21-04-23,0.0
+JA,Jabaquara,21-04-23,0.0
+SA,Santo Amaro,21-04-23,0.0
+VM,Vila Mariana,21-04-23,0.0
+PA,Parelheiros ,21-04-23,0.0
+AD,Cidade Ademar,21-04-23,0.0
+MB,M Boi Mirim,22-04-23,0.0
+CL,Campo Limpo,22-04-23,0.0
+CS,Capela do Socorro,22-04-23,0.0
+IP,Ipiranga,22-04-23,0.0
+JA,Jabaquara,22-04-23,0.0
+SA,Santo Amaro,22-04-23,0.0
+VM,Vila Mariana,22-04-23,0.0
+PA,Parelheiros ,22-04-23,0.0
+AD,Cidade Ademar,22-04-23,0.0
+MB,M Boi Mirim,23-04-23,0.0
+CL,Campo Limpo,23-04-23,0.0
+CS,Capela do Socorro,23-04-23,0.0
+IP,Ipiranga,23-04-23,0.0
+JA,Jabaquara,23-04-23,0.0
+SA,Santo Amaro,23-04-23,0.0
+VM,Vila Mariana,23-04-23,0.0
+PA,Parelheiros ,23-04-23,0.0
+AD,Cidade Ademar,23-04-23,0.0
+MB,M Boi Mirim,24-04-23,0.0
+CL,Campo Limpo,24-04-23,0.0
+CS,Capela do Socorro,24-04-23,0.0
+IP,Ipiranga,24-04-23,0.0
+JA,Jabaquara,24-04-23,0.0
+SA,Santo Amaro,24-04-23,0.0
+VM,Vila Mariana,24-04-23,0.0
+PA,Parelheiros ,24-04-23,0.0
+AD,Cidade Ademar,24-04-23,0.0
+MB,M Boi Mirim,25-04-23,0.0
+CL,Campo Limpo,25-04-23,0.0
+CS,Capela do Socorro,25-04-23,0.0
+IP,Ipiranga,25-04-23,0.0
+JA,Jabaquara,25-04-23,0.0
+SA,Santo Amaro,25-04-23,0.0
+VM,Vila Mariana,25-04-23,0.0
+PA,Parelheiros ,25-04-23,0.0
+AD,Cidade Ademar,25-04-23,0.0
+MB,M Boi Mirim,26-04-23,0.3
+CL,Campo Limpo,26-04-23,0.1
+CS,Capela do Socorro,26-04-23,0.2
+IP,Ipiranga,26-04-23,0.4
+JA,Jabaquara,26-04-23,0.2
+SA,Santo Amaro,26-04-23,0.1
+VM,Vila Mariana,26-04-23,0.2
+PA,Parelheiros ,26-04-23,0.5
+AD,Cidade Ademar,26-04-23,0.1
+MB,M Boi Mirim,27-04-23,4.6
+CL,Campo Limpo,27-04-23,3.3000000000000003
+CS,Capela do Socorro,27-04-23,2.5
+IP,Ipiranga,27-04-23,1.4
+JA,Jabaquara,27-04-23,1.4
+SA,Santo Amaro,27-04-23,2.2
+VM,Vila Mariana,27-04-23,1.7
+PA,Parelheiros ,27-04-23,2.9
+AD,Cidade Ademar,27-04-23,2.1
+MB,M Boi Mirim,28-04-23,1.2000000000000002
+CL,Campo Limpo,28-04-23,1.1
+CS,Capela do Socorro,28-04-23,0.5
+IP,Ipiranga,28-04-23,0.8999999999999999
+JA,Jabaquara,28-04-23,0.7
+SA,Santo Amaro,28-04-23,0.7
+VM,Vila Mariana,28-04-23,0.8
+PA,Parelheiros ,28-04-23,1.8
+AD,Cidade Ademar,28-04-23,0.6
+MB,M Boi Mirim,29-04-23,0.8
+CL,Campo Limpo,29-04-23,1.4
+CS,Capela do Socorro,29-04-23,0.4
+IP,Ipiranga,29-04-23,0.8
+JA,Jabaquara,29-04-23,1.4
+SA,Santo Amaro,29-04-23,1.1
+VM,Vila Mariana,29-04-23,0.6
+PA,Parelheiros ,29-04-23,2.4
+AD,Cidade Ademar,29-04-23,1.0
+MB,M Boi Mirim,30-04-23,0.0
+CL,Campo Limpo,30-04-23,0.0
+CS,Capela do Socorro,30-04-23,0.0
+IP,Ipiranga,30-04-23,0.0
+JA,Jabaquara,30-04-23,0.0
+SA,Santo Amaro,30-04-23,0.0
+VM,Vila Mariana,30-04-23,0.0
+PA,Parelheiros ,30-04-23,0.0
+AD,Cidade Ademar,30-04-23,0.0
+MB,M Boi Mirim,01-05-23,1.0
+CL,Campo Limpo,01-05-23,0.2
+CS,Capela do Socorro,01-05-23,0.0
+IP,Ipiranga,01-05-23,0.0
+JA,Jabaquara,01-05-23,0.0
+SA,Santo Amaro,01-05-23,0.0
+VM,Vila Mariana,01-05-23,0.0
+PA,Parelheiros ,01-05-23,0.1
+AD,Cidade Ademar,01-05-23,0.0
+MB,M Boi Mirim,02-05-23,0.2
+CL,Campo Limpo,02-05-23,1.8
+CS,Capela do Socorro,02-05-23,0.2
+IP,Ipiranga,02-05-23,0.0
+JA,Jabaquara,02-05-23,0.0
+SA,Santo Amaro,02-05-23,0.1
+VM,Vila Mariana,02-05-23,0.1
+PA,Parelheiros ,02-05-23,0.2
+AD,Cidade Ademar,02-05-23,0.0
+MB,M Boi Mirim,03-05-23,0.0
+CL,Campo Limpo,03-05-23,0.0
+CS,Capela do Socorro,03-05-23,0.0
+IP,Ipiranga,03-05-23,0.0
+JA,Jabaquara,03-05-23,0.0
+SA,Santo Amaro,03-05-23,0.0
+VM,Vila Mariana,03-05-23,0.0
+PA,Parelheiros ,03-05-23,0.0
+AD,Cidade Ademar,03-05-23,0.0
+MB,M Boi Mirim,04-05-23,0.0
+CL,Campo Limpo,04-05-23,0.0
+CS,Capela do Socorro,04-05-23,0.0
+IP,Ipiranga,04-05-23,0.0
+JA,Jabaquara,04-05-23,0.0
+SA,Santo Amaro,04-05-23,0.0
+VM,Vila Mariana,04-05-23,0.0
+PA,Parelheiros ,04-05-23,0.0
+AD,Cidade Ademar,04-05-23,0.0
+MB,M Boi Mirim,05-05-23,0.0
+CL,Campo Limpo,05-05-23,0.0
+CS,Capela do Socorro,05-05-23,0.0
+IP,Ipiranga,05-05-23,0.0
+JA,Jabaquara,05-05-23,0.0
+SA,Santo Amaro,05-05-23,0.0
+VM,Vila Mariana,05-05-23,0.0
+PA,Parelheiros ,05-05-23,0.0
+AD,Cidade Ademar,05-05-23,0.0
+MB,M Boi Mirim,06-05-23,0.0
+CL,Campo Limpo,06-05-23,0.0
+CS,Capela do Socorro,06-05-23,0.0
+IP,Ipiranga,06-05-23,0.0
+JA,Jabaquara,06-05-23,0.0
+SA,Santo Amaro,06-05-23,0.0
+VM,Vila Mariana,06-05-23,0.0
+PA,Parelheiros ,06-05-23,0.0
+AD,Cidade Ademar,06-05-23,0.0
+MB,M Boi Mirim,07-05-23,0.0
+CL,Campo Limpo,07-05-23,0.0
+CS,Capela do Socorro,07-05-23,0.0
+IP,Ipiranga,07-05-23,0.0
+JA,Jabaquara,07-05-23,0.0
+SA,Santo Amaro,07-05-23,0.0
+VM,Vila Mariana,07-05-23,0.0
+PA,Parelheiros ,07-05-23,0.0
+AD,Cidade Ademar,07-05-23,0.0
+MB,M Boi Mirim,08-05-23,0.0
+CL,Campo Limpo,08-05-23,0.0
+CS,Capela do Socorro,08-05-23,0.0
+IP,Ipiranga,08-05-23,0.0
+JA,Jabaquara,08-05-23,0.0
+SA,Santo Amaro,08-05-23,0.0
+VM,Vila Mariana,08-05-23,0.0
+PA,Parelheiros ,08-05-23,0.0
+AD,Cidade Ademar,08-05-23,0.0
+MB,M Boi Mirim,09-05-23,1.2
+CL,Campo Limpo,09-05-23,0.7
+CS,Capela do Socorro,09-05-23,3.0
+IP,Ipiranga,09-05-23,0.1
+JA,Jabaquara,09-05-23,0.5
+SA,Santo Amaro,09-05-23,1.0
+VM,Vila Mariana,09-05-23,0.0
+PA,Parelheiros ,09-05-23,14.4
+AD,Cidade Ademar,09-05-23,2.1
+MB,M Boi Mirim,10-05-23,1.3
+CL,Campo Limpo,10-05-23,2.1
+CS,Capela do Socorro,10-05-23,0.7999999999999999
+IP,Ipiranga,10-05-23,9.3
+JA,Jabaquara,10-05-23,2.7
+SA,Santo Amaro,10-05-23,1.6
+VM,Vila Mariana,10-05-23,8.0
+PA,Parelheiros ,10-05-23,7.6
+AD,Cidade Ademar,10-05-23,1.7
+MB,M Boi Mirim,11-05-23,0.0
+CL,Campo Limpo,11-05-23,0.0
+CS,Capela do Socorro,11-05-23,0.0
+IP,Ipiranga,11-05-23,0.0
+JA,Jabaquara,11-05-23,0.0
+SA,Santo Amaro,11-05-23,0.0
+VM,Vila Mariana,11-05-23,0.0
+PA,Parelheiros ,11-05-23,0.0
+AD,Cidade Ademar,11-05-23,0.0
+MB,M Boi Mirim,12-05-23,0.1
+CL,Campo Limpo,12-05-23,0.0
+CS,Capela do Socorro,12-05-23,0.5
+IP,Ipiranga,12-05-23,0.6
+JA,Jabaquara,12-05-23,0.5
+SA,Santo Amaro,12-05-23,0.0
+VM,Vila Mariana,12-05-23,0.1
+PA,Parelheiros ,12-05-23,3.3
+AD,Cidade Ademar,12-05-23,0.6
+MB,M Boi Mirim,13-05-23,0.1
+CL,Campo Limpo,13-05-23,0.0
+CS,Capela do Socorro,13-05-23,0.1
+IP,Ipiranga,13-05-23,0.3
+JA,Jabaquara,13-05-23,0.3
+SA,Santo Amaro,13-05-23,0.0
+VM,Vila Mariana,13-05-23,0.2
+PA,Parelheiros ,13-05-23,1.1
+AD,Cidade Ademar,13-05-23,0.4
+MB,M Boi Mirim,14-05-23,0.0
+CL,Campo Limpo,14-05-23,0.0
+CS,Capela do Socorro,14-05-23,0.0
+IP,Ipiranga,14-05-23,0.0
+JA,Jabaquara,14-05-23,0.0
+SA,Santo Amaro,14-05-23,0.0
+VM,Vila Mariana,14-05-23,0.0
+PA,Parelheiros ,14-05-23,0.0
+AD,Cidade Ademar,14-05-23,0.0
+MB,M Boi Mirim,15-05-23,0.0
+CL,Campo Limpo,15-05-23,0.0
+CS,Capela do Socorro,15-05-23,0.0
+IP,Ipiranga,15-05-23,0.0
+JA,Jabaquara,15-05-23,0.0
+SA,Santo Amaro,15-05-23,0.0
+VM,Vila Mariana,15-05-23,0.0
+PA,Parelheiros ,15-05-23,0.0
+AD,Cidade Ademar,15-05-23,0.0
+MB,M Boi Mirim,16-05-23,0.0
+CL,Campo Limpo,16-05-23,0.0
+CS,Capela do Socorro,16-05-23,0.0
+IP,Ipiranga,16-05-23,0.0
+JA,Jabaquara,16-05-23,0.0
+SA,Santo Amaro,16-05-23,0.0
+VM,Vila Mariana,16-05-23,0.0
+PA,Parelheiros ,16-05-23,0.0
+AD,Cidade Ademar,16-05-23,0.0
+MB,M Boi Mirim,17-05-23,0.0
+CL,Campo Limpo,17-05-23,0.0
+CS,Capela do Socorro,17-05-23,0.0
+IP,Ipiranga,17-05-23,0.0
+JA,Jabaquara,17-05-23,0.0
+SA,Santo Amaro,17-05-23,0.0
+VM,Vila Mariana,17-05-23,0.0
+PA,Parelheiros ,17-05-23,0.0
+AD,Cidade Ademar,17-05-23,0.0
+MB,M Boi Mirim,18-05-23,0.0
+CL,Campo Limpo,18-05-23,0.0
+CS,Capela do Socorro,18-05-23,0.0
+IP,Ipiranga,18-05-23,0.0
+JA,Jabaquara,18-05-23,0.0
+SA,Santo Amaro,18-05-23,0.0
+VM,Vila Mariana,18-05-23,0.0
+PA,Parelheiros ,18-05-23,0.0
+AD,Cidade Ademar,18-05-23,0.0
+MB,M Boi Mirim,19-05-23,0.0
+CL,Campo Limpo,19-05-23,0.0
+CS,Capela do Socorro,19-05-23,0.0
+IP,Ipiranga,19-05-23,0.0
+JA,Jabaquara,19-05-23,0.0
+SA,Santo Amaro,19-05-23,0.0
+VM,Vila Mariana,19-05-23,0.0
+PA,Parelheiros ,19-05-23,0.0
+AD,Cidade Ademar,19-05-23,0.0
+MB,M Boi Mirim,20-05-23,0.0
+CL,Campo Limpo,20-05-23,0.0
+CS,Capela do Socorro,20-05-23,0.0
+IP,Ipiranga,20-05-23,0.0
+JA,Jabaquara,20-05-23,0.0
+SA,Santo Amaro,20-05-23,0.0
+VM,Vila Mariana,20-05-23,0.0
+PA,Parelheiros ,20-05-23,0.0
+AD,Cidade Ademar,20-05-23,0.0
+MB,M Boi Mirim,21-05-23,0.0
+CL,Campo Limpo,21-05-23,0.0
+CS,Capela do Socorro,21-05-23,0.0
+IP,Ipiranga,21-05-23,0.0
+JA,Jabaquara,21-05-23,0.0
+SA,Santo Amaro,21-05-23,0.0
+VM,Vila Mariana,21-05-23,0.0
+PA,Parelheiros ,21-05-23,0.0
+AD,Cidade Ademar,21-05-23,0.0
+MB,M Boi Mirim,22-05-23,0.0
+CL,Campo Limpo,22-05-23,0.0
+CS,Capela do Socorro,22-05-23,0.0
+IP,Ipiranga,22-05-23,0.0
+JA,Jabaquara,22-05-23,0.0
+SA,Santo Amaro,22-05-23,0.0
+VM,Vila Mariana,22-05-23,0.0
+PA,Parelheiros ,22-05-23,0.0
+AD,Cidade Ademar,22-05-23,0.0
+MB,M Boi Mirim,23-05-23,0.0
+CL,Campo Limpo,23-05-23,0.0
+CS,Capela do Socorro,23-05-23,0.0
+IP,Ipiranga,23-05-23,0.0
+JA,Jabaquara,23-05-23,0.0
+SA,Santo Amaro,23-05-23,0.0
+VM,Vila Mariana,23-05-23,0.0
+PA,Parelheiros ,23-05-23,0.0
+AD,Cidade Ademar,23-05-23,0.0
+MB,M Boi Mirim,24-05-23,0.0
+CL,Campo Limpo,24-05-23,0.0
+CS,Capela do Socorro,24-05-23,0.0
+IP,Ipiranga,24-05-23,0.0
+JA,Jabaquara,24-05-23,0.0
+SA,Santo Amaro,24-05-23,0.0
+VM,Vila Mariana,24-05-23,0.0
+PA,Parelheiros ,24-05-23,0.0
+AD,Cidade Ademar,24-05-23,0.0
+MB,M Boi Mirim,25-05-23,0.0
+CL,Campo Limpo,25-05-23,0.0
+CS,Capela do Socorro,25-05-23,0.0
+IP,Ipiranga,25-05-23,0.0
+JA,Jabaquara,25-05-23,0.0
+SA,Santo Amaro,25-05-23,0.0
+VM,Vila Mariana,25-05-23,0.0
+PA,Parelheiros ,25-05-23,0.0
+AD,Cidade Ademar,25-05-23,0.0
+MB,M Boi Mirim,26-05-23,0.0
+CL,Campo Limpo,26-05-23,0.0
+CS,Capela do Socorro,26-05-23,0.0
+IP,Ipiranga,26-05-23,0.0
+JA,Jabaquara,26-05-23,0.0
+SA,Santo Amaro,26-05-23,0.0
+VM,Vila Mariana,26-05-23,0.0
+PA,Parelheiros ,26-05-23,0.0
+AD,Cidade Ademar,26-05-23,0.0
+MB,M Boi Mirim,27-05-23,0.0
+CL,Campo Limpo,27-05-23,0.0
+CS,Capela do Socorro,27-05-23,0.0
+IP,Ipiranga,27-05-23,0.0
+JA,Jabaquara,27-05-23,0.0
+SA,Santo Amaro,27-05-23,0.0
+VM,Vila Mariana,27-05-23,0.0
+PA,Parelheiros ,27-05-23,0.0
+AD,Cidade Ademar,27-05-23,0.0
+MB,M Boi Mirim,28-05-23,3.1
+CL,Campo Limpo,28-05-23,4.5
+CS,Capela do Socorro,28-05-23,2.8
+IP,Ipiranga,28-05-23,2.9
+JA,Jabaquara,28-05-23,3.3000000000000003
+SA,Santo Amaro,28-05-23,3.1
+VM,Vila Mariana,28-05-23,3.8
+PA,Parelheiros ,28-05-23,7.9
+AD,Cidade Ademar,28-05-23,2.6
+MB,M Boi Mirim,29-05-23,0.7
+CL,Campo Limpo,29-05-23,0.6000000000000001
+CS,Capela do Socorro,29-05-23,1.2
+IP,Ipiranga,29-05-23,0.2
+JA,Jabaquara,29-05-23,0.7
+SA,Santo Amaro,29-05-23,1.0
+VM,Vila Mariana,29-05-23,0.2
+PA,Parelheiros ,29-05-23,6.8
+AD,Cidade Ademar,29-05-23,1.3
+MB,M Boi Mirim,30-05-23,0.4
+CL,Campo Limpo,30-05-23,0.4
+CS,Capela do Socorro,30-05-23,0.5
+IP,Ipiranga,30-05-23,0.1
+JA,Jabaquara,30-05-23,0.1
+SA,Santo Amaro,30-05-23,0.2
+VM,Vila Mariana,30-05-23,0.2
+PA,Parelheiros ,30-05-23,1.9
+AD,Cidade Ademar,30-05-23,0.3
+MB,M Boi Mirim,31-05-23,36.4
+CL,Campo Limpo,31-05-23,33.8
+CS,Capela do Socorro,31-05-23,28.6
+IP,Ipiranga,31-05-23,28.0
+JA,Jabaquara,31-05-23,28.7
+SA,Santo Amaro,31-05-23,27.9
+VM,Vila Mariana,31-05-23,28.2
+PA,Parelheiros ,31-05-23,26.9
+AD,Cidade Ademar,31-05-23,33.2
+MB,M Boi Mirim,01-06-23,0.1
+CL,Campo Limpo,01-06-23,0.4
+CS,Capela do Socorro,01-06-23,0.8
+IP,Ipiranga,01-06-23,0.6
+JA,Jabaquara,01-06-23,0.8
+SA,Santo Amaro,01-06-23,0.7
+VM,Vila Mariana,01-06-23,0.6
+PA,Parelheiros ,01-06-23,1.6
+AD,Cidade Ademar,01-06-23,0.9
+MB,M Boi Mirim,02-06-23,0.0
+CL,Campo Limpo,02-06-23,0.0
+CS,Capela do Socorro,02-06-23,0.0
+IP,Ipiranga,02-06-23,0.0
+JA,Jabaquara,02-06-23,0.0
+SA,Santo Amaro,02-06-23,0.0
+VM,Vila Mariana,02-06-23,0.0
+PA,Parelheiros ,02-06-23,0.0
+AD,Cidade Ademar,02-06-23,0.0
+MB,M Boi Mirim,03-06-23,0.0
+CL,Campo Limpo,03-06-23,0.0
+CS,Capela do Socorro,03-06-23,0.0
+IP,Ipiranga,03-06-23,0.0
+JA,Jabaquara,03-06-23,0.0
+SA,Santo Amaro,03-06-23,0.0
+VM,Vila Mariana,03-06-23,0.0
+PA,Parelheiros ,03-06-23,0.0
+AD,Cidade Ademar,03-06-23,0.0
+MB,M Boi Mirim,04-06-23,0.0
+CL,Campo Limpo,04-06-23,0.0
+CS,Capela do Socorro,04-06-23,0.0
+IP,Ipiranga,04-06-23,0.0
+JA,Jabaquara,04-06-23,0.0
+SA,Santo Amaro,04-06-23,0.0
+VM,Vila Mariana,04-06-23,0.0
+PA,Parelheiros ,04-06-23,0.0
+AD,Cidade Ademar,04-06-23,0.0
+MB,M Boi Mirim,05-06-23,0.0
+CL,Campo Limpo,05-06-23,0.0
+CS,Capela do Socorro,05-06-23,0.0
+IP,Ipiranga,05-06-23,0.0
+JA,Jabaquara,05-06-23,0.0
+SA,Santo Amaro,05-06-23,0.0
+VM,Vila Mariana,05-06-23,0.0
+PA,Parelheiros ,05-06-23,0.0
+AD,Cidade Ademar,05-06-23,0.0
+MB,M Boi Mirim,06-06-23,0.0
+CL,Campo Limpo,06-06-23,0.0
+CS,Capela do Socorro,06-06-23,0.0
+IP,Ipiranga,06-06-23,0.0
+JA,Jabaquara,06-06-23,0.0
+SA,Santo Amaro,06-06-23,0.0
+VM,Vila Mariana,06-06-23,0.0
+PA,Parelheiros ,06-06-23,0.0
+AD,Cidade Ademar,06-06-23,0.0
+MB,M Boi Mirim,07-06-23,0.0
+CL,Campo Limpo,07-06-23,0.0
+CS,Capela do Socorro,07-06-23,0.0
+IP,Ipiranga,07-06-23,0.0
+JA,Jabaquara,07-06-23,0.0
+SA,Santo Amaro,07-06-23,0.0
+VM,Vila Mariana,07-06-23,0.0
+PA,Parelheiros ,07-06-23,0.0
+AD,Cidade Ademar,07-06-23,0.0
+MB,M Boi Mirim,08-06-23,0.0
+CL,Campo Limpo,08-06-23,0.0
+CS,Capela do Socorro,08-06-23,0.0
+IP,Ipiranga,08-06-23,0.0
+JA,Jabaquara,08-06-23,0.0
+SA,Santo Amaro,08-06-23,0.0
+VM,Vila Mariana,08-06-23,0.0
+PA,Parelheiros ,08-06-23,0.0
+AD,Cidade Ademar,08-06-23,0.0
+MB,M Boi Mirim,09-06-23,0.0
+CL,Campo Limpo,09-06-23,0.0
+CS,Capela do Socorro,09-06-23,0.0
+IP,Ipiranga,09-06-23,0.0
+JA,Jabaquara,09-06-23,0.0
+SA,Santo Amaro,09-06-23,0.0
+VM,Vila Mariana,09-06-23,0.0
+PA,Parelheiros ,09-06-23,0.0
+AD,Cidade Ademar,09-06-23,0.0
+MB,M Boi Mirim,10-06-23,0.0
+CL,Campo Limpo,10-06-23,0.0
+CS,Capela do Socorro,10-06-23,0.0
+IP,Ipiranga,10-06-23,0.0
+JA,Jabaquara,10-06-23,0.0
+SA,Santo Amaro,10-06-23,0.0
+VM,Vila Mariana,10-06-23,0.0
+PA,Parelheiros ,10-06-23,0.0
+AD,Cidade Ademar,10-06-23,0.0
+MB,M Boi Mirim,11-06-23,0.0
+CL,Campo Limpo,11-06-23,0.0
+CS,Capela do Socorro,11-06-23,0.0
+IP,Ipiranga,11-06-23,0.0
+JA,Jabaquara,11-06-23,0.0
+SA,Santo Amaro,11-06-23,0.0
+VM,Vila Mariana,11-06-23,0.0
+PA,Parelheiros ,11-06-23,0.0
+AD,Cidade Ademar,11-06-23,0.0
+MB,M Boi Mirim,12-06-23,0.0
+CL,Campo Limpo,12-06-23,0.0
+CS,Capela do Socorro,12-06-23,0.0
+IP,Ipiranga,12-06-23,0.0
+JA,Jabaquara,12-06-23,0.0
+SA,Santo Amaro,12-06-23,0.0
+VM,Vila Mariana,12-06-23,0.0
+PA,Parelheiros ,12-06-23,0.0
+AD,Cidade Ademar,12-06-23,0.0
+MB,M Boi Mirim,13-06-23,0.9
+CL,Campo Limpo,13-06-23,0.6
+CS,Capela do Socorro,13-06-23,0.8
+IP,Ipiranga,13-06-23,0.2
+JA,Jabaquara,13-06-23,0.7999999999999999
+SA,Santo Amaro,13-06-23,0.2
+VM,Vila Mariana,13-06-23,0.1
+PA,Parelheiros ,13-06-23,9.1
+AD,Cidade Ademar,13-06-23,0.3
+MB,M Boi Mirim,14-06-23,13.3
+CL,Campo Limpo,14-06-23,14.0
+CS,Capela do Socorro,14-06-23,11.400000000000002
+IP,Ipiranga,14-06-23,12.7
+JA,Jabaquara,14-06-23,11.900000000000002
+SA,Santo Amaro,14-06-23,11.0
+VM,Vila Mariana,14-06-23,13.4
+PA,Parelheiros ,14-06-23,13.2
+AD,Cidade Ademar,14-06-23,12.9
+MB,M Boi Mirim,15-06-23,10.0
+CL,Campo Limpo,15-06-23,9.8
+CS,Capela do Socorro,15-06-23,8.2
+IP,Ipiranga,15-06-23,6.8
+JA,Jabaquara,15-06-23,7.1
+SA,Santo Amaro,15-06-23,7.4
+VM,Vila Mariana,15-06-23,7.6
+PA,Parelheiros ,15-06-23,9.8
+AD,Cidade Ademar,15-06-23,8.200000000000001
+MB,M Boi Mirim,16-06-23,0.2
+CL,Campo Limpo,16-06-23,0.2
+CS,Capela do Socorro,16-06-23,0.1
+IP,Ipiranga,16-06-23,0.3
+JA,Jabaquara,16-06-23,0.1
+SA,Santo Amaro,16-06-23,0.1
+VM,Vila Mariana,16-06-23,0.4
+PA,Parelheiros ,16-06-23,0.1
+AD,Cidade Ademar,16-06-23,0.2
+MB,M Boi Mirim,17-06-23,0.0
+CL,Campo Limpo,17-06-23,0.0
+CS,Capela do Socorro,17-06-23,0.0
+IP,Ipiranga,17-06-23,0.0
+JA,Jabaquara,17-06-23,0.0
+SA,Santo Amaro,17-06-23,0.0
+VM,Vila Mariana,17-06-23,0.0
+PA,Parelheiros ,17-06-23,0.0
+AD,Cidade Ademar,17-06-23,0.0
+MB,M Boi Mirim,18-06-23,0.0
+CL,Campo Limpo,18-06-23,0.0
+CS,Capela do Socorro,18-06-23,0.0
+IP,Ipiranga,18-06-23,0.0
+JA,Jabaquara,18-06-23,0.0
+SA,Santo Amaro,18-06-23,0.0
+VM,Vila Mariana,18-06-23,0.0
+PA,Parelheiros ,18-06-23,0.0
+AD,Cidade Ademar,18-06-23,0.0
+MB,M Boi Mirim,19-06-23,0.0
+CL,Campo Limpo,19-06-23,0.0
+CS,Capela do Socorro,19-06-23,0.0
+IP,Ipiranga,19-06-23,0.0
+JA,Jabaquara,19-06-23,0.0
+SA,Santo Amaro,19-06-23,0.0
+VM,Vila Mariana,19-06-23,0.0
+PA,Parelheiros ,19-06-23,0.0
+AD,Cidade Ademar,19-06-23,0.0
+MB,M Boi Mirim,20-06-23,0.0
+CL,Campo Limpo,20-06-23,0.0
+CS,Capela do Socorro,20-06-23,0.0
+IP,Ipiranga,20-06-23,0.0
+JA,Jabaquara,20-06-23,0.0
+SA,Santo Amaro,20-06-23,0.0
+VM,Vila Mariana,20-06-23,0.0
+PA,Parelheiros ,20-06-23,0.0
+AD,Cidade Ademar,20-06-23,0.0
+MB,M Boi Mirim,21-06-23,0.0
+CL,Campo Limpo,21-06-23,0.0
+CS,Capela do Socorro,21-06-23,0.0
+IP,Ipiranga,21-06-23,0.0
+JA,Jabaquara,21-06-23,0.0
+SA,Santo Amaro,21-06-23,0.0
+VM,Vila Mariana,21-06-23,0.0
+PA,Parelheiros ,21-06-23,0.0
+AD,Cidade Ademar,21-06-23,0.0
+MB,M Boi Mirim,22-06-23,0.0
+CL,Campo Limpo,22-06-23,0.0
+CS,Capela do Socorro,22-06-23,0.0
+IP,Ipiranga,22-06-23,0.0
+JA,Jabaquara,22-06-23,0.0
+SA,Santo Amaro,22-06-23,0.0
+VM,Vila Mariana,22-06-23,0.0
+PA,Parelheiros ,22-06-23,0.0
+AD,Cidade Ademar,22-06-23,0.0
+MB,M Boi Mirim,23-06-23,0.0
+CL,Campo Limpo,23-06-23,0.0
+CS,Capela do Socorro,23-06-23,0.0
+IP,Ipiranga,23-06-23,0.0
+JA,Jabaquara,23-06-23,0.0
+SA,Santo Amaro,23-06-23,0.0
+VM,Vila Mariana,23-06-23,0.0
+PA,Parelheiros ,23-06-23,0.0
+AD,Cidade Ademar,23-06-23,0.0
+MB,M Boi Mirim,24-06-23,0.0
+CL,Campo Limpo,24-06-23,0.0
+CS,Capela do Socorro,24-06-23,0.0
+IP,Ipiranga,24-06-23,0.0
+JA,Jabaquara,24-06-23,0.0
+SA,Santo Amaro,24-06-23,0.0
+VM,Vila Mariana,24-06-23,0.0
+PA,Parelheiros ,24-06-23,0.0
+AD,Cidade Ademar,24-06-23,0.0
+MB,M Boi Mirim,25-06-23,0.0
+CL,Campo Limpo,25-06-23,0.0
+CS,Capela do Socorro,25-06-23,0.0
+IP,Ipiranga,25-06-23,0.0
+JA,Jabaquara,25-06-23,0.0
+SA,Santo Amaro,25-06-23,0.0
+VM,Vila Mariana,25-06-23,0.0
+PA,Parelheiros ,25-06-23,0.0
+AD,Cidade Ademar,25-06-23,0.0
+MB,M Boi Mirim,26-06-23,0.0
+CL,Campo Limpo,26-06-23,0.0
+CS,Capela do Socorro,26-06-23,0.0
+IP,Ipiranga,26-06-23,0.0
+JA,Jabaquara,26-06-23,0.0
+SA,Santo Amaro,26-06-23,0.0
+VM,Vila Mariana,26-06-23,0.0
+PA,Parelheiros ,26-06-23,0.0
+AD,Cidade Ademar,26-06-23,0.0
+MB,M Boi Mirim,27-06-23,0.0
+CL,Campo Limpo,27-06-23,0.0
+CS,Capela do Socorro,27-06-23,0.0
+IP,Ipiranga,27-06-23,0.0
+JA,Jabaquara,27-06-23,0.0
+SA,Santo Amaro,27-06-23,0.0
+VM,Vila Mariana,27-06-23,0.0
+PA,Parelheiros ,27-06-23,0.0
+AD,Cidade Ademar,27-06-23,0.0
+MB,M Boi Mirim,28-06-23,0.0
+CL,Campo Limpo,28-06-23,0.0
+CS,Capela do Socorro,28-06-23,0.0
+IP,Ipiranga,28-06-23,0.0
+JA,Jabaquara,28-06-23,0.0
+SA,Santo Amaro,28-06-23,0.0
+VM,Vila Mariana,28-06-23,0.0
+PA,Parelheiros ,28-06-23,0.0
+AD,Cidade Ademar,28-06-23,0.0
+MB,M Boi Mirim,29-06-23,3.5
+CL,Campo Limpo,29-06-23,2.5
+CS,Capela do Socorro,29-06-23,4.4
+IP,Ipiranga,29-06-23,2.4
+JA,Jabaquara,29-06-23,2.3
+SA,Santo Amaro,29-06-23,2.2
+VM,Vila Mariana,29-06-23,3.0
+PA,Parelheiros ,29-06-23,11.9
+AD,Cidade Ademar,29-06-23,3.3000000000000003
+MB,M Boi Mirim,30-06-23,0.2
+CL,Campo Limpo,30-06-23,0.4
+CS,Capela do Socorro,30-06-23,0.5
+IP,Ipiranga,30-06-23,0.3
+JA,Jabaquara,30-06-23,0.3
+SA,Santo Amaro,30-06-23,0.2
+VM,Vila Mariana,30-06-23,0.4
+PA,Parelheiros ,30-06-23,2.1
+AD,Cidade Ademar,30-06-23,0.3
+MB,M Boi Mirim,01-07-23,0.0
+CL,Campo Limpo,01-07-23,0.0
+CS,Capela do Socorro,01-07-23,0.0
+IP,Ipiranga,01-07-23,0.0
+JA,Jabaquara,01-07-23,0.0
+SA,Santo Amaro,01-07-23,0.0
+VM,Vila Mariana,01-07-23,0.0
+PA,Parelheiros ,01-07-23,0.0
+AD,Cidade Ademar,01-07-23,0.0
+MB,M Boi Mirim,02-07-23,0.3
+CL,Campo Limpo,02-07-23,0.5
+CS,Capela do Socorro,02-07-23,0.5
+IP,Ipiranga,02-07-23,0.0
+JA,Jabaquara,02-07-23,0.2
+SA,Santo Amaro,02-07-23,0.4
+VM,Vila Mariana,02-07-23,0.1
+PA,Parelheiros ,02-07-23,0.7
+AD,Cidade Ademar,02-07-23,0.3
+MB,M Boi Mirim,03-07-23,0.0
+CL,Campo Limpo,03-07-23,0.0
+CS,Capela do Socorro,03-07-23,0.0
+IP,Ipiranga,03-07-23,0.0
+JA,Jabaquara,03-07-23,0.0
+SA,Santo Amaro,03-07-23,0.0
+VM,Vila Mariana,03-07-23,0.0
+PA,Parelheiros ,03-07-23,0.0
+AD,Cidade Ademar,03-07-23,0.0
+MB,M Boi Mirim,04-07-23,0.0
+CL,Campo Limpo,04-07-23,0.0
+CS,Capela do Socorro,04-07-23,0.0
+IP,Ipiranga,04-07-23,0.0
+JA,Jabaquara,04-07-23,0.0
+SA,Santo Amaro,04-07-23,0.0
+VM,Vila Mariana,04-07-23,0.0
+PA,Parelheiros ,04-07-23,0.0
+AD,Cidade Ademar,04-07-23,0.0
+MB,M Boi Mirim,05-07-23,0.0
+CL,Campo Limpo,05-07-23,0.0
+CS,Capela do Socorro,05-07-23,0.0
+IP,Ipiranga,05-07-23,0.0
+JA,Jabaquara,05-07-23,0.0
+SA,Santo Amaro,05-07-23,0.0
+VM,Vila Mariana,05-07-23,0.0
+PA,Parelheiros ,05-07-23,0.0
+AD,Cidade Ademar,05-07-23,0.0
+MB,M Boi Mirim,06-07-23,0.0
+CL,Campo Limpo,06-07-23,0.0
+CS,Capela do Socorro,06-07-23,0.0
+IP,Ipiranga,06-07-23,0.0
+JA,Jabaquara,06-07-23,0.0
+SA,Santo Amaro,06-07-23,0.0
+VM,Vila Mariana,06-07-23,0.0
+PA,Parelheiros ,06-07-23,0.0
+AD,Cidade Ademar,06-07-23,0.0
+MB,M Boi Mirim,07-07-23,0.0
+CL,Campo Limpo,07-07-23,0.0
+CS,Capela do Socorro,07-07-23,0.1
+IP,Ipiranga,07-07-23,0.0
+JA,Jabaquara,07-07-23,0.0
+SA,Santo Amaro,07-07-23,0.0
+VM,Vila Mariana,07-07-23,0.0
+PA,Parelheiros ,07-07-23,0.0
+AD,Cidade Ademar,07-07-23,0.0
+MB,M Boi Mirim,08-07-23,2.1
+CL,Campo Limpo,08-07-23,1.4
+CS,Capela do Socorro,08-07-23,3.5
+IP,Ipiranga,08-07-23,1.2
+JA,Jabaquara,08-07-23,1.9
+SA,Santo Amaro,08-07-23,1.7
+VM,Vila Mariana,08-07-23,0.9
+PA,Parelheiros ,08-07-23,3.2
+AD,Cidade Ademar,08-07-23,2.4
+MB,M Boi Mirim,09-07-23,4.7
+CL,Campo Limpo,09-07-23,4.1
+CS,Capela do Socorro,09-07-23,5.0
+IP,Ipiranga,09-07-23,3.6
+JA,Jabaquara,09-07-23,4.7
+SA,Santo Amaro,09-07-23,3.8
+VM,Vila Mariana,09-07-23,3.3000000000000003
+PA,Parelheiros ,09-07-23,4.0
+AD,Cidade Ademar,09-07-23,5.0
+MB,M Boi Mirim,10-07-23,1.0
+CL,Campo Limpo,10-07-23,1.7
+CS,Capela do Socorro,10-07-23,1.4
+IP,Ipiranga,10-07-23,0.7
+JA,Jabaquara,10-07-23,0.7
+SA,Santo Amaro,10-07-23,1.0
+VM,Vila Mariana,10-07-23,0.9
+PA,Parelheiros ,10-07-23,2.1
+AD,Cidade Ademar,10-07-23,0.7
+MB,M Boi Mirim,11-07-23,0.0
+CL,Campo Limpo,11-07-23,0.0
+CS,Capela do Socorro,11-07-23,0.0
+IP,Ipiranga,11-07-23,0.0
+JA,Jabaquara,11-07-23,0.0
+SA,Santo Amaro,11-07-23,0.0
+VM,Vila Mariana,11-07-23,0.0
+PA,Parelheiros ,11-07-23,0.0
+AD,Cidade Ademar,11-07-23,0.0
+MB,M Boi Mirim,12-07-23,0.0
+CL,Campo Limpo,12-07-23,0.0
+CS,Capela do Socorro,12-07-23,0.0
+IP,Ipiranga,12-07-23,0.0
+JA,Jabaquara,12-07-23,0.0
+SA,Santo Amaro,12-07-23,0.0
+VM,Vila Mariana,12-07-23,0.0
+PA,Parelheiros ,12-07-23,0.0
+AD,Cidade Ademar,12-07-23,0.0
+MB,M Boi Mirim,13-07-23,0.0
+CL,Campo Limpo,13-07-23,0.0
+CS,Capela do Socorro,13-07-23,0.0
+IP,Ipiranga,13-07-23,0.0
+JA,Jabaquara,13-07-23,0.0
+SA,Santo Amaro,13-07-23,0.0
+VM,Vila Mariana,13-07-23,0.0
+PA,Parelheiros ,13-07-23,0.0
+AD,Cidade Ademar,13-07-23,0.0
+MB,M Boi Mirim,14-07-23,0.0
+CL,Campo Limpo,14-07-23,0.0
+CS,Capela do Socorro,14-07-23,0.0
+IP,Ipiranga,14-07-23,0.0
+JA,Jabaquara,14-07-23,0.0
+SA,Santo Amaro,14-07-23,0.0
+VM,Vila Mariana,14-07-23,0.0
+PA,Parelheiros ,14-07-23,0.0
+AD,Cidade Ademar,14-07-23,0.0
+MB,M Boi Mirim,15-07-23,0.0
+CL,Campo Limpo,15-07-23,0.0
+CS,Capela do Socorro,15-07-23,0.0
+IP,Ipiranga,15-07-23,0.0
+JA,Jabaquara,15-07-23,0.0
+SA,Santo Amaro,15-07-23,0.0
+VM,Vila Mariana,15-07-23,0.0
+PA,Parelheiros ,15-07-23,0.0
+AD,Cidade Ademar,15-07-23,0.0
+MB,M Boi Mirim,16-07-23,0.0
+CL,Campo Limpo,16-07-23,0.0
+CS,Capela do Socorro,16-07-23,0.0
+IP,Ipiranga,16-07-23,0.0
+JA,Jabaquara,16-07-23,0.0
+SA,Santo Amaro,16-07-23,0.0
+VM,Vila Mariana,16-07-23,0.0
+PA,Parelheiros ,16-07-23,0.0
+AD,Cidade Ademar,16-07-23,0.0
+MB,M Boi Mirim,17-07-23,0.0
+CL,Campo Limpo,17-07-23,0.2
+CS,Capela do Socorro,17-07-23,0.1
+IP,Ipiranga,17-07-23,0.2
+JA,Jabaquara,17-07-23,0.2
+SA,Santo Amaro,17-07-23,0.2
+VM,Vila Mariana,17-07-23,0.1
+PA,Parelheiros ,17-07-23,0.1
+AD,Cidade Ademar,17-07-23,0.0
+MB,M Boi Mirim,18-07-23,0.0
+CL,Campo Limpo,18-07-23,0.0
+CS,Capela do Socorro,18-07-23,0.0
+IP,Ipiranga,18-07-23,0.0
+JA,Jabaquara,18-07-23,0.3
+SA,Santo Amaro,18-07-23,0.1
+VM,Vila Mariana,18-07-23,0.0
+PA,Parelheiros ,18-07-23,2.3
+AD,Cidade Ademar,18-07-23,0.1
+MB,M Boi Mirim,19-07-23,0.5
+CL,Campo Limpo,19-07-23,0.6
+CS,Capela do Socorro,19-07-23,1.0
+IP,Ipiranga,19-07-23,0.7
+JA,Jabaquara,19-07-23,0.5
+SA,Santo Amaro,19-07-23,0.7
+VM,Vila Mariana,19-07-23,1.0
+PA,Parelheiros ,19-07-23,6.199999999999999
+AD,Cidade Ademar,19-07-23,0.6
+MB,M Boi Mirim,20-07-23,0.1
+CL,Campo Limpo,20-07-23,0.0
+CS,Capela do Socorro,20-07-23,0.1
+IP,Ipiranga,20-07-23,0.0
+JA,Jabaquara,20-07-23,0.0
+SA,Santo Amaro,20-07-23,0.0
+VM,Vila Mariana,20-07-23,0.0
+PA,Parelheiros ,20-07-23,1.4
+AD,Cidade Ademar,20-07-23,0.1
+MB,M Boi Mirim,21-07-23,0.0
+CL,Campo Limpo,21-07-23,0.0
+CS,Capela do Socorro,21-07-23,0.0
+IP,Ipiranga,21-07-23,0.0
+JA,Jabaquara,21-07-23,0.0
+SA,Santo Amaro,21-07-23,0.0
+VM,Vila Mariana,21-07-23,0.0
+PA,Parelheiros ,21-07-23,0.0
+AD,Cidade Ademar,21-07-23,0.0
+MB,M Boi Mirim,22-07-23,0.0
+CL,Campo Limpo,22-07-23,0.0
+CS,Capela do Socorro,22-07-23,0.0
+IP,Ipiranga,22-07-23,0.0
+JA,Jabaquara,22-07-23,0.0
+SA,Santo Amaro,22-07-23,0.0
+VM,Vila Mariana,22-07-23,0.0
+PA,Parelheiros ,22-07-23,0.0
+AD,Cidade Ademar,22-07-23,0.0
+MB,M Boi Mirim,23-07-23,0.0
+CL,Campo Limpo,23-07-23,0.0
+CS,Capela do Socorro,23-07-23,0.0
+IP,Ipiranga,23-07-23,0.0
+JA,Jabaquara,23-07-23,0.0
+SA,Santo Amaro,23-07-23,0.0
+VM,Vila Mariana,23-07-23,0.0
+PA,Parelheiros ,23-07-23,0.0
+AD,Cidade Ademar,23-07-23,0.0
+MB,M Boi Mirim,24-07-23,0.0
+CL,Campo Limpo,24-07-23,0.0
+CS,Capela do Socorro,24-07-23,0.0
+IP,Ipiranga,24-07-23,0.0
+JA,Jabaquara,24-07-23,0.0
+SA,Santo Amaro,24-07-23,0.0
+VM,Vila Mariana,24-07-23,0.0
+PA,Parelheiros ,24-07-23,0.0
+AD,Cidade Ademar,24-07-23,0.0
+MB,M Boi Mirim,25-07-23,0.0
+CL,Campo Limpo,25-07-23,0.0
+CS,Capela do Socorro,25-07-23,0.0
+IP,Ipiranga,25-07-23,0.0
+JA,Jabaquara,25-07-23,0.0
+SA,Santo Amaro,25-07-23,0.0
+VM,Vila Mariana,25-07-23,0.0
+PA,Parelheiros ,25-07-23,0.0
+AD,Cidade Ademar,25-07-23,0.0
+MB,M Boi Mirim,26-07-23,0.0
+CL,Campo Limpo,26-07-23,0.0
+CS,Capela do Socorro,26-07-23,0.0
+IP,Ipiranga,26-07-23,0.0
+JA,Jabaquara,26-07-23,0.0
+SA,Santo Amaro,26-07-23,0.0
+VM,Vila Mariana,26-07-23,0.0
+PA,Parelheiros ,26-07-23,0.0
+AD,Cidade Ademar,26-07-23,0.0
+MB,M Boi Mirim,27-07-23,0.1
+CL,Campo Limpo,27-07-23,0.0
+CS,Capela do Socorro,27-07-23,0.3
+IP,Ipiranga,27-07-23,0.0
+JA,Jabaquara,27-07-23,0.0
+SA,Santo Amaro,27-07-23,0.0
+VM,Vila Mariana,27-07-23,0.0
+PA,Parelheiros ,27-07-23,1.7000000000000002
+AD,Cidade Ademar,27-07-23,0.0
+MB,M Boi Mirim,28-07-23,0.0
+CL,Campo Limpo,28-07-23,0.6
+CS,Capela do Socorro,28-07-23,0.1
+IP,Ipiranga,28-07-23,0.9
+JA,Jabaquara,28-07-23,1.0
+SA,Santo Amaro,28-07-23,0.3
+VM,Vila Mariana,28-07-23,0.3
+PA,Parelheiros ,28-07-23,0.8999999999999999
+AD,Cidade Ademar,28-07-23,0.6
+MB,M Boi Mirim,29-07-23,0.0
+CL,Campo Limpo,29-07-23,0.1
+CS,Capela do Socorro,29-07-23,0.4
+IP,Ipiranga,29-07-23,0.4
+JA,Jabaquara,29-07-23,1.2000000000000002
+SA,Santo Amaro,29-07-23,1.1
+VM,Vila Mariana,29-07-23,0.4
+PA,Parelheiros ,29-07-23,5.1
+AD,Cidade Ademar,29-07-23,1.1
+MB,M Boi Mirim,30-07-23,0.0
+CL,Campo Limpo,30-07-23,0.0
+CS,Capela do Socorro,30-07-23,0.0
+IP,Ipiranga,30-07-23,0.0
+JA,Jabaquara,30-07-23,0.0
+SA,Santo Amaro,30-07-23,0.0
+VM,Vila Mariana,30-07-23,0.0
+PA,Parelheiros ,30-07-23,0.0
+AD,Cidade Ademar,30-07-23,0.0
+MB,M Boi Mirim,31-07-23,0.0
+CL,Campo Limpo,31-07-23,0.0
+CS,Capela do Socorro,31-07-23,0.0
+IP,Ipiranga,31-07-23,0.0
+JA,Jabaquara,31-07-23,0.0
+SA,Santo Amaro,31-07-23,0.0
+VM,Vila Mariana,31-07-23,0.0
+PA,Parelheiros ,31-07-23,0.0
+AD,Cidade Ademar,31-07-23,0.0
+MB,M Boi Mirim,01-08-23,0.0
+CL,Campo Limpo,01-08-23,0.0
+CS,Capela do Socorro,01-08-23,0.0
+IP,Ipiranga,01-08-23,0.0
+JA,Jabaquara,01-08-23,0.0
+SA,Santo Amaro,01-08-23,0.0
+VM,Vila Mariana,01-08-23,0.0
+PA,Parelheiros ,01-08-23,0.0
+AD,Cidade Ademar,01-08-23,0.0
+MB,M Boi Mirim,02-08-23,0.0
+CL,Campo Limpo,02-08-23,0.0
+CS,Capela do Socorro,02-08-23,0.0
+IP,Ipiranga,02-08-23,0.0
+JA,Jabaquara,02-08-23,0.0
+SA,Santo Amaro,02-08-23,0.0
+VM,Vila Mariana,02-08-23,0.0
+PA,Parelheiros ,02-08-23,0.0
+AD,Cidade Ademar,02-08-23,0.0
+MB,M Boi Mirim,03-08-23,0.0
+CL,Campo Limpo,03-08-23,0.0
+CS,Capela do Socorro,03-08-23,0.0
+IP,Ipiranga,03-08-23,0.0
+JA,Jabaquara,03-08-23,0.0
+SA,Santo Amaro,03-08-23,0.0
+VM,Vila Mariana,03-08-23,0.0
+PA,Parelheiros ,03-08-23,0.0
+AD,Cidade Ademar,03-08-23,0.0
+MB,M Boi Mirim,04-08-23,0.0
+CL,Campo Limpo,04-08-23,0.0
+CS,Capela do Socorro,04-08-23,0.0
+IP,Ipiranga,04-08-23,0.0
+JA,Jabaquara,04-08-23,0.0
+SA,Santo Amaro,04-08-23,0.0
+VM,Vila Mariana,04-08-23,0.0
+PA,Parelheiros ,04-08-23,0.0
+AD,Cidade Ademar,04-08-23,0.0
+MB,M Boi Mirim,05-08-23,0.0
+CL,Campo Limpo,05-08-23,0.0
+CS,Capela do Socorro,05-08-23,0.0
+IP,Ipiranga,05-08-23,0.0
+JA,Jabaquara,05-08-23,0.0
+SA,Santo Amaro,05-08-23,0.0
+VM,Vila Mariana,05-08-23,0.0
+PA,Parelheiros ,05-08-23,0.0
+AD,Cidade Ademar,05-08-23,0.0
+MB,M Boi Mirim,06-08-23,0.0
+CL,Campo Limpo,06-08-23,0.0
+CS,Capela do Socorro,06-08-23,0.0
+IP,Ipiranga,06-08-23,0.0
+JA,Jabaquara,06-08-23,0.0
+SA,Santo Amaro,06-08-23,0.0
+VM,Vila Mariana,06-08-23,0.0
+PA,Parelheiros ,06-08-23,0.0
+AD,Cidade Ademar,06-08-23,0.0
+MB,M Boi Mirim,07-08-23,0.0
+CL,Campo Limpo,07-08-23,0.0
+CS,Capela do Socorro,07-08-23,0.0
+IP,Ipiranga,07-08-23,0.0
+JA,Jabaquara,07-08-23,0.0
+SA,Santo Amaro,07-08-23,0.0
+VM,Vila Mariana,07-08-23,0.0
+PA,Parelheiros ,07-08-23,0.0
+AD,Cidade Ademar,07-08-23,0.0
+MB,M Boi Mirim,08-08-23,0.3
+CL,Campo Limpo,08-08-23,0.1
+CS,Capela do Socorro,08-08-23,0.9000000000000001
+IP,Ipiranga,08-08-23,0.5
+JA,Jabaquara,08-08-23,0.2
+SA,Santo Amaro,08-08-23,0.0
+VM,Vila Mariana,08-08-23,0.2
+PA,Parelheiros ,08-08-23,8.9
+AD,Cidade Ademar,08-08-23,0.2
+MB,M Boi Mirim,09-08-23,4.2
+CL,Campo Limpo,09-08-23,2.7
+CS,Capela do Socorro,09-08-23,6.9
+IP,Ipiranga,09-08-23,4.5
+JA,Jabaquara,09-08-23,2.6
+SA,Santo Amaro,09-08-23,3.1
+VM,Vila Mariana,09-08-23,5.0
+PA,Parelheiros ,09-08-23,7.3
+AD,Cidade Ademar,09-08-23,3.7
+MB,M Boi Mirim,10-08-23,0.0
+CL,Campo Limpo,10-08-23,0.0
+CS,Capela do Socorro,10-08-23,0.0
+IP,Ipiranga,10-08-23,0.0
+JA,Jabaquara,10-08-23,0.0
+SA,Santo Amaro,10-08-23,0.0
+VM,Vila Mariana,10-08-23,0.0
+PA,Parelheiros ,10-08-23,0.0
+AD,Cidade Ademar,10-08-23,0.0
+MB,M Boi Mirim,11-08-23,3.0
+CL,Campo Limpo,11-08-23,1.5
+CS,Capela do Socorro,11-08-23,3.1
+IP,Ipiranga,11-08-23,1.2
+JA,Jabaquara,11-08-23,1.0
+SA,Santo Amaro,11-08-23,1.2
+VM,Vila Mariana,11-08-23,1.9
+PA,Parelheiros ,11-08-23,2.8
+AD,Cidade Ademar,11-08-23,2.0
+MB,M Boi Mirim,12-08-23,3.7
+CL,Campo Limpo,12-08-23,2.5
+CS,Capela do Socorro,12-08-23,1.9
+IP,Ipiranga,12-08-23,1.3
+JA,Jabaquara,12-08-23,4.0
+SA,Santo Amaro,12-08-23,3.8
+VM,Vila Mariana,12-08-23,0.2
+PA,Parelheiros ,12-08-23,0.6000000000000001
+AD,Cidade Ademar,12-08-23,5.2
+MB,M Boi Mirim,13-08-23,0.3
+CL,Campo Limpo,13-08-23,0.3
+CS,Capela do Socorro,13-08-23,1.5000000000000002
+IP,Ipiranga,13-08-23,0.5
+JA,Jabaquara,13-08-23,0.8
+SA,Santo Amaro,13-08-23,0.6
+VM,Vila Mariana,13-08-23,0.7
+PA,Parelheiros ,13-08-23,6.1000000000000005
+AD,Cidade Ademar,13-08-23,1.2
+MB,M Boi Mirim,14-08-23,0.0
+CL,Campo Limpo,14-08-23,0.0
+CS,Capela do Socorro,14-08-23,0.0
+IP,Ipiranga,14-08-23,0.0
+JA,Jabaquara,14-08-23,0.0
+SA,Santo Amaro,14-08-23,0.0
+VM,Vila Mariana,14-08-23,0.0
+PA,Parelheiros ,14-08-23,0.0
+AD,Cidade Ademar,14-08-23,0.0
+MB,M Boi Mirim,15-08-23,0.0
+CL,Campo Limpo,15-08-23,0.0
+CS,Capela do Socorro,15-08-23,0.0
+IP,Ipiranga,15-08-23,0.0
+JA,Jabaquara,15-08-23,0.0
+SA,Santo Amaro,15-08-23,0.0
+VM,Vila Mariana,15-08-23,0.0
+PA,Parelheiros ,15-08-23,0.0
+AD,Cidade Ademar,15-08-23,0.0
+MB,M Boi Mirim,16-08-23,0.0
+CL,Campo Limpo,16-08-23,0.0
+CS,Capela do Socorro,16-08-23,0.0
+IP,Ipiranga,16-08-23,0.0
+JA,Jabaquara,16-08-23,0.0
+SA,Santo Amaro,16-08-23,0.0
+VM,Vila Mariana,16-08-23,0.0
+PA,Parelheiros ,16-08-23,0.0
+AD,Cidade Ademar,16-08-23,0.0
+MB,M Boi Mirim,17-08-23,0.0
+CL,Campo Limpo,17-08-23,0.0
+CS,Capela do Socorro,17-08-23,0.0
+IP,Ipiranga,17-08-23,0.0
+JA,Jabaquara,17-08-23,0.0
+SA,Santo Amaro,17-08-23,0.0
+VM,Vila Mariana,17-08-23,0.0
+PA,Parelheiros ,17-08-23,0.0
+AD,Cidade Ademar,17-08-23,0.0
+MB,M Boi Mirim,18-08-23,0.0
+CL,Campo Limpo,18-08-23,0.0
+CS,Capela do Socorro,18-08-23,0.0
+IP,Ipiranga,18-08-23,0.0
+JA,Jabaquara,18-08-23,0.0
+SA,Santo Amaro,18-08-23,0.0
+VM,Vila Mariana,18-08-23,0.0
+PA,Parelheiros ,18-08-23,0.0
+AD,Cidade Ademar,18-08-23,0.0
+MB,M Boi Mirim,19-08-23,0.0
+CL,Campo Limpo,19-08-23,0.0
+CS,Capela do Socorro,19-08-23,0.0
+IP,Ipiranga,19-08-23,0.0
+JA,Jabaquara,19-08-23,0.0
+SA,Santo Amaro,19-08-23,0.0
+VM,Vila Mariana,19-08-23,0.0
+PA,Parelheiros ,19-08-23,0.0
+AD,Cidade Ademar,19-08-23,0.0
+MB,M Boi Mirim,20-08-23,0.0
+CL,Campo Limpo,20-08-23,0.0
+CS,Capela do Socorro,20-08-23,0.0
+IP,Ipiranga,20-08-23,0.0
+JA,Jabaquara,20-08-23,0.0
+SA,Santo Amaro,20-08-23,0.0
+VM,Vila Mariana,20-08-23,0.0
+PA,Parelheiros ,20-08-23,0.0
+AD,Cidade Ademar,20-08-23,0.0
+MB,M Boi Mirim,21-08-23,0.0
+CL,Campo Limpo,21-08-23,0.0
+CS,Capela do Socorro,21-08-23,0.0
+IP,Ipiranga,21-08-23,0.0
+JA,Jabaquara,21-08-23,0.0
+SA,Santo Amaro,21-08-23,0.0
+VM,Vila Mariana,21-08-23,0.0
+PA,Parelheiros ,21-08-23,0.0
+AD,Cidade Ademar,21-08-23,0.0
+MB,M Boi Mirim,22-08-23,0.0
+CL,Campo Limpo,22-08-23,0.0
+CS,Capela do Socorro,22-08-23,0.0
+IP,Ipiranga,22-08-23,0.0
+JA,Jabaquara,22-08-23,0.0
+SA,Santo Amaro,22-08-23,0.0
+VM,Vila Mariana,22-08-23,0.0
+PA,Parelheiros ,22-08-23,0.0
+AD,Cidade Ademar,22-08-23,0.0
+MB,M Boi Mirim,23-08-23,0.0
+CL,Campo Limpo,23-08-23,0.0
+CS,Capela do Socorro,23-08-23,0.0
+IP,Ipiranga,23-08-23,0.0
+JA,Jabaquara,23-08-23,0.0
+SA,Santo Amaro,23-08-23,0.0
+VM,Vila Mariana,23-08-23,0.0
+PA,Parelheiros ,23-08-23,0.0
+AD,Cidade Ademar,23-08-23,0.0
+MB,M Boi Mirim,24-08-23,2.6
+CL,Campo Limpo,24-08-23,2.1
+CS,Capela do Socorro,24-08-23,3.0
+IP,Ipiranga,24-08-23,1.5
+JA,Jabaquara,24-08-23,0.9
+SA,Santo Amaro,24-08-23,0.8
+VM,Vila Mariana,24-08-23,1.8
+PA,Parelheiros ,24-08-23,1.2000000000000002
+AD,Cidade Ademar,24-08-23,2.4
+MB,M Boi Mirim,25-08-23,6.3
+CL,Campo Limpo,25-08-23,5.6
+CS,Capela do Socorro,25-08-23,6.2
+IP,Ipiranga,25-08-23,4.9
+JA,Jabaquara,25-08-23,6.699999999999999
+SA,Santo Amaro,25-08-23,5.6
+VM,Vila Mariana,25-08-23,5.0
+PA,Parelheiros ,25-08-23,7.9
+AD,Cidade Ademar,25-08-23,6.300000000000001
+MB,M Boi Mirim,26-08-23,6.9
+CL,Campo Limpo,26-08-23,8.799999999999999
+CS,Capela do Socorro,26-08-23,5.9
+IP,Ipiranga,26-08-23,7.4
+JA,Jabaquara,26-08-23,9.4
+SA,Santo Amaro,26-08-23,8.2
+VM,Vila Mariana,26-08-23,8.1
+PA,Parelheiros ,26-08-23,10.9
+AD,Cidade Ademar,26-08-23,8.5
+MB,M Boi Mirim,27-08-23,6.699999999999999
+CL,Campo Limpo,27-08-23,7.1
+CS,Capela do Socorro,27-08-23,6.5
+IP,Ipiranga,27-08-23,6.199999999999999
+JA,Jabaquara,27-08-23,7.9
+SA,Santo Amaro,27-08-23,6.9
+VM,Vila Mariana,27-08-23,6.4
+PA,Parelheiros ,27-08-23,8.2
+AD,Cidade Ademar,27-08-23,7.5
+MB,M Boi Mirim,28-08-23,0.9000000000000001
+CL,Campo Limpo,28-08-23,1.4
+CS,Capela do Socorro,28-08-23,0.7
+IP,Ipiranga,28-08-23,0.1
+JA,Jabaquara,28-08-23,0.0
+SA,Santo Amaro,28-08-23,0.4
+VM,Vila Mariana,28-08-23,0.2
+PA,Parelheiros ,28-08-23,4.199999999999999
+AD,Cidade Ademar,28-08-23,0.3
+MB,M Boi Mirim,29-08-23,0.0
+CL,Campo Limpo,29-08-23,0.0
+CS,Capela do Socorro,29-08-23,0.0
+IP,Ipiranga,29-08-23,0.0
+JA,Jabaquara,29-08-23,0.0
+SA,Santo Amaro,29-08-23,0.0
+VM,Vila Mariana,29-08-23,0.0
+PA,Parelheiros ,29-08-23,0.0
+AD,Cidade Ademar,29-08-23,0.0
+MB,M Boi Mirim,30-08-23,0.0
+CL,Campo Limpo,30-08-23,0.0
+CS,Capela do Socorro,30-08-23,0.0
+IP,Ipiranga,30-08-23,0.0
+JA,Jabaquara,30-08-23,0.0
+SA,Santo Amaro,30-08-23,0.0
+VM,Vila Mariana,30-08-23,0.0
+PA,Parelheiros ,30-08-23,0.0
+AD,Cidade Ademar,30-08-23,0.0
+MB,M Boi Mirim,31-08-23,0.0
+CL,Campo Limpo,31-08-23,0.0
+CS,Capela do Socorro,31-08-23,0.0
+IP,Ipiranga,31-08-23,0.0
+JA,Jabaquara,31-08-23,0.0
+SA,Santo Amaro,31-08-23,0.0
+VM,Vila Mariana,31-08-23,0.0
+PA,Parelheiros ,31-08-23,0.0
+AD,Cidade Ademar,31-08-23,0.0
+MB,M Boi Mirim,01-09-23,0.0
+CL,Campo Limpo,01-09-23,0.0
+CS,Capela do Socorro,01-09-23,0.0
+IP,Ipiranga,01-09-23,0.0
+JA,Jabaquara,01-09-23,0.0
+SA,Santo Amaro,01-09-23,0.0
+VM,Vila Mariana,01-09-23,0.0
+PA,Parelheiros ,01-09-23,0.0
+AD,Cidade Ademar,01-09-23,0.0
+MB,M Boi Mirim,02-09-23,20.5
+CL,Campo Limpo,02-09-23,22.5
+CS,Capela do Socorro,02-09-23,17.7
+IP,Ipiranga,02-09-23,14.4
+JA,Jabaquara,02-09-23,21.3
+SA,Santo Amaro,02-09-23,21.9
+VM,Vila Mariana,02-09-23,16.599999999999998
+PA,Parelheiros ,02-09-23,21.7
+AD,Cidade Ademar,02-09-23,20.6
+MB,M Boi Mirim,03-09-23,4.5
+CL,Campo Limpo,03-09-23,6.4
+CS,Capela do Socorro,03-09-23,2.8000000000000003
+IP,Ipiranga,03-09-23,7.1
+JA,Jabaquara,03-09-23,6.0
+SA,Santo Amaro,03-09-23,5.3
+VM,Vila Mariana,03-09-23,7.4
+PA,Parelheiros ,03-09-23,0.9
+AD,Cidade Ademar,03-09-23,4.5
+MB,M Boi Mirim,04-09-23,0.0
+CL,Campo Limpo,04-09-23,0.0
+CS,Capela do Socorro,04-09-23,0.0
+IP,Ipiranga,04-09-23,0.0
+JA,Jabaquara,04-09-23,0.0
+SA,Santo Amaro,04-09-23,0.0
+VM,Vila Mariana,04-09-23,0.0
+PA,Parelheiros ,04-09-23,0.0
+AD,Cidade Ademar,04-09-23,0.0
+MB,M Boi Mirim,05-09-23,0.4
+CL,Campo Limpo,05-09-23,0.7
+CS,Capela do Socorro,05-09-23,0.5
+IP,Ipiranga,05-09-23,0.2
+JA,Jabaquara,05-09-23,0.7000000000000001
+SA,Santo Amaro,05-09-23,0.6
+VM,Vila Mariana,05-09-23,0.0
+PA,Parelheiros ,05-09-23,2.5
+AD,Cidade Ademar,05-09-23,0.7999999999999999
+MB,M Boi Mirim,06-09-23,0.3
+CL,Campo Limpo,06-09-23,0.2
+CS,Capela do Socorro,06-09-23,0.7000000000000001
+IP,Ipiranga,06-09-23,0.0
+JA,Jabaquara,06-09-23,0.1
+SA,Santo Amaro,06-09-23,0.1
+VM,Vila Mariana,06-09-23,0.0
+PA,Parelheiros ,06-09-23,6.6
+AD,Cidade Ademar,06-09-23,0.1
+MB,M Boi Mirim,07-09-23,0.0
+CL,Campo Limpo,07-09-23,0.0
+CS,Capela do Socorro,07-09-23,0.0
+IP,Ipiranga,07-09-23,0.0
+JA,Jabaquara,07-09-23,0.0
+SA,Santo Amaro,07-09-23,0.0
+VM,Vila Mariana,07-09-23,0.0
+PA,Parelheiros ,07-09-23,0.0
+AD,Cidade Ademar,07-09-23,0.0
+MB,M Boi Mirim,08-09-23,0.0
+CL,Campo Limpo,08-09-23,0.0
+CS,Capela do Socorro,08-09-23,0.0
+IP,Ipiranga,08-09-23,0.0
+JA,Jabaquara,08-09-23,0.0
+SA,Santo Amaro,08-09-23,0.0
+VM,Vila Mariana,08-09-23,0.0
+PA,Parelheiros ,08-09-23,0.0
+AD,Cidade Ademar,08-09-23,0.0
+MB,M Boi Mirim,09-09-23,0.0
+CL,Campo Limpo,09-09-23,0.0
+CS,Capela do Socorro,09-09-23,0.0
+IP,Ipiranga,09-09-23,0.0
+JA,Jabaquara,09-09-23,0.0
+SA,Santo Amaro,09-09-23,0.0
+VM,Vila Mariana,09-09-23,0.0
+PA,Parelheiros ,09-09-23,0.0
+AD,Cidade Ademar,09-09-23,0.0
+MB,M Boi Mirim,10-09-23,0.0
+CL,Campo Limpo,10-09-23,0.0
+CS,Capela do Socorro,10-09-23,0.0
+IP,Ipiranga,10-09-23,0.0
+JA,Jabaquara,10-09-23,0.0
+SA,Santo Amaro,10-09-23,0.0
+VM,Vila Mariana,10-09-23,0.0
+PA,Parelheiros ,10-09-23,0.0
+AD,Cidade Ademar,10-09-23,0.0
+MB,M Boi Mirim,11-09-23,0.0
+CL,Campo Limpo,11-09-23,0.0
+CS,Capela do Socorro,11-09-23,0.0
+IP,Ipiranga,11-09-23,0.0
+JA,Jabaquara,11-09-23,0.0
+SA,Santo Amaro,11-09-23,0.0
+VM,Vila Mariana,11-09-23,0.0
+PA,Parelheiros ,11-09-23,0.0
+AD,Cidade Ademar,11-09-23,0.0
+MB,M Boi Mirim,12-09-23,0.0
+CL,Campo Limpo,12-09-23,0.0
+CS,Capela do Socorro,12-09-23,0.0
+IP,Ipiranga,12-09-23,0.0
+JA,Jabaquara,12-09-23,0.0
+SA,Santo Amaro,12-09-23,0.0
+VM,Vila Mariana,12-09-23,0.0
+PA,Parelheiros ,12-09-23,0.0
+AD,Cidade Ademar,12-09-23,0.0
+MB,M Boi Mirim,13-09-23,0.0
+CL,Campo Limpo,13-09-23,0.0
+CS,Capela do Socorro,13-09-23,0.0
+IP,Ipiranga,13-09-23,0.0
+JA,Jabaquara,13-09-23,0.0
+SA,Santo Amaro,13-09-23,0.0
+VM,Vila Mariana,13-09-23,0.0
+PA,Parelheiros ,13-09-23,0.0
+AD,Cidade Ademar,13-09-23,0.0
+MB,M Boi Mirim,14-09-23,18.0
+CL,Campo Limpo,14-09-23,18.7
+CS,Capela do Socorro,14-09-23,18.200000000000003
+IP,Ipiranga,14-09-23,21.4
+JA,Jabaquara,14-09-23,21.1
+SA,Santo Amaro,14-09-23,18.700000000000003
+VM,Vila Mariana,14-09-23,14.3
+PA,Parelheiros ,14-09-23,15.0
+AD,Cidade Ademar,14-09-23,23.0
+MB,M Boi Mirim,15-09-23,0.0
+CL,Campo Limpo,15-09-23,0.0
+CS,Capela do Socorro,15-09-23,0.0
+IP,Ipiranga,15-09-23,0.0
+JA,Jabaquara,15-09-23,0.0
+SA,Santo Amaro,15-09-23,0.0
+VM,Vila Mariana,15-09-23,0.0
+PA,Parelheiros ,15-09-23,0.0
+AD,Cidade Ademar,15-09-23,0.0
+MB,M Boi Mirim,16-09-23,0.0
+CL,Campo Limpo,16-09-23,0.0
+CS,Capela do Socorro,16-09-23,0.0
+IP,Ipiranga,16-09-23,0.0
+JA,Jabaquara,16-09-23,0.0
+SA,Santo Amaro,16-09-23,0.0
+VM,Vila Mariana,16-09-23,0.0
+PA,Parelheiros ,16-09-23,0.0
+AD,Cidade Ademar,16-09-23,0.0
+MB,M Boi Mirim,17-09-23,0.0
+CL,Campo Limpo,17-09-23,0.0
+CS,Capela do Socorro,17-09-23,0.0
+IP,Ipiranga,17-09-23,0.0
+JA,Jabaquara,17-09-23,0.0
+SA,Santo Amaro,17-09-23,0.0
+VM,Vila Mariana,17-09-23,0.0
+PA,Parelheiros ,17-09-23,0.0
+AD,Cidade Ademar,17-09-23,0.0
+MB,M Boi Mirim,18-09-23,0.5
+CL,Campo Limpo,18-09-23,0.1
+CS,Capela do Socorro,18-09-23,4.9
+IP,Ipiranga,18-09-23,0.0
+JA,Jabaquara,18-09-23,0.9
+SA,Santo Amaro,18-09-23,5.0
+VM,Vila Mariana,18-09-23,0.0
+PA,Parelheiros ,18-09-23,0.3
+AD,Cidade Ademar,18-09-23,6.8
+MB,M Boi Mirim,19-09-23,0.0
+CL,Campo Limpo,19-09-23,0.0
+CS,Capela do Socorro,19-09-23,0.0
+IP,Ipiranga,19-09-23,0.0
+JA,Jabaquara,19-09-23,0.0
+SA,Santo Amaro,19-09-23,0.0
+VM,Vila Mariana,19-09-23,0.0
+PA,Parelheiros ,19-09-23,0.0
+AD,Cidade Ademar,19-09-23,0.0
+MB,M Boi Mirim,20-09-23,0.0
+CL,Campo Limpo,20-09-23,0.0
+CS,Capela do Socorro,20-09-23,0.0
+IP,Ipiranga,20-09-23,0.0
+JA,Jabaquara,20-09-23,0.0
+SA,Santo Amaro,20-09-23,0.0
+VM,Vila Mariana,20-09-23,0.0
+PA,Parelheiros ,20-09-23,0.0
+AD,Cidade Ademar,20-09-23,0.0
+MB,M Boi Mirim,21-09-23,0.0
+CL,Campo Limpo,21-09-23,0.0
+CS,Capela do Socorro,21-09-23,0.0
+IP,Ipiranga,21-09-23,0.0
+JA,Jabaquara,21-09-23,0.0
+SA,Santo Amaro,21-09-23,0.0
+VM,Vila Mariana,21-09-23,0.0
+PA,Parelheiros ,21-09-23,0.0
+AD,Cidade Ademar,21-09-23,0.0
+MB,M Boi Mirim,22-09-23,0.5
+CL,Campo Limpo,22-09-23,0.2
+CS,Capela do Socorro,22-09-23,0.1
+IP,Ipiranga,22-09-23,0.0
+JA,Jabaquara,22-09-23,0.1
+SA,Santo Amaro,22-09-23,0.2
+VM,Vila Mariana,22-09-23,0.1
+PA,Parelheiros ,22-09-23,0.2
+AD,Cidade Ademar,22-09-23,0.0
+MB,M Boi Mirim,23-09-23,0.0
+CL,Campo Limpo,23-09-23,0.0
+CS,Capela do Socorro,23-09-23,0.0
+IP,Ipiranga,23-09-23,0.0
+JA,Jabaquara,23-09-23,0.0
+SA,Santo Amaro,23-09-23,0.0
+VM,Vila Mariana,23-09-23,0.0
+PA,Parelheiros ,23-09-23,0.0
+AD,Cidade Ademar,23-09-23,0.0
+MB,M Boi Mirim,24-09-23,0.0
+CL,Campo Limpo,24-09-23,0.0
+CS,Capela do Socorro,24-09-23,0.0
+IP,Ipiranga,24-09-23,0.0
+JA,Jabaquara,24-09-23,0.0
+SA,Santo Amaro,24-09-23,0.0
+VM,Vila Mariana,24-09-23,0.0
+PA,Parelheiros ,24-09-23,0.0
+AD,Cidade Ademar,24-09-23,0.0
+MB,M Boi Mirim,25-09-23,0.1
+CL,Campo Limpo,25-09-23,0.0
+CS,Capela do Socorro,25-09-23,0.2
+IP,Ipiranga,25-09-23,0.0
+JA,Jabaquara,25-09-23,0.0
+SA,Santo Amaro,25-09-23,0.1
+VM,Vila Mariana,25-09-23,0.0
+PA,Parelheiros ,25-09-23,1.5
+AD,Cidade Ademar,25-09-23,0.1
+MB,M Boi Mirim,26-09-23,0.0
+CL,Campo Limpo,26-09-23,0.0
+CS,Capela do Socorro,26-09-23,0.0
+IP,Ipiranga,26-09-23,0.0
+JA,Jabaquara,26-09-23,0.0
+SA,Santo Amaro,26-09-23,0.0
+VM,Vila Mariana,26-09-23,0.0
+PA,Parelheiros ,26-09-23,0.0
+AD,Cidade Ademar,26-09-23,0.0
+MB,M Boi Mirim,27-09-23,13.0
+CL,Campo Limpo,27-09-23,13.4
+CS,Capela do Socorro,27-09-23,14.5
+IP,Ipiranga,27-09-23,18.1
+JA,Jabaquara,27-09-23,19.8
+SA,Santo Amaro,27-09-23,17.7
+VM,Vila Mariana,27-09-23,15.3
+PA,Parelheiros ,27-09-23,8.8
+AD,Cidade Ademar,27-09-23,19.5
+MB,M Boi Mirim,28-09-23,0.7
+CL,Campo Limpo,28-09-23,0.6
+CS,Capela do Socorro,28-09-23,1.8
+IP,Ipiranga,28-09-23,0.7
+JA,Jabaquara,28-09-23,1.0
+SA,Santo Amaro,28-09-23,1.0
+VM,Vila Mariana,28-09-23,0.7
+PA,Parelheiros ,28-09-23,6.5
+AD,Cidade Ademar,28-09-23,0.8999999999999999
+MB,M Boi Mirim,29-09-23,0.0
+CL,Campo Limpo,29-09-23,0.0
+CS,Capela do Socorro,29-09-23,0.0
+IP,Ipiranga,29-09-23,0.0
+JA,Jabaquara,29-09-23,0.0
+SA,Santo Amaro,29-09-23,0.0
+VM,Vila Mariana,29-09-23,0.0
+PA,Parelheiros ,29-09-23,0.0
+AD,Cidade Ademar,29-09-23,0.0
+MB,M Boi Mirim,30-09-23,7.0
+CL,Campo Limpo,30-09-23,10.2
+CS,Capela do Socorro,30-09-23,5.1
+IP,Ipiranga,30-09-23,3.7
+JA,Jabaquara,30-09-23,10.2
+SA,Santo Amaro,30-09-23,10.1
+VM,Vila Mariana,30-09-23,3.7
+PA,Parelheiros ,30-09-23,1.5
+AD,Cidade Ademar,30-09-23,8.6
+MB,M Boi Mirim,01-10-23,29.800000000000004
+CL,Campo Limpo,01-10-23,37.0
+CS,Capela do Socorro,01-10-23,26.0
+IP,Ipiranga,01-10-23,40.5
+JA,Jabaquara,01-10-23,32.6
+SA,Santo Amaro,01-10-23,28.500000000000004
+VM,Vila Mariana,01-10-23,44.3
+PA,Parelheiros ,01-10-23,15.700000000000005
+AD,Cidade Ademar,01-10-23,30.3
+MB,M Boi Mirim,02-10-23,0.0
+CL,Campo Limpo,02-10-23,0.1
+CS,Capela do Socorro,02-10-23,0.0
+IP,Ipiranga,02-10-23,0.1
+JA,Jabaquara,02-10-23,0.1
+SA,Santo Amaro,02-10-23,0.1
+VM,Vila Mariana,02-10-23,0.2
+PA,Parelheiros ,02-10-23,1.2000000000000002
+AD,Cidade Ademar,02-10-23,0.1
+MB,M Boi Mirim,03-10-23,0.1
+CL,Campo Limpo,03-10-23,0.1
+CS,Capela do Socorro,03-10-23,0.4
+IP,Ipiranga,03-10-23,0.0
+JA,Jabaquara,03-10-23,0.1
+SA,Santo Amaro,03-10-23,0.1
+VM,Vila Mariana,03-10-23,0.0
+PA,Parelheiros ,03-10-23,1.6
+AD,Cidade Ademar,03-10-23,0.0
+MB,M Boi Mirim,04-10-23,11.0
+CL,Campo Limpo,04-10-23,10.2
+CS,Capela do Socorro,04-10-23,7.8
+IP,Ipiranga,04-10-23,6.2
+JA,Jabaquara,04-10-23,3.8
+SA,Santo Amaro,04-10-23,6.5
+VM,Vila Mariana,04-10-23,4.9
+PA,Parelheiros ,04-10-23,8.1
+AD,Cidade Ademar,04-10-23,6.1
+MB,M Boi Mirim,05-10-23,31.9
+CL,Campo Limpo,05-10-23,29.200000000000003
+CS,Capela do Socorro,05-10-23,28.9
+IP,Ipiranga,05-10-23,24.0
+JA,Jabaquara,05-10-23,25.700000000000003
+SA,Santo Amaro,05-10-23,24.000000000000004
+VM,Vila Mariana,05-10-23,25.5
+PA,Parelheiros ,05-10-23,28.5
+AD,Cidade Ademar,05-10-23,28.7
+MB,M Boi Mirim,06-10-23,0.0
+CL,Campo Limpo,06-10-23,0.0
+CS,Capela do Socorro,06-10-23,0.0
+IP,Ipiranga,06-10-23,0.0
+JA,Jabaquara,06-10-23,0.0
+SA,Santo Amaro,06-10-23,0.0
+VM,Vila Mariana,06-10-23,0.0
+PA,Parelheiros ,06-10-23,0.0
+AD,Cidade Ademar,06-10-23,0.0
+MB,M Boi Mirim,07-10-23,29.6
+CL,Campo Limpo,07-10-23,36.5
+CS,Capela do Socorro,07-10-23,29.5
+IP,Ipiranga,07-10-23,19.3
+JA,Jabaquara,07-10-23,30.2
+SA,Santo Amaro,07-10-23,29.6
+VM,Vila Mariana,07-10-23,17.7
+PA,Parelheiros ,07-10-23,35.7
+AD,Cidade Ademar,07-10-23,32.1
+MB,M Boi Mirim,08-10-23,32.7
+CL,Campo Limpo,08-10-23,35.8
+CS,Capela do Socorro,08-10-23,27.5
+IP,Ipiranga,08-10-23,39.7
+JA,Jabaquara,08-10-23,45.4
+SA,Santo Amaro,08-10-23,33.7
+VM,Vila Mariana,08-10-23,41.8
+PA,Parelheiros ,08-10-23,23.2
+AD,Cidade Ademar,08-10-23,42.8
+MB,M Boi Mirim,09-10-23,2.8000000000000003
+CL,Campo Limpo,09-10-23,3.3
+CS,Capela do Socorro,09-10-23,2.4
+IP,Ipiranga,09-10-23,5.199999999999999
+JA,Jabaquara,09-10-23,4.3
+SA,Santo Amaro,09-10-23,3.2
+VM,Vila Mariana,09-10-23,5.4
+PA,Parelheiros ,09-10-23,3.2
+AD,Cidade Ademar,09-10-23,3.3000000000000003
+MB,M Boi Mirim,10-10-23,0.3
+CL,Campo Limpo,10-10-23,0.4
+CS,Capela do Socorro,10-10-23,0.4
+IP,Ipiranga,10-10-23,0.4
+JA,Jabaquara,10-10-23,0.3
+SA,Santo Amaro,10-10-23,0.1
+VM,Vila Mariana,10-10-23,0.3
+PA,Parelheiros ,10-10-23,3.8
+AD,Cidade Ademar,10-10-23,0.3
+MB,M Boi Mirim,11-10-23,0.0
+CL,Campo Limpo,11-10-23,0.0
+CS,Capela do Socorro,11-10-23,0.0
+IP,Ipiranga,11-10-23,0.0
+JA,Jabaquara,11-10-23,0.0
+SA,Santo Amaro,11-10-23,0.0
+VM,Vila Mariana,11-10-23,0.0
+PA,Parelheiros ,11-10-23,0.0
+AD,Cidade Ademar,11-10-23,0.0
+MB,M Boi Mirim,12-10-23,25.1
+CL,Campo Limpo,12-10-23,19.4
+CS,Capela do Socorro,12-10-23,19.2
+IP,Ipiranga,12-10-23,13.6
+JA,Jabaquara,12-10-23,14.6
+SA,Santo Amaro,12-10-23,16.799999999999997
+VM,Vila Mariana,12-10-23,15.9
+PA,Parelheiros ,12-10-23,13.0
+AD,Cidade Ademar,12-10-23,20.5
+MB,M Boi Mirim,13-10-23,1.1
+CL,Campo Limpo,13-10-23,1.7000000000000002
+CS,Capela do Socorro,13-10-23,1.9
+IP,Ipiranga,13-10-23,1.2
+JA,Jabaquara,13-10-23,1.5
+SA,Santo Amaro,13-10-23,1.5000000000000002
+VM,Vila Mariana,13-10-23,0.7999999999999999
+PA,Parelheiros ,13-10-23,6.6
+AD,Cidade Ademar,13-10-23,1.8000000000000005
+MB,M Boi Mirim,14-10-23,0.6
+CL,Campo Limpo,14-10-23,0.7999999999999999
+CS,Capela do Socorro,14-10-23,0.7
+IP,Ipiranga,14-10-23,0.1
+JA,Jabaquara,14-10-23,0.3
+SA,Santo Amaro,14-10-23,0.5
+VM,Vila Mariana,14-10-23,0.0
+PA,Parelheiros ,14-10-23,3.4
+AD,Cidade Ademar,14-10-23,0.7
+MB,M Boi Mirim,15-10-23,0.0
+CL,Campo Limpo,15-10-23,0.0
+CS,Capela do Socorro,15-10-23,0.0
+IP,Ipiranga,15-10-23,0.0
+JA,Jabaquara,15-10-23,0.0
+SA,Santo Amaro,15-10-23,0.0
+VM,Vila Mariana,15-10-23,0.0
+PA,Parelheiros ,15-10-23,0.0
+AD,Cidade Ademar,15-10-23,0.0
+MB,M Boi Mirim,16-10-23,8.8
+CL,Campo Limpo,16-10-23,10.0
+CS,Capela do Socorro,16-10-23,8.1
+IP,Ipiranga,16-10-23,7.3
+JA,Jabaquara,16-10-23,4.4
+SA,Santo Amaro,16-10-23,6.5
+VM,Vila Mariana,16-10-23,8.0
+PA,Parelheiros ,16-10-23,16.7
+AD,Cidade Ademar,16-10-23,4.7
+MB,M Boi Mirim,17-10-23,11.1
+CL,Campo Limpo,17-10-23,11.5
+CS,Capela do Socorro,17-10-23,11.0
+IP,Ipiranga,17-10-23,11.8
+JA,Jabaquara,17-10-23,13.7
+SA,Santo Amaro,17-10-23,12.0
+VM,Vila Mariana,17-10-23,12.9
+PA,Parelheiros ,17-10-23,9.7
+AD,Cidade Ademar,17-10-23,12.0
+MB,M Boi Mirim,18-10-23,0.1
+CL,Campo Limpo,18-10-23,0.2
+CS,Capela do Socorro,18-10-23,0.2
+IP,Ipiranga,18-10-23,0.1
+JA,Jabaquara,18-10-23,0.2
+SA,Santo Amaro,18-10-23,0.2
+VM,Vila Mariana,18-10-23,0.2
+PA,Parelheiros ,18-10-23,3.8
+AD,Cidade Ademar,18-10-23,0.7
+MB,M Boi Mirim,19-10-23,0.3
+CL,Campo Limpo,19-10-23,0.2
+CS,Capela do Socorro,19-10-23,0.2
+IP,Ipiranga,19-10-23,0.0
+JA,Jabaquara,19-10-23,0.2
+SA,Santo Amaro,19-10-23,0.2
+VM,Vila Mariana,19-10-23,0.1
+PA,Parelheiros ,19-10-23,3.0
+AD,Cidade Ademar,19-10-23,0.1
+MB,M Boi Mirim,20-10-23,0.0
+CL,Campo Limpo,20-10-23,0.0
+CS,Capela do Socorro,20-10-23,0.0
+IP,Ipiranga,20-10-23,0.0
+JA,Jabaquara,20-10-23,0.0
+SA,Santo Amaro,20-10-23,0.0
+VM,Vila Mariana,20-10-23,0.0
+PA,Parelheiros ,20-10-23,0.0
+AD,Cidade Ademar,20-10-23,0.0
+MB,M Boi Mirim,21-10-23,0.0
+CL,Campo Limpo,21-10-23,0.0
+CS,Capela do Socorro,21-10-23,0.0
+IP,Ipiranga,21-10-23,0.0
+JA,Jabaquara,21-10-23,0.0
+SA,Santo Amaro,21-10-23,0.0
+VM,Vila Mariana,21-10-23,0.0
+PA,Parelheiros ,21-10-23,0.0
+AD,Cidade Ademar,21-10-23,0.0
+MB,M Boi Mirim,22-10-23,0.0
+CL,Campo Limpo,22-10-23,0.0
+CS,Capela do Socorro,22-10-23,0.0
+IP,Ipiranga,22-10-23,0.0
+JA,Jabaquara,22-10-23,0.0
+SA,Santo Amaro,22-10-23,0.0
+VM,Vila Mariana,22-10-23,0.0
+PA,Parelheiros ,22-10-23,0.0
+AD,Cidade Ademar,22-10-23,0.0
+MB,M Boi Mirim,23-10-23,0.0
+CL,Campo Limpo,23-10-23,0.0
+CS,Capela do Socorro,23-10-23,0.0
+IP,Ipiranga,23-10-23,0.0
+JA,Jabaquara,23-10-23,0.0
+SA,Santo Amaro,23-10-23,0.0
+VM,Vila Mariana,23-10-23,0.0
+PA,Parelheiros ,23-10-23,0.0
+AD,Cidade Ademar,23-10-23,0.0
+MB,M Boi Mirim,24-10-23,1.2000000000000002
+CL,Campo Limpo,24-10-23,1.8
+CS,Capela do Socorro,24-10-23,0.5
+IP,Ipiranga,24-10-23,0.6
+JA,Jabaquara,24-10-23,1.8
+SA,Santo Amaro,24-10-23,1.4
+VM,Vila Mariana,24-10-23,0.4
+PA,Parelheiros ,24-10-23,2.8
+AD,Cidade Ademar,24-10-23,1.4
+MB,M Boi Mirim,25-10-23,0.1
+CL,Campo Limpo,25-10-23,0.0
+CS,Capela do Socorro,25-10-23,0.4
+IP,Ipiranga,25-10-23,0.2
+JA,Jabaquara,25-10-23,0.4
+SA,Santo Amaro,25-10-23,0.2
+VM,Vila Mariana,25-10-23,0.2
+PA,Parelheiros ,25-10-23,1.9
+AD,Cidade Ademar,25-10-23,0.3
+MB,M Boi Mirim,26-10-23,3.8
+CL,Campo Limpo,26-10-23,1.9
+CS,Capela do Socorro,26-10-23,2.2
+IP,Ipiranga,26-10-23,1.7
+JA,Jabaquara,26-10-23,3.5
+SA,Santo Amaro,26-10-23,1.7
+VM,Vila Mariana,26-10-23,1.3
+PA,Parelheiros ,26-10-23,3.6
+AD,Cidade Ademar,26-10-23,2.5
+MB,M Boi Mirim,27-10-23,2.0
+CL,Campo Limpo,27-10-23,3.5
+CS,Capela do Socorro,27-10-23,3.9
+IP,Ipiranga,27-10-23,14.0
+JA,Jabaquara,27-10-23,14.2
+SA,Santo Amaro,27-10-23,9.3
+VM,Vila Mariana,27-10-23,20.7
+PA,Parelheiros ,27-10-23,2.2
+AD,Cidade Ademar,27-10-23,11.4
+MB,M Boi Mirim,28-10-23,4.9
+CL,Campo Limpo,28-10-23,4.9
+CS,Capela do Socorro,28-10-23,3.5
+IP,Ipiranga,28-10-23,6.0
+JA,Jabaquara,28-10-23,3.9
+SA,Santo Amaro,28-10-23,3.8
+VM,Vila Mariana,28-10-23,6.4
+PA,Parelheiros ,28-10-23,3.8
+AD,Cidade Ademar,28-10-23,3.9
+MB,M Boi Mirim,29-10-23,7.0
+CL,Campo Limpo,29-10-23,7.6
+CS,Capela do Socorro,29-10-23,7.9
+IP,Ipiranga,29-10-23,16.9
+JA,Jabaquara,29-10-23,12.7
+SA,Santo Amaro,29-10-23,9.6
+VM,Vila Mariana,29-10-23,16.9
+PA,Parelheiros ,29-10-23,17.0
+AD,Cidade Ademar,29-10-23,10.6
+MB,M Boi Mirim,30-10-23,0.4
+CL,Campo Limpo,30-10-23,0.4
+CS,Capela do Socorro,30-10-23,0.3
+IP,Ipiranga,30-10-23,0.3
+JA,Jabaquara,30-10-23,0.1
+SA,Santo Amaro,30-10-23,0.2
+VM,Vila Mariana,30-10-23,0.5
+PA,Parelheiros ,30-10-23,0.1
+AD,Cidade Ademar,30-10-23,0.2
+MB,M Boi Mirim,31-10-23,8.799999999999999
+CL,Campo Limpo,31-10-23,12.2
+CS,Capela do Socorro,31-10-23,4.9
+IP,Ipiranga,31-10-23,18.8
+JA,Jabaquara,31-10-23,14.099999999999998
+SA,Santo Amaro,31-10-23,10.9
+VM,Vila Mariana,31-10-23,20.4
+PA,Parelheiros ,31-10-23,4.4
+AD,Cidade Ademar,31-10-23,5.8
+MB,M Boi Mirim,01-11-23,1.4
+CL,Campo Limpo,01-11-23,0.4
+CS,Capela do Socorro,01-11-23,1.7
+IP,Ipiranga,01-11-23,1.0
+JA,Jabaquara,01-11-23,1.4
+SA,Santo Amaro,01-11-23,1.5
+VM,Vila Mariana,01-11-23,0.5
+PA,Parelheiros ,01-11-23,4.500000000000001
+AD,Cidade Ademar,01-11-23,2.0
+MB,M Boi Mirim,02-11-23,0.3
+CL,Campo Limpo,02-11-23,0.2
+CS,Capela do Socorro,02-11-23,0.4
+IP,Ipiranga,02-11-23,0.0
+JA,Jabaquara,02-11-23,0.1
+SA,Santo Amaro,02-11-23,0.1
+VM,Vila Mariana,02-11-23,0.0
+PA,Parelheiros ,02-11-23,1.4
+AD,Cidade Ademar,02-11-23,0.3
+MB,M Boi Mirim,03-11-23,15.4
+CL,Campo Limpo,03-11-23,12.7
+CS,Capela do Socorro,03-11-23,12.8
+IP,Ipiranga,03-11-23,11.1
+JA,Jabaquara,03-11-23,15.7
+SA,Santo Amaro,03-11-23,16.1
+VM,Vila Mariana,03-11-23,7.6
+PA,Parelheiros ,03-11-23,16.1
+AD,Cidade Ademar,03-11-23,13.5
+MB,M Boi Mirim,04-11-23,0.9
+CL,Campo Limpo,04-11-23,1.5
+CS,Capela do Socorro,04-11-23,0.7
+IP,Ipiranga,04-11-23,0.3
+JA,Jabaquara,04-11-23,1.1
+SA,Santo Amaro,04-11-23,1.1
+VM,Vila Mariana,04-11-23,0.6
+PA,Parelheiros ,04-11-23,0.1
+AD,Cidade Ademar,04-11-23,1.9
+MB,M Boi Mirim,05-11-23,0.0
+CL,Campo Limpo,05-11-23,0.0
+CS,Capela do Socorro,05-11-23,0.0
+IP,Ipiranga,05-11-23,0.0
+JA,Jabaquara,05-11-23,0.0
+SA,Santo Amaro,05-11-23,0.0
+VM,Vila Mariana,05-11-23,0.0
+PA,Parelheiros ,05-11-23,0.0
+AD,Cidade Ademar,05-11-23,0.0
+MB,M Boi Mirim,06-11-23,0.0
+CL,Campo Limpo,06-11-23,0.0
+CS,Capela do Socorro,06-11-23,0.0
+IP,Ipiranga,06-11-23,0.0
+JA,Jabaquara,06-11-23,0.0
+SA,Santo Amaro,06-11-23,0.0
+VM,Vila Mariana,06-11-23,0.0
+PA,Parelheiros ,06-11-23,0.0
+AD,Cidade Ademar,06-11-23,0.0
+MB,M Boi Mirim,07-11-23,0.0
+CL,Campo Limpo,07-11-23,0.0
+CS,Capela do Socorro,07-11-23,0.0
+IP,Ipiranga,07-11-23,0.0
+JA,Jabaquara,07-11-23,0.0
+SA,Santo Amaro,07-11-23,0.0
+VM,Vila Mariana,07-11-23,0.0
+PA,Parelheiros ,07-11-23,0.0
+AD,Cidade Ademar,07-11-23,0.0
+MB,M Boi Mirim,08-11-23,0.0
+CL,Campo Limpo,08-11-23,0.0
+CS,Capela do Socorro,08-11-23,0.0
+IP,Ipiranga,08-11-23,0.0
+JA,Jabaquara,08-11-23,0.0
+SA,Santo Amaro,08-11-23,0.0
+VM,Vila Mariana,08-11-23,0.0
+PA,Parelheiros ,08-11-23,0.0
+AD,Cidade Ademar,08-11-23,0.0
+MB,M Boi Mirim,09-11-23,0.0
+CL,Campo Limpo,09-11-23,0.0
+CS,Capela do Socorro,09-11-23,0.0
+IP,Ipiranga,09-11-23,0.0
+JA,Jabaquara,09-11-23,0.0
+SA,Santo Amaro,09-11-23,0.0
+VM,Vila Mariana,09-11-23,0.0
+PA,Parelheiros ,09-11-23,0.8
+AD,Cidade Ademar,09-11-23,0.0
+MB,M Boi Mirim,10-11-23,0.0
+CL,Campo Limpo,10-11-23,0.0
+CS,Capela do Socorro,10-11-23,0.1
+IP,Ipiranga,10-11-23,0.0
+JA,Jabaquara,10-11-23,0.0
+SA,Santo Amaro,10-11-23,0.0
+VM,Vila Mariana,10-11-23,0.0
+PA,Parelheiros ,10-11-23,0.8
+AD,Cidade Ademar,10-11-23,0.0
+MB,M Boi Mirim,11-11-23,0.0
+CL,Campo Limpo,11-11-23,0.0
+CS,Capela do Socorro,11-11-23,0.0
+IP,Ipiranga,11-11-23,0.0
+JA,Jabaquara,11-11-23,0.0
+SA,Santo Amaro,11-11-23,0.0
+VM,Vila Mariana,11-11-23,0.0
+PA,Parelheiros ,11-11-23,0.0
+AD,Cidade Ademar,11-11-23,0.0
+MB,M Boi Mirim,12-11-23,0.0
+CL,Campo Limpo,12-11-23,0.0
+CS,Capela do Socorro,12-11-23,0.0
+IP,Ipiranga,12-11-23,0.0
+JA,Jabaquara,12-11-23,0.0
+SA,Santo Amaro,12-11-23,0.0
+VM,Vila Mariana,12-11-23,0.0
+PA,Parelheiros ,12-11-23,0.0
+AD,Cidade Ademar,12-11-23,0.0
+MB,M Boi Mirim,13-11-23,0.0
+CL,Campo Limpo,13-11-23,0.0
+CS,Capela do Socorro,13-11-23,0.0
+IP,Ipiranga,13-11-23,0.0
+JA,Jabaquara,13-11-23,0.0
+SA,Santo Amaro,13-11-23,0.0
+VM,Vila Mariana,13-11-23,0.0
+PA,Parelheiros ,13-11-23,0.3
+AD,Cidade Ademar,13-11-23,0.0
+MB,M Boi Mirim,14-11-23,0.1
+CL,Campo Limpo,14-11-23,0.1
+CS,Capela do Socorro,14-11-23,0.2
+IP,Ipiranga,14-11-23,0.1
+JA,Jabaquara,14-11-23,0.3
+SA,Santo Amaro,14-11-23,0.1
+VM,Vila Mariana,14-11-23,0.0
+PA,Parelheiros ,14-11-23,1.2999999999999998
+AD,Cidade Ademar,14-11-23,0.3
+MB,M Boi Mirim,15-11-23,29.7
+CL,Campo Limpo,15-11-23,32.4
+CS,Capela do Socorro,15-11-23,17.0
+IP,Ipiranga,15-11-23,43.4
+JA,Jabaquara,15-11-23,37.8
+SA,Santo Amaro,15-11-23,32.4
+VM,Vila Mariana,15-11-23,37.5
+PA,Parelheiros ,15-11-23,6.9
+AD,Cidade Ademar,15-11-23,28.5
+MB,M Boi Mirim,16-11-23,0.0
+CL,Campo Limpo,16-11-23,0.3
+CS,Capela do Socorro,16-11-23,0.1
+IP,Ipiranga,16-11-23,0.0
+JA,Jabaquara,16-11-23,0.0
+SA,Santo Amaro,16-11-23,0.0
+VM,Vila Mariana,16-11-23,0.0
+PA,Parelheiros ,16-11-23,0.0
+AD,Cidade Ademar,16-11-23,0.0
+MB,M Boi Mirim,17-11-23,0.0
+CL,Campo Limpo,17-11-23,0.0
+CS,Capela do Socorro,17-11-23,0.0
+IP,Ipiranga,17-11-23,0.0
+JA,Jabaquara,17-11-23,0.0
+SA,Santo Amaro,17-11-23,0.0
+VM,Vila Mariana,17-11-23,0.0
+PA,Parelheiros ,17-11-23,0.0
+AD,Cidade Ademar,17-11-23,0.0
+MB,M Boi Mirim,18-11-23,14.9
+CL,Campo Limpo,18-11-23,13.8
+CS,Capela do Socorro,18-11-23,8.6
+IP,Ipiranga,18-11-23,3.2
+JA,Jabaquara,18-11-23,11.6
+SA,Santo Amaro,18-11-23,16.4
+VM,Vila Mariana,18-11-23,4.1
+PA,Parelheiros ,18-11-23,8.1
+AD,Cidade Ademar,18-11-23,12.6
+MB,M Boi Mirim,19-11-23,17.900000000000002
+CL,Campo Limpo,19-11-23,22.3
+CS,Capela do Socorro,19-11-23,19.8
+IP,Ipiranga,19-11-23,27.300000000000004
+JA,Jabaquara,19-11-23,30.5
+SA,Santo Amaro,19-11-23,26.2
+VM,Vila Mariana,19-11-23,21.4
+PA,Parelheiros ,19-11-23,17.6
+AD,Cidade Ademar,19-11-23,24.3
+MB,M Boi Mirim,20-11-23,0.3
+CL,Campo Limpo,20-11-23,0.1
+CS,Capela do Socorro,20-11-23,0.2
+IP,Ipiranga,20-11-23,0.0
+JA,Jabaquara,20-11-23,0.0
+SA,Santo Amaro,20-11-23,0.1
+VM,Vila Mariana,20-11-23,0.0
+PA,Parelheiros ,20-11-23,4.6000000000000005
+AD,Cidade Ademar,20-11-23,0.1
+MB,M Boi Mirim,21-11-23,0.1
+CL,Campo Limpo,21-11-23,0.0
+CS,Capela do Socorro,21-11-23,0.0
+IP,Ipiranga,21-11-23,0.0
+JA,Jabaquara,21-11-23,0.0
+SA,Santo Amaro,21-11-23,0.0
+VM,Vila Mariana,21-11-23,0.0
+PA,Parelheiros ,21-11-23,0.1
+AD,Cidade Ademar,21-11-23,0.0
+MB,M Boi Mirim,22-11-23,0.2
+CL,Campo Limpo,22-11-23,0.4
+CS,Capela do Socorro,22-11-23,0.1
+IP,Ipiranga,22-11-23,0.6
+JA,Jabaquara,22-11-23,3.5
+SA,Santo Amaro,22-11-23,0.6
+VM,Vila Mariana,22-11-23,0.6
+PA,Parelheiros ,22-11-23,1.1
+AD,Cidade Ademar,22-11-23,1.4
+MB,M Boi Mirim,23-11-23,7.7
+CL,Campo Limpo,23-11-23,10.6
+CS,Capela do Socorro,23-11-23,13.499999999999998
+IP,Ipiranga,23-11-23,14.7
+JA,Jabaquara,23-11-23,17.099999999999998
+SA,Santo Amaro,23-11-23,16.3
+VM,Vila Mariana,23-11-23,11.6
+PA,Parelheiros ,23-11-23,30.2
+AD,Cidade Ademar,23-11-23,15.1
+MB,M Boi Mirim,24-11-23,0.5
+CL,Campo Limpo,24-11-23,0.8
+CS,Capela do Socorro,24-11-23,1.4
+IP,Ipiranga,24-11-23,2.1
+JA,Jabaquara,24-11-23,2.6
+SA,Santo Amaro,24-11-23,2.0000000000000004
+VM,Vila Mariana,24-11-23,1.7
+PA,Parelheiros ,24-11-23,6.7
+AD,Cidade Ademar,24-11-23,2.7
+MB,M Boi Mirim,25-11-23,7.299999999999999
+CL,Campo Limpo,25-11-23,6.0
+CS,Capela do Socorro,25-11-23,6.399999999999999
+IP,Ipiranga,25-11-23,5.6000000000000005
+JA,Jabaquara,25-11-23,6.9
+SA,Santo Amaro,25-11-23,6.300000000000001
+VM,Vila Mariana,25-11-23,4.0
+PA,Parelheiros ,25-11-23,5.9
+AD,Cidade Ademar,25-11-23,6.999999999999999
+MB,M Boi Mirim,26-11-23,0.0
+CL,Campo Limpo,26-11-23,0.0
+CS,Capela do Socorro,26-11-23,0.0
+IP,Ipiranga,26-11-23,0.0
+JA,Jabaquara,26-11-23,0.0
+SA,Santo Amaro,26-11-23,0.0
+VM,Vila Mariana,26-11-23,0.0
+PA,Parelheiros ,26-11-23,0.0
+AD,Cidade Ademar,26-11-23,0.0
+MB,M Boi Mirim,27-11-23,7.4
+CL,Campo Limpo,27-11-23,11.8
+CS,Capela do Socorro,27-11-23,2.7
+IP,Ipiranga,27-11-23,18.1
+JA,Jabaquara,27-11-23,13.0
+SA,Santo Amaro,27-11-23,9.6
+VM,Vila Mariana,27-11-23,15.3
+PA,Parelheiros ,27-11-23,0.5
+AD,Cidade Ademar,27-11-23,5.0
+MB,M Boi Mirim,28-11-23,17.5
+CL,Campo Limpo,28-11-23,15.7
+CS,Capela do Socorro,28-11-23,20.0
+IP,Ipiranga,28-11-23,14.2
+JA,Jabaquara,28-11-23,20.3
+SA,Santo Amaro,28-11-23,19.0
+VM,Vila Mariana,28-11-23,10.9
+PA,Parelheiros ,28-11-23,20.5
+AD,Cidade Ademar,28-11-23,18.8
+MB,M Boi Mirim,29-11-23,24.200000000000003
+CL,Campo Limpo,29-11-23,6.2
+CS,Capela do Socorro,29-11-23,13.1
+IP,Ipiranga,29-11-23,14.7
+JA,Jabaquara,29-11-23,18.200000000000003
+SA,Santo Amaro,29-11-23,15.7
+VM,Vila Mariana,29-11-23,5.1000000000000005
+PA,Parelheiros ,29-11-23,16.2
+AD,Cidade Ademar,29-11-23,21.300000000000004
+MB,M Boi Mirim,30-11-23,0.1
+CL,Campo Limpo,30-11-23,0.1
+CS,Capela do Socorro,30-11-23,0.4
+IP,Ipiranga,30-11-23,0.1
+JA,Jabaquara,30-11-23,0.0
+SA,Santo Amaro,30-11-23,0.0
+VM,Vila Mariana,30-11-23,0.0
+PA,Parelheiros ,30-11-23,1.0
+AD,Cidade Ademar,30-11-23,0.2
+MB,M Boi Mirim,01-12-23,0.0
+CL,Campo Limpo,01-12-23,0.0
+CS,Capela do Socorro,01-12-23,0.0
+IP,Ipiranga,01-12-23,0.0
+JA,Jabaquara,01-12-23,0.0
+SA,Santo Amaro,01-12-23,0.0
+VM,Vila Mariana,01-12-23,0.0
+PA,Parelheiros ,01-12-23,0.0
+AD,Cidade Ademar,01-12-23,0.0
+MB,M Boi Mirim,02-12-23,0.0
+CL,Campo Limpo,02-12-23,0.0
+CS,Capela do Socorro,02-12-23,0.0
+IP,Ipiranga,02-12-23,0.0
+JA,Jabaquara,02-12-23,0.0
+SA,Santo Amaro,02-12-23,0.0
+VM,Vila Mariana,02-12-23,0.0
+PA,Parelheiros ,02-12-23,0.0
+AD,Cidade Ademar,02-12-23,0.0
+MB,M Boi Mirim,03-12-23,0.0
+CL,Campo Limpo,03-12-23,0.0
+CS,Capela do Socorro,03-12-23,0.0
+IP,Ipiranga,03-12-23,0.0
+JA,Jabaquara,03-12-23,0.0
+SA,Santo Amaro,03-12-23,0.0
+VM,Vila Mariana,03-12-23,0.0
+PA,Parelheiros ,03-12-23,0.0
+AD,Cidade Ademar,03-12-23,0.0
+MB,M Boi Mirim,04-12-23,0.2
+CL,Campo Limpo,04-12-23,0.2
+CS,Capela do Socorro,04-12-23,0.5
+IP,Ipiranga,04-12-23,1.4
+JA,Jabaquara,04-12-23,1.7000000000000002
+SA,Santo Amaro,04-12-23,0.6
+VM,Vila Mariana,04-12-23,1.2
+PA,Parelheiros ,04-12-23,0.8
+AD,Cidade Ademar,04-12-23,1.4
+MB,M Boi Mirim,05-12-23,0.0
+CL,Campo Limpo,05-12-23,0.1
+CS,Capela do Socorro,05-12-23,0.0
+IP,Ipiranga,05-12-23,0.1
+JA,Jabaquara,05-12-23,0.2
+SA,Santo Amaro,05-12-23,0.0
+VM,Vila Mariana,05-12-23,0.1
+PA,Parelheiros ,05-12-23,0.0
+AD,Cidade Ademar,05-12-23,0.1
+MB,M Boi Mirim,06-12-23,0.0
+CL,Campo Limpo,06-12-23,0.0
+CS,Capela do Socorro,06-12-23,0.0
+IP,Ipiranga,06-12-23,0.0
+JA,Jabaquara,06-12-23,0.0
+SA,Santo Amaro,06-12-23,0.0
+VM,Vila Mariana,06-12-23,0.0
+PA,Parelheiros ,06-12-23,0.3
+AD,Cidade Ademar,06-12-23,0.0
+MB,M Boi Mirim,07-12-23,1.3
+CL,Campo Limpo,07-12-23,1.8
+CS,Capela do Socorro,07-12-23,11.8
+IP,Ipiranga,07-12-23,0.3
+JA,Jabaquara,07-12-23,1.0
+SA,Santo Amaro,07-12-23,2.2
+VM,Vila Mariana,07-12-23,0.4
+PA,Parelheiros ,07-12-23,16.0
+AD,Cidade Ademar,07-12-23,4.7
+MB,M Boi Mirim,08-12-23,2.3
+CL,Campo Limpo,08-12-23,2.7
+CS,Capela do Socorro,08-12-23,3.1
+IP,Ipiranga,08-12-23,2.7
+JA,Jabaquara,08-12-23,4.0
+SA,Santo Amaro,08-12-23,4.4
+VM,Vila Mariana,08-12-23,2.5
+PA,Parelheiros ,08-12-23,7.199999999999999
+AD,Cidade Ademar,08-12-23,4.3
+MB,M Boi Mirim,09-12-23,0.3
+CL,Campo Limpo,09-12-23,0.3
+CS,Capela do Socorro,09-12-23,0.6
+IP,Ipiranga,09-12-23,0.1
+JA,Jabaquara,09-12-23,0.2
+SA,Santo Amaro,09-12-23,0.2
+VM,Vila Mariana,09-12-23,0.1
+PA,Parelheiros ,09-12-23,3.3000000000000003
+AD,Cidade Ademar,09-12-23,0.4
+MB,M Boi Mirim,10-12-23,32.5
+CL,Campo Limpo,10-12-23,28.7
+CS,Capela do Socorro,10-12-23,34.3
+IP,Ipiranga,10-12-23,34.2
+JA,Jabaquara,10-12-23,41.1
+SA,Santo Amaro,10-12-23,44.9
+VM,Vila Mariana,10-12-23,24.6
+PA,Parelheiros ,10-12-23,17.2
+AD,Cidade Ademar,10-12-23,40.6
+MB,M Boi Mirim,11-12-23,0.8
+CL,Campo Limpo,11-12-23,0.3
+CS,Capela do Socorro,11-12-23,4.2
+IP,Ipiranga,11-12-23,0.4
+JA,Jabaquara,11-12-23,0.5
+SA,Santo Amaro,11-12-23,0.2
+VM,Vila Mariana,11-12-23,0.1
+PA,Parelheiros ,11-12-23,4.5
+AD,Cidade Ademar,11-12-23,1.0
+MB,M Boi Mirim,12-12-23,0.0
+CL,Campo Limpo,12-12-23,0.0
+CS,Capela do Socorro,12-12-23,0.0
+IP,Ipiranga,12-12-23,0.0
+JA,Jabaquara,12-12-23,0.0
+SA,Santo Amaro,12-12-23,0.0
+VM,Vila Mariana,12-12-23,0.0
+PA,Parelheiros ,12-12-23,0.0
+AD,Cidade Ademar,12-12-23,0.0
+MB,M Boi Mirim,13-12-23,0.0
+CL,Campo Limpo,13-12-23,0.0
+CS,Capela do Socorro,13-12-23,0.0
+IP,Ipiranga,13-12-23,0.0
+JA,Jabaquara,13-12-23,0.0
+SA,Santo Amaro,13-12-23,0.0
+VM,Vila Mariana,13-12-23,0.0
+PA,Parelheiros ,13-12-23,0.0
+AD,Cidade Ademar,13-12-23,0.0
+MB,M Boi Mirim,14-12-23,0.0
+CL,Campo Limpo,14-12-23,0.0
+CS,Capela do Socorro,14-12-23,0.0
+IP,Ipiranga,14-12-23,0.0
+JA,Jabaquara,14-12-23,0.0
+SA,Santo Amaro,14-12-23,0.0
+VM,Vila Mariana,14-12-23,0.0
+PA,Parelheiros ,14-12-23,0.0
+AD,Cidade Ademar,14-12-23,0.0
+MB,M Boi Mirim,15-12-23,0.0
+CL,Campo Limpo,15-12-23,0.0
+CS,Capela do Socorro,15-12-23,0.0
+IP,Ipiranga,15-12-23,0.0
+JA,Jabaquara,15-12-23,0.0
+SA,Santo Amaro,15-12-23,0.0
+VM,Vila Mariana,15-12-23,0.0
+PA,Parelheiros ,15-12-23,0.1
+AD,Cidade Ademar,15-12-23,0.0
+MB,M Boi Mirim,16-12-23,0.0
+CL,Campo Limpo,16-12-23,0.0
+CS,Capela do Socorro,16-12-23,0.0
+IP,Ipiranga,16-12-23,0.0
+JA,Jabaquara,16-12-23,0.0
+SA,Santo Amaro,16-12-23,0.0
+VM,Vila Mariana,16-12-23,0.0
+PA,Parelheiros ,16-12-23,0.0
+AD,Cidade Ademar,16-12-23,0.0
+MB,M Boi Mirim,17-12-23,10.6
+CL,Campo Limpo,17-12-23,7.5
+CS,Capela do Socorro,17-12-23,1.3
+IP,Ipiranga,17-12-23,0.0
+JA,Jabaquara,17-12-23,0.0
+SA,Santo Amaro,17-12-23,4.5
+VM,Vila Mariana,17-12-23,0.5
+PA,Parelheiros ,17-12-23,1.3
+AD,Cidade Ademar,17-12-23,0.1
+MB,M Boi Mirim,18-12-23,0.0
+CL,Campo Limpo,18-12-23,0.0
+CS,Capela do Socorro,18-12-23,0.0
+IP,Ipiranga,18-12-23,0.0
+JA,Jabaquara,18-12-23,0.0
+SA,Santo Amaro,18-12-23,0.0
+VM,Vila Mariana,18-12-23,0.0
+PA,Parelheiros ,18-12-23,0.0
+AD,Cidade Ademar,18-12-23,0.0
+MB,M Boi Mirim,19-12-23,0.0
+CL,Campo Limpo,19-12-23,0.0
+CS,Capela do Socorro,19-12-23,0.0
+IP,Ipiranga,19-12-23,0.0
+JA,Jabaquara,19-12-23,0.0
+SA,Santo Amaro,19-12-23,0.0
+VM,Vila Mariana,19-12-23,0.0
+PA,Parelheiros ,19-12-23,0.0
+AD,Cidade Ademar,19-12-23,0.0
+MB,M Boi Mirim,20-12-23,0.0
+CL,Campo Limpo,20-12-23,0.0
+CS,Capela do Socorro,20-12-23,0.0
+IP,Ipiranga,20-12-23,0.0
+JA,Jabaquara,20-12-23,0.0
+SA,Santo Amaro,20-12-23,0.0
+VM,Vila Mariana,20-12-23,0.0
+PA,Parelheiros ,20-12-23,0.0
+AD,Cidade Ademar,20-12-23,0.0
+MB,M Boi Mirim,21-12-23,0.0
+CL,Campo Limpo,21-12-23,0.0
+CS,Capela do Socorro,21-12-23,0.0
+IP,Ipiranga,21-12-23,0.0
+JA,Jabaquara,21-12-23,0.0
+SA,Santo Amaro,21-12-23,0.0
+VM,Vila Mariana,21-12-23,0.0
+PA,Parelheiros ,21-12-23,0.3
+AD,Cidade Ademar,21-12-23,0.0
+MB,M Boi Mirim,22-12-23,1.2
+CL,Campo Limpo,22-12-23,0.7
+CS,Capela do Socorro,22-12-23,1.4
+IP,Ipiranga,22-12-23,13.8
+JA,Jabaquara,22-12-23,7.5
+SA,Santo Amaro,22-12-23,9.1
+VM,Vila Mariana,22-12-23,10.0
+PA,Parelheiros ,22-12-23,0.1
+AD,Cidade Ademar,22-12-23,9.2
+MB,M Boi Mirim,23-12-23,13.5
+CL,Campo Limpo,23-12-23,15.4
+CS,Capela do Socorro,23-12-23,21.200000000000003
+IP,Ipiranga,23-12-23,42.1
+JA,Jabaquara,23-12-23,47.5
+SA,Santo Amaro,23-12-23,46.4
+VM,Vila Mariana,23-12-23,24.6
+PA,Parelheiros ,23-12-23,4.7
+AD,Cidade Ademar,23-12-23,47.9
+MB,M Boi Mirim,24-12-23,0.1
+CL,Campo Limpo,24-12-23,0.0
+CS,Capela do Socorro,24-12-23,0.2
+IP,Ipiranga,24-12-23,0.0
+JA,Jabaquara,24-12-23,0.1
+SA,Santo Amaro,24-12-23,0.1
+VM,Vila Mariana,24-12-23,0.0
+PA,Parelheiros ,24-12-23,0.1
+AD,Cidade Ademar,24-12-23,0.5
+MB,M Boi Mirim,25-12-23,0.0
+CL,Campo Limpo,25-12-23,0.0
+CS,Capela do Socorro,25-12-23,0.2
+IP,Ipiranga,25-12-23,0.1
+JA,Jabaquara,25-12-23,0.2
+SA,Santo Amaro,25-12-23,0.1
+VM,Vila Mariana,25-12-23,0.1
+PA,Parelheiros ,25-12-23,0.0
+AD,Cidade Ademar,25-12-23,0.5
+MB,M Boi Mirim,26-12-23,1.8
+CL,Campo Limpo,26-12-23,1.1
+CS,Capela do Socorro,26-12-23,0.5
+IP,Ipiranga,26-12-23,0.0
+JA,Jabaquara,26-12-23,0.2
+SA,Santo Amaro,26-12-23,0.2
+VM,Vila Mariana,26-12-23,0.1
+PA,Parelheiros ,26-12-23,0.2
+AD,Cidade Ademar,26-12-23,0.3
+MB,M Boi Mirim,27-12-23,0.0
+CL,Campo Limpo,27-12-23,0.0
+CS,Capela do Socorro,27-12-23,0.0
+IP,Ipiranga,27-12-23,0.0
+JA,Jabaquara,27-12-23,0.0
+SA,Santo Amaro,27-12-23,0.0
+VM,Vila Mariana,27-12-23,0.0
+PA,Parelheiros ,27-12-23,0.0
+AD,Cidade Ademar,27-12-23,0.0
+MB,M Boi Mirim,28-12-23,0.0
+CL,Campo Limpo,28-12-23,0.0
+CS,Capela do Socorro,28-12-23,0.0
+IP,Ipiranga,28-12-23,0.0
+JA,Jabaquara,28-12-23,0.0
+SA,Santo Amaro,28-12-23,0.0
+VM,Vila Mariana,28-12-23,0.0
+PA,Parelheiros ,28-12-23,0.0
+AD,Cidade Ademar,28-12-23,0.0
+MB,M Boi Mirim,29-12-23,0.0
+CL,Campo Limpo,29-12-23,0.0
+CS,Capela do Socorro,29-12-23,0.0
+IP,Ipiranga,29-12-23,0.0
+JA,Jabaquara,29-12-23,0.0
+SA,Santo Amaro,29-12-23,0.0
+VM,Vila Mariana,29-12-23,0.0
+PA,Parelheiros ,29-12-23,0.0
+AD,Cidade Ademar,29-12-23,0.0
+MB,M Boi Mirim,30-12-23,10.0
+CL,Campo Limpo,30-12-23,5.1
+CS,Capela do Socorro,30-12-23,9.5
+IP,Ipiranga,30-12-23,6.199999999999999
+JA,Jabaquara,30-12-23,10.6
+SA,Santo Amaro,30-12-23,9.2
+VM,Vila Mariana,30-12-23,4.7
+PA,Parelheiros ,30-12-23,8.5
+AD,Cidade Ademar,30-12-23,9.8
+MB,M Boi Mirim,31-12-23,0.0
+CL,Campo Limpo,31-12-23,0.0
+CS,Capela do Socorro,31-12-23,0.0
+IP,Ipiranga,31-12-23,0.0
+JA,Jabaquara,31-12-23,0.0
+SA,Santo Amaro,31-12-23,0.0
+VM,Vila Mariana,31-12-23,0.0
+PA,Parelheiros ,31-12-23,0.0
+AD,Cidade Ademar,31-12-23,0.0

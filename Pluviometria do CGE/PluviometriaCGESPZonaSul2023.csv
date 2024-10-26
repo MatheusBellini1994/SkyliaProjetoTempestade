@@ -1,0 +1,3286 @@
+Cód. Bairros,Nome Bairros,Dia,Mês,Pluviometria
+MB,M Boi Mirim,1,1,1.1
+CL,Campo Limpo,1,1,2.0
+CS,Capela do Socorro,1,1,0.3
+IP,Ipiranga,1,1,0.0
+JA,Jabaquara,1,1,0.1
+SA,Santo Amaro,1,1,0.2
+VM,Vila Mariana,1,1,0.0
+PA,Parelheiros ,1,1,0.3
+AD,Cidade Ademar,1,1,0.2
+MB,M Boi Mirim,2,1,0.9
+CL,Campo Limpo,2,1,1.1
+CS,Capela do Socorro,2,1,1.2
+IP,Ipiranga,2,1,0.2
+JA,Jabaquara,2,1,0.4
+SA,Santo Amaro,2,1,0.2
+VM,Vila Mariana,2,1,0.0
+PA,Parelheiros ,2,1,8.4
+AD,Cidade Ademar,2,1,1.7
+MB,M Boi Mirim,3,1,11.7
+CL,Campo Limpo,3,1,14.8
+CS,Capela do Socorro,3,1,12.9
+IP,Ipiranga,3,1,3.5
+JA,Jabaquara,3,1,3.4000000000000004
+SA,Santo Amaro,3,1,13.9
+VM,Vila Mariana,3,1,5.7
+PA,Parelheiros ,3,1,5.4
+AD,Cidade Ademar,3,1,11.1
+MB,M Boi Mirim,4,1,26.7
+CL,Campo Limpo,4,1,30.5
+CS,Capela do Socorro,4,1,20.6
+IP,Ipiranga,4,1,30.6
+JA,Jabaquara,4,1,29.300000000000004
+SA,Santo Amaro,4,1,29.4
+VM,Vila Mariana,4,1,32.6
+PA,Parelheiros ,4,1,30.2
+AD,Cidade Ademar,4,1,26.5
+MB,M Boi Mirim,5,1,9.6
+CL,Campo Limpo,5,1,10.2
+CS,Capela do Socorro,5,1,9.5
+IP,Ipiranga,5,1,10.8
+JA,Jabaquara,5,1,12.3
+SA,Santo Amaro,5,1,11.5
+VM,Vila Mariana,5,1,10.8
+PA,Parelheiros ,5,1,11.4
+AD,Cidade Ademar,5,1,11.8
+MB,M Boi Mirim,6,1,5.4
+CL,Campo Limpo,6,1,3.0
+CS,Capela do Socorro,6,1,4.1000000000000005
+IP,Ipiranga,6,1,2.6
+JA,Jabaquara,6,1,1.9
+SA,Santo Amaro,6,1,1.9
+VM,Vila Mariana,6,1,4.4
+PA,Parelheiros ,6,1,4.300000000000001
+AD,Cidade Ademar,6,1,2.3
+MB,M Boi Mirim,7,1,0.1
+CL,Campo Limpo,7,1,0.1
+CS,Capela do Socorro,7,1,0.1
+IP,Ipiranga,7,1,0.4
+JA,Jabaquara,7,1,0.1
+SA,Santo Amaro,7,1,0.0
+VM,Vila Mariana,7,1,0.2
+PA,Parelheiros ,7,1,0.3
+AD,Cidade Ademar,7,1,0.2
+MB,M Boi Mirim,8,1,1.5
+CL,Campo Limpo,8,1,1.7
+CS,Capela do Socorro,8,1,1.3
+IP,Ipiranga,8,1,0.4
+JA,Jabaquara,8,1,0.6
+SA,Santo Amaro,8,1,1.2
+VM,Vila Mariana,8,1,0.4
+PA,Parelheiros ,8,1,3.8
+AD,Cidade Ademar,8,1,1.0
+MB,M Boi Mirim,9,1,0.7000000000000001
+CL,Campo Limpo,9,1,0.3
+CS,Capela do Socorro,9,1,0.4
+IP,Ipiranga,9,1,0.1
+JA,Jabaquara,9,1,0.1
+SA,Santo Amaro,9,1,0.1
+VM,Vila Mariana,9,1,0.2
+PA,Parelheiros ,9,1,1.8
+AD,Cidade Ademar,9,1,0.1
+MB,M Boi Mirim,10,1,7.4
+CL,Campo Limpo,10,1,9.4
+CS,Capela do Socorro,10,1,5.1000000000000005
+IP,Ipiranga,10,1,9.6
+JA,Jabaquara,10,1,7.899999999999999
+SA,Santo Amaro,10,1,9.8
+VM,Vila Mariana,10,1,10.2
+PA,Parelheiros ,10,1,6.0
+AD,Cidade Ademar,10,1,7.6
+MB,M Boi Mirim,11,1,10.0
+CL,Campo Limpo,11,1,14.1
+CS,Capela do Socorro,11,1,10.4
+IP,Ipiranga,11,1,12.3
+JA,Jabaquara,11,1,13.2
+SA,Santo Amaro,11,1,11.5
+VM,Vila Mariana,11,1,10.1
+PA,Parelheiros ,11,1,12.3
+AD,Cidade Ademar,11,1,11.3
+MB,M Boi Mirim,12,1,1.6
+CL,Campo Limpo,12,1,1.9
+CS,Capela do Socorro,12,1,2.1
+IP,Ipiranga,12,1,1.0
+JA,Jabaquara,12,1,1.4
+SA,Santo Amaro,12,1,2.3
+VM,Vila Mariana,12,1,1.2
+PA,Parelheiros ,12,1,3.1
+AD,Cidade Ademar,12,1,2.4
+MB,M Boi Mirim,13,1,10.3
+CL,Campo Limpo,13,1,15.3
+CS,Capela do Socorro,13,1,6.699999999999999
+IP,Ipiranga,13,1,20.3
+JA,Jabaquara,13,1,18.2
+SA,Santo Amaro,13,1,15.5
+VM,Vila Mariana,13,1,23.3
+PA,Parelheiros ,13,1,6.3
+AD,Cidade Ademar,13,1,11.9
+MB,M Boi Mirim,14,1,3.7
+CL,Campo Limpo,14,1,3.5
+CS,Capela do Socorro,14,1,3.5
+IP,Ipiranga,14,1,3.7
+JA,Jabaquara,14,1,4.9
+SA,Santo Amaro,14,1,4.1
+VM,Vila Mariana,14,1,4.0
+PA,Parelheiros ,14,1,2.9
+AD,Cidade Ademar,14,1,4.7
+MB,M Boi Mirim,15,1,19.8
+CL,Campo Limpo,15,1,10.4
+CS,Capela do Socorro,15,1,18.0
+IP,Ipiranga,15,1,38.6
+JA,Jabaquara,15,1,35.2
+SA,Santo Amaro,15,1,37.7
+VM,Vila Mariana,15,1,24.4
+PA,Parelheiros ,15,1,1.4
+AD,Cidade Ademar,15,1,32.8
+MB,M Boi Mirim,16,1,0.9
+CL,Campo Limpo,16,1,8.4
+CS,Capela do Socorro,16,1,0.3
+IP,Ipiranga,16,1,4.1
+JA,Jabaquara,16,1,2.2
+SA,Santo Amaro,16,1,3.9
+VM,Vila Mariana,16,1,6.5
+PA,Parelheiros ,16,1,1.2000000000000002
+AD,Cidade Ademar,16,1,0.7
+MB,M Boi Mirim,17,1,0.0
+CL,Campo Limpo,17,1,0.0
+CS,Capela do Socorro,17,1,0.0
+IP,Ipiranga,17,1,0.5
+JA,Jabaquara,17,1,0.4
+SA,Santo Amaro,17,1,0.1
+VM,Vila Mariana,17,1,0.4
+PA,Parelheiros ,17,1,0.1
+AD,Cidade Ademar,17,1,0.1
+MB,M Boi Mirim,18,1,0.0
+CL,Campo Limpo,18,1,0.0
+CS,Capela do Socorro,18,1,0.0
+IP,Ipiranga,18,1,0.1
+JA,Jabaquara,18,1,0.0
+SA,Santo Amaro,18,1,0.0
+VM,Vila Mariana,18,1,0.0
+PA,Parelheiros ,18,1,0.0
+AD,Cidade Ademar,18,1,0.0
+MB,M Boi Mirim,19,1,0.0
+CL,Campo Limpo,19,1,0.0
+CS,Capela do Socorro,19,1,0.0
+IP,Ipiranga,19,1,0.0
+JA,Jabaquara,19,1,0.0
+SA,Santo Amaro,19,1,0.0
+VM,Vila Mariana,19,1,0.0
+PA,Parelheiros ,19,1,0.0
+AD,Cidade Ademar,19,1,0.0
+MB,M Boi Mirim,20,1,17.8
+CL,Campo Limpo,20,1,5.8
+CS,Capela do Socorro,20,1,31.3
+IP,Ipiranga,20,1,7.199999999999999
+JA,Jabaquara,20,1,8.799999999999999
+SA,Santo Amaro,20,1,8.299999999999999
+VM,Vila Mariana,20,1,6.3
+PA,Parelheiros ,20,1,36.1
+AD,Cidade Ademar,20,1,16.7
+MB,M Boi Mirim,21,1,0.0
+CL,Campo Limpo,21,1,0.0
+CS,Capela do Socorro,21,1,0.3
+IP,Ipiranga,21,1,0.1
+JA,Jabaquara,21,1,0.0
+SA,Santo Amaro,21,1,0.1
+VM,Vila Mariana,21,1,0.1
+PA,Parelheiros ,21,1,0.5
+AD,Cidade Ademar,21,1,0.0
+MB,M Boi Mirim,22,1,0.0
+CL,Campo Limpo,22,1,0.0
+CS,Capela do Socorro,22,1,3.9
+IP,Ipiranga,22,1,0.2
+JA,Jabaquara,22,1,0.3
+SA,Santo Amaro,22,1,0.1
+VM,Vila Mariana,22,1,0.0
+PA,Parelheiros ,22,1,4.5
+AD,Cidade Ademar,22,1,1.8
+MB,M Boi Mirim,23,1,19.8
+CL,Campo Limpo,23,1,21.3
+CS,Capela do Socorro,23,1,14.999999999999998
+IP,Ipiranga,23,1,1.8
+JA,Jabaquara,23,1,5.7
+SA,Santo Amaro,23,1,6.300000000000001
+VM,Vila Mariana,23,1,1.7
+PA,Parelheiros ,23,1,19.7
+AD,Cidade Ademar,23,1,6.6000000000000005
+MB,M Boi Mirim,24,1,0.0
+CL,Campo Limpo,24,1,0.2
+CS,Capela do Socorro,24,1,0.0
+IP,Ipiranga,24,1,0.1
+JA,Jabaquara,24,1,0.0
+SA,Santo Amaro,24,1,0.1
+VM,Vila Mariana,24,1,0.3
+PA,Parelheiros ,24,1,0.2
+AD,Cidade Ademar,24,1,0.0
+MB,M Boi Mirim,25,1,0.0
+CL,Campo Limpo,25,1,0.0
+CS,Capela do Socorro,25,1,0.0
+IP,Ipiranga,25,1,0.0
+JA,Jabaquara,25,1,0.0
+SA,Santo Amaro,25,1,0.0
+VM,Vila Mariana,25,1,0.0
+PA,Parelheiros ,25,1,0.0
+AD,Cidade Ademar,25,1,0.0
+MB,M Boi Mirim,26,1,0.0
+CL,Campo Limpo,26,1,0.0
+CS,Capela do Socorro,26,1,0.0
+IP,Ipiranga,26,1,0.0
+JA,Jabaquara,26,1,0.0
+SA,Santo Amaro,26,1,0.0
+VM,Vila Mariana,26,1,0.0
+PA,Parelheiros ,26,1,0.0
+AD,Cidade Ademar,26,1,0.0
+MB,M Boi Mirim,27,1,0.0
+CL,Campo Limpo,27,1,0.0
+CS,Capela do Socorro,27,1,0.0
+IP,Ipiranga,27,1,0.0
+JA,Jabaquara,27,1,0.0
+SA,Santo Amaro,27,1,0.0
+VM,Vila Mariana,27,1,0.0
+PA,Parelheiros ,27,1,0.0
+AD,Cidade Ademar,27,1,0.0
+MB,M Boi Mirim,28,1,12.9
+CL,Campo Limpo,28,1,14.5
+CS,Capela do Socorro,28,1,2.9
+IP,Ipiranga,28,1,3.9
+JA,Jabaquara,28,1,5.9
+SA,Santo Amaro,28,1,10.2
+VM,Vila Mariana,28,1,14.5
+PA,Parelheiros ,28,1,1.2000000000000002
+AD,Cidade Ademar,28,1,3.1
+MB,M Boi Mirim,29,1,5.8
+CL,Campo Limpo,29,1,0.9
+CS,Capela do Socorro,29,1,17.6
+IP,Ipiranga,29,1,21.8
+JA,Jabaquara,29,1,42.6
+SA,Santo Amaro,29,1,20.1
+VM,Vila Mariana,29,1,6.0
+PA,Parelheiros ,29,1,15.9
+AD,Cidade Ademar,29,1,42.3
+MB,M Boi Mirim,30,1,3.0
+CL,Campo Limpo,30,1,2.1
+CS,Capela do Socorro,30,1,4.1
+IP,Ipiranga,30,1,1.4
+JA,Jabaquara,30,1,1.7
+SA,Santo Amaro,30,1,1.7000000000000002
+VM,Vila Mariana,30,1,1.2
+PA,Parelheiros ,30,1,1.3
+AD,Cidade Ademar,30,1,3.9
+MB,M Boi Mirim,31,1,20.2
+CL,Campo Limpo,31,1,21.2
+CS,Capela do Socorro,31,1,16.4
+IP,Ipiranga,31,1,19.700000000000003
+JA,Jabaquara,31,1,25.8
+SA,Santo Amaro,31,1,23.4
+VM,Vila Mariana,31,1,16.400000000000002
+PA,Parelheiros ,31,1,9.5
+AD,Cidade Ademar,31,1,31.4
+MB,M Boi Mirim,1,2,0.7000000000000001
+CL,Campo Limpo,1,2,0.7999999999999999
+CS,Capela do Socorro,1,2,1.2
+IP,Ipiranga,1,2,15.7
+JA,Jabaquara,1,2,6.699999999999999
+SA,Santo Amaro,1,2,3.5
+VM,Vila Mariana,1,2,9.8
+PA,Parelheiros ,1,2,1.1
+AD,Cidade Ademar,1,2,2.0
+MB,M Boi Mirim,2,2,3.0
+CL,Campo Limpo,2,2,1.3
+CS,Capela do Socorro,2,2,17.5
+IP,Ipiranga,2,2,3.0
+JA,Jabaquara,2,2,6.4
+SA,Santo Amaro,2,2,2.8
+VM,Vila Mariana,2,2,0.7
+PA,Parelheiros ,2,2,16.3
+AD,Cidade Ademar,2,2,20.9
+MB,M Boi Mirim,3,2,6.1
+CL,Campo Limpo,3,2,9.8
+CS,Capela do Socorro,3,2,6.5
+IP,Ipiranga,3,2,7.199999999999999
+JA,Jabaquara,3,2,11.9
+SA,Santo Amaro,3,2,11.8
+VM,Vila Mariana,3,2,8.4
+PA,Parelheiros ,3,2,2.1
+AD,Cidade Ademar,3,2,11.9
+MB,M Boi Mirim,4,2,0.3
+CL,Campo Limpo,4,2,0.3
+CS,Capela do Socorro,4,2,0.4
+IP,Ipiranga,4,2,0.6
+JA,Jabaquara,4,2,0.4
+SA,Santo Amaro,4,2,0.2
+VM,Vila Mariana,4,2,0.7999999999999999
+PA,Parelheiros ,4,2,1.0
+AD,Cidade Ademar,4,2,0.2
+MB,M Boi Mirim,5,2,7.3
+CL,Campo Limpo,5,2,6.9
+CS,Capela do Socorro,5,2,7.6
+IP,Ipiranga,5,2,3.2
+JA,Jabaquara,5,2,3.5
+SA,Santo Amaro,5,2,3.9
+VM,Vila Mariana,5,2,2.4000000000000004
+PA,Parelheiros ,5,2,3.8
+AD,Cidade Ademar,5,2,3.4
+MB,M Boi Mirim,6,2,1.8
+CL,Campo Limpo,6,2,2.0
+CS,Capela do Socorro,6,2,7.2
+IP,Ipiranga,6,2,14.6
+JA,Jabaquara,6,2,32.9
+SA,Santo Amaro,6,2,13.6
+VM,Vila Mariana,6,2,10.2
+PA,Parelheiros ,6,2,22.5
+AD,Cidade Ademar,6,2,18.6
+MB,M Boi Mirim,7,2,18.7
+CL,Campo Limpo,7,2,32.8
+CS,Capela do Socorro,7,2,13.6
+IP,Ipiranga,7,2,44.0
+JA,Jabaquara,7,2,28.700000000000003
+SA,Santo Amaro,7,2,42.0
+VM,Vila Mariana,7,2,52.7
+PA,Parelheiros ,7,2,4.5
+AD,Cidade Ademar,7,2,28.3
+MB,M Boi Mirim,8,2,0.2
+CL,Campo Limpo,8,2,0.1
+CS,Capela do Socorro,8,2,0.1
+IP,Ipiranga,8,2,0.0
+JA,Jabaquara,8,2,0.0
+SA,Santo Amaro,8,2,0.0
+VM,Vila Mariana,8,2,0.0
+PA,Parelheiros ,8,2,0.2
+AD,Cidade Ademar,8,2,0.0
+MB,M Boi Mirim,9,2,2.8
+CL,Campo Limpo,9,2,0.4
+CS,Capela do Socorro,9,2,0.4
+IP,Ipiranga,9,2,0.0
+JA,Jabaquara,9,2,0.0
+SA,Santo Amaro,9,2,0.2
+VM,Vila Mariana,9,2,0.0
+PA,Parelheiros ,9,2,0.4
+AD,Cidade Ademar,9,2,0.0
+MB,M Boi Mirim,10,2,0.8
+CL,Campo Limpo,10,2,1.1
+CS,Capela do Socorro,10,2,1.4
+IP,Ipiranga,10,2,0.6
+JA,Jabaquara,10,2,1.7000000000000002
+SA,Santo Amaro,10,2,1.6
+VM,Vila Mariana,10,2,0.7
+PA,Parelheiros ,10,2,5.199999999999999
+AD,Cidade Ademar,10,2,2.0
+MB,M Boi Mirim,11,2,10.0
+CL,Campo Limpo,11,2,7.6
+CS,Capela do Socorro,11,2,7.0
+IP,Ipiranga,11,2,7.7
+JA,Jabaquara,11,2,8.0
+SA,Santo Amaro,11,2,8.0
+VM,Vila Mariana,11,2,8.2
+PA,Parelheiros ,11,2,11.3
+AD,Cidade Ademar,11,2,8.6
+MB,M Boi Mirim,12,2,37.7
+CL,Campo Limpo,12,2,40.2
+CS,Capela do Socorro,12,2,38.1
+IP,Ipiranga,12,2,37.3
+JA,Jabaquara,12,2,54.0
+SA,Santo Amaro,12,2,62.9
+VM,Vila Mariana,12,2,50.9
+PA,Parelheiros ,12,2,21.700000000000003
+AD,Cidade Ademar,12,2,61.1
+MB,M Boi Mirim,13,2,1.1
+CL,Campo Limpo,13,2,2.4000000000000004
+CS,Capela do Socorro,13,2,1.8
+IP,Ipiranga,13,2,2.3
+JA,Jabaquara,13,2,6.300000000000001
+SA,Santo Amaro,13,2,3.4000000000000004
+VM,Vila Mariana,13,2,0.5
+PA,Parelheiros ,13,2,5.9
+AD,Cidade Ademar,13,2,5.1000000000000005
+MB,M Boi Mirim,14,2,2.1
+CL,Campo Limpo,14,2,0.9
+CS,Capela do Socorro,14,2,3.3000000000000003
+IP,Ipiranga,14,2,1.1
+JA,Jabaquara,14,2,5.2
+SA,Santo Amaro,14,2,2.4
+VM,Vila Mariana,14,2,0.2
+PA,Parelheiros ,14,2,3.7
+AD,Cidade Ademar,14,2,5.1
+MB,M Boi Mirim,15,2,12.7
+CL,Campo Limpo,15,2,15.8
+CS,Capela do Socorro,15,2,7.9
+IP,Ipiranga,15,2,2.5
+JA,Jabaquara,15,2,7.2
+SA,Santo Amaro,15,2,13.4
+VM,Vila Mariana,15,2,3.3000000000000003
+PA,Parelheiros ,15,2,2.1
+AD,Cidade Ademar,15,2,13.3
+MB,M Boi Mirim,16,2,23.6
+CL,Campo Limpo,16,2,23.3
+CS,Capela do Socorro,16,2,16.6
+IP,Ipiranga,16,2,22.1
+JA,Jabaquara,16,2,25.4
+SA,Santo Amaro,16,2,20.700000000000003
+VM,Vila Mariana,16,2,24.200000000000003
+PA,Parelheiros ,16,2,13.4
+AD,Cidade Ademar,16,2,21.5
+MB,M Boi Mirim,17,2,0.4
+CL,Campo Limpo,17,2,0.6
+CS,Capela do Socorro,17,2,0.0
+IP,Ipiranga,17,2,1.3000000000000005
+JA,Jabaquara,17,2,0.1
+SA,Santo Amaro,17,2,0.2
+VM,Vila Mariana,17,2,0.3
+PA,Parelheiros ,17,2,0.2
+AD,Cidade Ademar,17,2,0.1
+MB,M Boi Mirim,18,2,18.1
+CL,Campo Limpo,18,2,17.700000000000003
+CS,Capela do Socorro,18,2,24.4
+IP,Ipiranga,18,2,41.7
+JA,Jabaquara,18,2,63.2
+SA,Santo Amaro,18,2,45.2
+VM,Vila Mariana,18,2,43.3
+PA,Parelheiros ,18,2,30.0
+AD,Cidade Ademar,18,2,54.4
+MB,M Boi Mirim,19,2,14.6
+CL,Campo Limpo,19,2,14.0
+CS,Capela do Socorro,19,2,19.0
+IP,Ipiranga,19,2,20.1
+JA,Jabaquara,19,2,20.3
+SA,Santo Amaro,19,2,16.500000000000004
+VM,Vila Mariana,19,2,21.0
+PA,Parelheiros ,19,2,34.2
+AD,Cidade Ademar,19,2,19.7
+MB,M Boi Mirim,20,2,1.9
+CL,Campo Limpo,20,2,1.7999999999999998
+CS,Capela do Socorro,20,2,1.3
+IP,Ipiranga,20,2,6.8
+JA,Jabaquara,20,2,3.8
+SA,Santo Amaro,20,2,3.4
+VM,Vila Mariana,20,2,10.6
+PA,Parelheiros ,20,2,3.3
+AD,Cidade Ademar,20,2,1.2
+MB,M Boi Mirim,21,2,20.3
+CL,Campo Limpo,21,2,16.2
+CS,Capela do Socorro,21,2,27.5
+IP,Ipiranga,21,2,39.9
+JA,Jabaquara,21,2,52.2
+SA,Santo Amaro,21,2,50.5
+VM,Vila Mariana,21,2,35.5
+PA,Parelheiros ,21,2,10.3
+AD,Cidade Ademar,21,2,49.7
+MB,M Boi Mirim,22,2,0.6
+CL,Campo Limpo,22,2,0.1
+CS,Capela do Socorro,22,2,1.2
+IP,Ipiranga,22,2,2.8000000000000003
+JA,Jabaquara,22,2,1.1
+SA,Santo Amaro,22,2,1.3
+VM,Vila Mariana,22,2,2.5
+PA,Parelheiros ,22,2,1.7999999999999998
+AD,Cidade Ademar,22,2,0.3
+MB,M Boi Mirim,23,2,6.8
+CL,Campo Limpo,23,2,16.3
+CS,Capela do Socorro,23,2,12.4
+IP,Ipiranga,23,2,16.9
+JA,Jabaquara,23,2,60.9
+SA,Santo Amaro,23,2,56.2
+VM,Vila Mariana,23,2,30.3
+PA,Parelheiros ,23,2,10.3
+AD,Cidade Ademar,23,2,48.7
+MB,M Boi Mirim,24,2,0.2
+CL,Campo Limpo,24,2,0.3
+CS,Capela do Socorro,24,2,1.2
+IP,Ipiranga,24,2,0.4
+JA,Jabaquara,24,2,1.2000000000000002
+SA,Santo Amaro,24,2,0.8
+VM,Vila Mariana,24,2,2.3
+PA,Parelheiros ,24,2,0.8999999999999999
+AD,Cidade Ademar,24,2,0.7
+MB,M Boi Mirim,25,2,3.8
+CL,Campo Limpo,25,2,4.0
+CS,Capela do Socorro,25,2,2.0
+IP,Ipiranga,25,2,0.6
+JA,Jabaquara,25,2,2.9
+SA,Santo Amaro,25,2,2.1
+VM,Vila Mariana,25,2,0.4
+PA,Parelheiros ,25,2,2.9000000000000004
+AD,Cidade Ademar,25,2,3.2
+MB,M Boi Mirim,26,2,0.0
+CL,Campo Limpo,26,2,0.0
+CS,Capela do Socorro,26,2,0.0
+IP,Ipiranga,26,2,0.0
+JA,Jabaquara,26,2,0.0
+SA,Santo Amaro,26,2,0.0
+VM,Vila Mariana,26,2,0.0
+PA,Parelheiros ,26,2,0.0
+AD,Cidade Ademar,26,2,0.0
+MB,M Boi Mirim,27,2,0.3
+CL,Campo Limpo,27,2,0.1
+CS,Capela do Socorro,27,2,0.3
+IP,Ipiranga,27,2,0.0
+JA,Jabaquara,27,2,0.0
+SA,Santo Amaro,27,2,0.0
+VM,Vila Mariana,27,2,0.0
+PA,Parelheiros ,27,2,2.3
+AD,Cidade Ademar,27,2,0.0
+MB,M Boi Mirim,28,2,5.3
+CL,Campo Limpo,28,2,7.8
+CS,Capela do Socorro,28,2,7.4
+IP,Ipiranga,28,2,12.7
+JA,Jabaquara,28,2,14.4
+SA,Santo Amaro,28,2,12.3
+VM,Vila Mariana,28,2,11.2
+PA,Parelheiros ,28,2,8.999999999999998
+AD,Cidade Ademar,28,2,11.6
+MB,M Boi Mirim,1,3,3.7
+CL,Campo Limpo,1,3,5.9
+CS,Capela do Socorro,1,3,2.7
+IP,Ipiranga,1,3,0.2
+JA,Jabaquara,1,3,1.7
+SA,Santo Amaro,1,3,5.9
+VM,Vila Mariana,1,3,0.1
+PA,Parelheiros ,1,3,0.7
+AD,Cidade Ademar,1,3,5.2
+MB,M Boi Mirim,2,3,0.0
+CL,Campo Limpo,2,3,0.0
+CS,Capela do Socorro,2,3,0.0
+IP,Ipiranga,2,3,0.0
+JA,Jabaquara,2,3,0.0
+SA,Santo Amaro,2,3,0.0
+VM,Vila Mariana,2,3,0.0
+PA,Parelheiros ,2,3,0.0
+AD,Cidade Ademar,2,3,0.0
+MB,M Boi Mirim,3,3,4.5
+CL,Campo Limpo,3,3,7.5
+CS,Capela do Socorro,3,3,8.200000000000001
+IP,Ipiranga,3,3,21.7
+JA,Jabaquara,3,3,10.0
+SA,Santo Amaro,3,3,2.4
+VM,Vila Mariana,3,3,8.6
+PA,Parelheiros ,3,3,10.3
+AD,Cidade Ademar,3,3,7.2
+MB,M Boi Mirim,4,3,0.3
+CL,Campo Limpo,4,3,0.3
+CS,Capela do Socorro,4,3,0.1
+IP,Ipiranga,4,3,0.1
+JA,Jabaquara,4,3,0.1
+SA,Santo Amaro,4,3,0.1
+VM,Vila Mariana,4,3,0.2
+PA,Parelheiros ,4,3,0.6
+AD,Cidade Ademar,4,3,0.1
+MB,M Boi Mirim,5,3,8.1
+CL,Campo Limpo,5,3,5.4
+CS,Capela do Socorro,5,3,12.8
+IP,Ipiranga,5,3,4.2
+JA,Jabaquara,5,3,9.2
+SA,Santo Amaro,5,3,9.8
+VM,Vila Mariana,5,3,3.6
+PA,Parelheiros ,5,3,21.200000000000003
+AD,Cidade Ademar,5,3,10.1
+MB,M Boi Mirim,6,3,16.7
+CL,Campo Limpo,6,3,15.3
+CS,Capela do Socorro,6,3,16.4
+IP,Ipiranga,6,3,8.200000000000001
+JA,Jabaquara,6,3,19.8
+SA,Santo Amaro,6,3,14.8
+VM,Vila Mariana,6,3,8.1
+PA,Parelheiros ,6,3,26.3
+AD,Cidade Ademar,6,3,15.6
+MB,M Boi Mirim,7,3,1.1
+CL,Campo Limpo,7,3,1.4
+CS,Capela do Socorro,7,3,0.9
+IP,Ipiranga,7,3,0.6
+JA,Jabaquara,7,3,0.7999999999999999
+SA,Santo Amaro,7,3,1.2
+VM,Vila Mariana,7,3,0.7
+PA,Parelheiros ,7,3,0.8999999999999999
+AD,Cidade Ademar,7,3,1.1
+MB,M Boi Mirim,8,3,34.900000000000006
+CL,Campo Limpo,8,3,22.2
+CS,Capela do Socorro,8,3,14.9
+IP,Ipiranga,8,3,29.0
+JA,Jabaquara,8,3,34.6
+SA,Santo Amaro,8,3,40.7
+VM,Vila Mariana,8,3,45.2
+PA,Parelheiros ,8,3,8.6
+AD,Cidade Ademar,8,3,27.9
+MB,M Boi Mirim,9,3,3.1
+CL,Campo Limpo,9,3,3.4
+CS,Capela do Socorro,9,3,6.199999999999999
+IP,Ipiranga,9,3,14.3
+JA,Jabaquara,9,3,13.3
+SA,Santo Amaro,9,3,5.1
+VM,Vila Mariana,9,3,7.2
+PA,Parelheiros ,9,3,3.5
+AD,Cidade Ademar,9,3,18.5
+MB,M Boi Mirim,10,3,40.49999999999999
+CL,Campo Limpo,10,3,47.3
+CS,Capela do Socorro,10,3,40.3
+IP,Ipiranga,10,3,38.99999999999999
+JA,Jabaquara,10,3,68.39999999999999
+SA,Santo Amaro,10,3,57.6
+VM,Vila Mariana,10,3,46.1
+PA,Parelheiros ,10,3,17.799999999999997
+AD,Cidade Ademar,10,3,66.70000000000002
+MB,M Boi Mirim,11,3,8.600000000000001
+CL,Campo Limpo,11,3,8.899999999999999
+CS,Capela do Socorro,11,3,13.7
+IP,Ipiranga,11,3,29.0
+JA,Jabaquara,11,3,14.3
+SA,Santo Amaro,11,3,6.1
+VM,Vila Mariana,11,3,12.6
+PA,Parelheiros ,11,3,10.9
+AD,Cidade Ademar,11,3,5.3
+MB,M Boi Mirim,12,3,24.3
+CL,Campo Limpo,12,3,20.8
+CS,Capela do Socorro,12,3,40.0
+IP,Ipiranga,12,3,28.7
+JA,Jabaquara,12,3,16.2
+SA,Santo Amaro,12,3,15.9
+VM,Vila Mariana,12,3,16.900000000000002
+PA,Parelheiros ,12,3,21.500000000000004
+AD,Cidade Ademar,12,3,27.4
+MB,M Boi Mirim,13,3,20.7
+CL,Campo Limpo,13,3,30.4
+CS,Capela do Socorro,13,3,9.8
+IP,Ipiranga,13,3,36.2
+JA,Jabaquara,13,3,42.3
+SA,Santo Amaro,13,3,36.6
+VM,Vila Mariana,13,3,32.1
+PA,Parelheiros ,13,3,1.7000000000000002
+AD,Cidade Ademar,13,3,24.4
+MB,M Boi Mirim,14,3,1.3
+CL,Campo Limpo,14,3,5.3
+CS,Capela do Socorro,14,3,2.0
+IP,Ipiranga,14,3,3.8
+JA,Jabaquara,14,3,2.8
+SA,Santo Amaro,14,3,2.6
+VM,Vila Mariana,14,3,4.5
+PA,Parelheiros ,14,3,2.1
+AD,Cidade Ademar,14,3,1.4
+MB,M Boi Mirim,15,3,0.2
+CL,Campo Limpo,15,3,0.0
+CS,Capela do Socorro,15,3,0.0
+IP,Ipiranga,15,3,0.0
+JA,Jabaquara,15,3,0.0
+SA,Santo Amaro,15,3,0.0
+VM,Vila Mariana,15,3,0.0
+PA,Parelheiros ,15,3,0.6
+AD,Cidade Ademar,15,3,0.0
+MB,M Boi Mirim,16,3,0.0
+CL,Campo Limpo,16,3,0.0
+CS,Capela do Socorro,16,3,0.0
+IP,Ipiranga,16,3,0.0
+JA,Jabaquara,16,3,0.0
+SA,Santo Amaro,16,3,0.0
+VM,Vila Mariana,16,3,0.0
+PA,Parelheiros ,16,3,0.0
+AD,Cidade Ademar,16,3,0.0
+MB,M Boi Mirim,17,3,0.0
+CL,Campo Limpo,17,3,0.0
+CS,Capela do Socorro,17,3,0.0
+IP,Ipiranga,17,3,0.0
+JA,Jabaquara,17,3,0.0
+SA,Santo Amaro,17,3,0.0
+VM,Vila Mariana,17,3,0.0
+PA,Parelheiros ,17,3,0.0
+AD,Cidade Ademar,17,3,0.0
+MB,M Boi Mirim,18,3,0.0
+CL,Campo Limpo,18,3,0.0
+CS,Capela do Socorro,18,3,0.0
+IP,Ipiranga,18,3,0.0
+JA,Jabaquara,18,3,0.0
+SA,Santo Amaro,18,3,0.0
+VM,Vila Mariana,18,3,0.0
+PA,Parelheiros ,18,3,0.0
+AD,Cidade Ademar,18,3,0.0
+MB,M Boi Mirim,19,3,0.1
+CL,Campo Limpo,19,3,0.0
+CS,Capela do Socorro,19,3,0.0
+IP,Ipiranga,19,3,0.0
+JA,Jabaquara,19,3,0.0
+SA,Santo Amaro,19,3,0.0
+VM,Vila Mariana,19,3,0.0
+PA,Parelheiros ,19,3,0.0
+AD,Cidade Ademar,19,3,0.0
+MB,M Boi Mirim,20,3,0.1
+CL,Campo Limpo,20,3,0.5
+CS,Capela do Socorro,20,3,0.5
+IP,Ipiranga,20,3,0.0
+JA,Jabaquara,20,3,0.0
+SA,Santo Amaro,20,3,0.6
+VM,Vila Mariana,20,3,0.3
+PA,Parelheiros ,20,3,0.0
+AD,Cidade Ademar,20,3,0.2
+MB,M Boi Mirim,21,3,0.0
+CL,Campo Limpo,21,3,0.0
+CS,Capela do Socorro,21,3,0.0
+IP,Ipiranga,21,3,0.0
+JA,Jabaquara,21,3,0.0
+SA,Santo Amaro,21,3,0.0
+VM,Vila Mariana,21,3,0.0
+PA,Parelheiros ,21,3,0.0
+AD,Cidade Ademar,21,3,0.0
+MB,M Boi Mirim,22,3,0.0
+CL,Campo Limpo,22,3,0.0
+CS,Capela do Socorro,22,3,0.0
+IP,Ipiranga,22,3,0.0
+JA,Jabaquara,22,3,0.0
+SA,Santo Amaro,22,3,0.0
+VM,Vila Mariana,22,3,0.0
+PA,Parelheiros ,22,3,0.0
+AD,Cidade Ademar,22,3,0.0
+MB,M Boi Mirim,23,3,0.0
+CL,Campo Limpo,23,3,0.0
+CS,Capela do Socorro,23,3,0.0
+IP,Ipiranga,23,3,0.0
+JA,Jabaquara,23,3,0.0
+SA,Santo Amaro,23,3,0.0
+VM,Vila Mariana,23,3,0.0
+PA,Parelheiros ,23,3,0.0
+AD,Cidade Ademar,23,3,0.0
+MB,M Boi Mirim,24,3,0.0
+CL,Campo Limpo,24,3,0.0
+CS,Capela do Socorro,24,3,0.0
+IP,Ipiranga,24,3,0.0
+JA,Jabaquara,24,3,0.0
+SA,Santo Amaro,24,3,0.0
+VM,Vila Mariana,24,3,0.0
+PA,Parelheiros ,24,3,0.0
+AD,Cidade Ademar,24,3,0.0
+MB,M Boi Mirim,25,3,0.0
+CL,Campo Limpo,25,3,0.0
+CS,Capela do Socorro,25,3,0.0
+IP,Ipiranga,25,3,0.0
+JA,Jabaquara,25,3,0.0
+SA,Santo Amaro,25,3,0.0
+VM,Vila Mariana,25,3,0.0
+PA,Parelheiros ,25,3,0.0
+AD,Cidade Ademar,25,3,0.0
+MB,M Boi Mirim,26,3,0.7
+CL,Campo Limpo,26,3,0.6
+CS,Capela do Socorro,26,3,2.1
+IP,Ipiranga,26,3,3.2
+JA,Jabaquara,26,3,3.0
+SA,Santo Amaro,26,3,0.9
+VM,Vila Mariana,26,3,3.2
+PA,Parelheiros ,26,3,3.3
+AD,Cidade Ademar,26,3,2.5
+MB,M Boi Mirim,27,3,3.9
+CL,Campo Limpo,27,3,7.399999999999999
+CS,Capela do Socorro,27,3,5.0
+IP,Ipiranga,27,3,16.700000000000003
+JA,Jabaquara,27,3,17.0
+SA,Santo Amaro,27,3,11.8
+VM,Vila Mariana,27,3,13.8
+PA,Parelheiros ,27,3,2.8
+AD,Cidade Ademar,27,3,13.6
+MB,M Boi Mirim,28,3,0.0
+CL,Campo Limpo,28,3,0.0
+CS,Capela do Socorro,28,3,0.0
+IP,Ipiranga,28,3,0.0
+JA,Jabaquara,28,3,0.0
+SA,Santo Amaro,28,3,0.0
+VM,Vila Mariana,28,3,0.0
+PA,Parelheiros ,28,3,0.0
+AD,Cidade Ademar,28,3,0.0
+MB,M Boi Mirim,29,3,4.5
+CL,Campo Limpo,29,3,1.8
+CS,Capela do Socorro,29,3,6.0
+IP,Ipiranga,29,3,0.4
+JA,Jabaquara,29,3,0.0
+SA,Santo Amaro,29,3,1.2
+VM,Vila Mariana,29,3,0.8
+PA,Parelheiros ,29,3,2.4
+AD,Cidade Ademar,29,3,0.7
+MB,M Boi Mirim,30,3,0.0
+CL,Campo Limpo,30,3,0.0
+CS,Capela do Socorro,30,3,0.3
+IP,Ipiranga,30,3,0.0
+JA,Jabaquara,30,3,0.0
+SA,Santo Amaro,30,3,0.0
+VM,Vila Mariana,30,3,0.0
+PA,Parelheiros ,30,3,1.5
+AD,Cidade Ademar,30,3,0.0
+MB,M Boi Mirim,31,3,16.7
+CL,Campo Limpo,31,3,17.6
+CS,Capela do Socorro,31,3,20.7
+IP,Ipiranga,31,3,12.6
+JA,Jabaquara,31,3,12.6
+SA,Santo Amaro,31,3,15.4
+VM,Vila Mariana,31,3,12.9
+PA,Parelheiros ,31,3,5.1
+AD,Cidade Ademar,31,3,23.4
+MB,M Boi Mirim,1,4,0.1
+CL,Campo Limpo,1,4,0.2
+CS,Capela do Socorro,1,4,0.8999999999999999
+IP,Ipiranga,1,4,0.1
+JA,Jabaquara,1,4,0.2
+SA,Santo Amaro,1,4,0.0
+VM,Vila Mariana,1,4,0.0
+PA,Parelheiros ,1,4,20.0
+AD,Cidade Ademar,1,4,0.1
+MB,M Boi Mirim,2,4,0.1
+CL,Campo Limpo,2,4,0.1
+CS,Capela do Socorro,2,4,0.2
+IP,Ipiranga,2,4,0.0
+JA,Jabaquara,2,4,0.1
+SA,Santo Amaro,2,4,0.2
+VM,Vila Mariana,2,4,0.0
+PA,Parelheiros ,2,4,0.6000000000000001
+AD,Cidade Ademar,2,4,0.2
+MB,M Boi Mirim,3,4,0.0
+CL,Campo Limpo,3,4,0.0
+CS,Capela do Socorro,3,4,0.0
+IP,Ipiranga,3,4,0.0
+JA,Jabaquara,3,4,0.0
+SA,Santo Amaro,3,4,0.0
+VM,Vila Mariana,3,4,0.0
+PA,Parelheiros ,3,4,0.0
+AD,Cidade Ademar,3,4,0.0
+MB,M Boi Mirim,4,4,0.0
+CL,Campo Limpo,4,4,0.0
+CS,Capela do Socorro,4,4,0.0
+IP,Ipiranga,4,4,0.0
+JA,Jabaquara,4,4,0.0
+SA,Santo Amaro,4,4,0.0
+VM,Vila Mariana,4,4,0.0
+PA,Parelheiros ,4,4,0.0
+AD,Cidade Ademar,4,4,0.0
+MB,M Boi Mirim,5,4,0.0
+CL,Campo Limpo,5,4,0.0
+CS,Capela do Socorro,5,4,0.0
+IP,Ipiranga,5,4,0.0
+JA,Jabaquara,5,4,0.0
+SA,Santo Amaro,5,4,0.0
+VM,Vila Mariana,5,4,0.0
+PA,Parelheiros ,5,4,0.0
+AD,Cidade Ademar,5,4,0.0
+MB,M Boi Mirim,6,4,0.0
+CL,Campo Limpo,6,4,0.0
+CS,Capela do Socorro,6,4,0.0
+IP,Ipiranga,6,4,0.0
+JA,Jabaquara,6,4,0.0
+SA,Santo Amaro,6,4,0.0
+VM,Vila Mariana,6,4,0.0
+PA,Parelheiros ,6,4,0.0
+AD,Cidade Ademar,6,4,0.0
+MB,M Boi Mirim,7,4,7.5
+CL,Campo Limpo,7,4,9.6
+CS,Capela do Socorro,7,4,11.9
+IP,Ipiranga,7,4,9.1
+JA,Jabaquara,7,4,9.9
+SA,Santo Amaro,7,4,10.8
+VM,Vila Mariana,7,4,8.1
+PA,Parelheiros ,7,4,14.8
+AD,Cidade Ademar,7,4,12.7
+MB,M Boi Mirim,8,4,1.0
+CL,Campo Limpo,8,4,0.5
+CS,Capela do Socorro,8,4,3.2
+IP,Ipiranga,8,4,0.7
+JA,Jabaquara,8,4,0.4
+SA,Santo Amaro,8,4,0.1
+VM,Vila Mariana,8,4,0.6
+PA,Parelheiros ,8,4,10.1
+AD,Cidade Ademar,8,4,0.5
+MB,M Boi Mirim,9,4,0.3
+CL,Campo Limpo,9,4,0.2
+CS,Capela do Socorro,9,4,1.4
+IP,Ipiranga,9,4,0.0
+JA,Jabaquara,9,4,0.1
+SA,Santo Amaro,9,4,0.0
+VM,Vila Mariana,9,4,0.0
+PA,Parelheiros ,9,4,1.6
+AD,Cidade Ademar,9,4,0.2
+MB,M Boi Mirim,10,4,0.0
+CL,Campo Limpo,10,4,0.0
+CS,Capela do Socorro,10,4,0.0
+IP,Ipiranga,10,4,0.0
+JA,Jabaquara,10,4,0.0
+SA,Santo Amaro,10,4,0.0
+VM,Vila Mariana,10,4,0.0
+PA,Parelheiros ,10,4,0.0
+AD,Cidade Ademar,10,4,0.0
+MB,M Boi Mirim,11,4,0.0
+CL,Campo Limpo,11,4,0.0
+CS,Capela do Socorro,11,4,0.0
+IP,Ipiranga,11,4,0.0
+JA,Jabaquara,11,4,0.0
+SA,Santo Amaro,11,4,0.0
+VM,Vila Mariana,11,4,0.0
+PA,Parelheiros ,11,4,0.0
+AD,Cidade Ademar,11,4,0.0
+MB,M Boi Mirim,12,4,0.3
+CL,Campo Limpo,12,4,0.4
+CS,Capela do Socorro,12,4,0.4
+IP,Ipiranga,12,4,0.1
+JA,Jabaquara,12,4,0.1
+SA,Santo Amaro,12,4,0.0
+VM,Vila Mariana,12,4,0.4
+PA,Parelheiros ,12,4,6.0
+AD,Cidade Ademar,12,4,0.3
+MB,M Boi Mirim,13,4,0.2
+CL,Campo Limpo,13,4,0.4
+CS,Capela do Socorro,13,4,0.3
+IP,Ipiranga,13,4,0.7
+JA,Jabaquara,13,4,0.3
+SA,Santo Amaro,13,4,0.7
+VM,Vila Mariana,13,4,1.6
+PA,Parelheiros ,13,4,0.2
+AD,Cidade Ademar,13,4,0.2
+MB,M Boi Mirim,14,4,11.2
+CL,Campo Limpo,14,4,14.2
+CS,Capela do Socorro,14,4,13.4
+IP,Ipiranga,14,4,10.7
+JA,Jabaquara,14,4,12.0
+SA,Santo Amaro,14,4,12.7
+VM,Vila Mariana,14,4,12.2
+PA,Parelheiros ,14,4,14.8
+AD,Cidade Ademar,14,4,14.7
+MB,M Boi Mirim,15,4,1.1
+CL,Campo Limpo,15,4,1.4
+CS,Capela do Socorro,15,4,3.8
+IP,Ipiranga,15,4,4.2
+JA,Jabaquara,15,4,3.3
+SA,Santo Amaro,15,4,1.7999999999999998
+VM,Vila Mariana,15,4,2.8000000000000003
+PA,Parelheiros ,15,4,10.2
+AD,Cidade Ademar,15,4,4.4
+MB,M Boi Mirim,16,4,0.0
+CL,Campo Limpo,16,4,0.0
+CS,Capela do Socorro,16,4,0.0
+IP,Ipiranga,16,4,0.0
+JA,Jabaquara,16,4,0.0
+SA,Santo Amaro,16,4,0.0
+VM,Vila Mariana,16,4,0.0
+PA,Parelheiros ,16,4,0.0
+AD,Cidade Ademar,16,4,0.0
+MB,M Boi Mirim,17,4,1.5
+CL,Campo Limpo,17,4,1.8
+CS,Capela do Socorro,17,4,2.4
+IP,Ipiranga,17,4,2.4
+JA,Jabaquara,17,4,2.2
+SA,Santo Amaro,17,4,1.7
+VM,Vila Mariana,17,4,2.2
+PA,Parelheiros ,17,4,1.3
+AD,Cidade Ademar,17,4,2.2
+MB,M Boi Mirim,18,4,32.400000000000006
+CL,Campo Limpo,18,4,39.5
+CS,Capela do Socorro,18,4,47.2
+IP,Ipiranga,18,4,35.099999999999994
+JA,Jabaquara,18,4,41.400000000000006
+SA,Santo Amaro,18,4,43.3
+VM,Vila Mariana,18,4,39.900000000000006
+PA,Parelheiros ,18,4,35.2
+AD,Cidade Ademar,18,4,49.400000000000006
+MB,M Boi Mirim,19,4,1.2
+CL,Campo Limpo,19,4,1.7
+CS,Capela do Socorro,19,4,0.6
+IP,Ipiranga,19,4,0.7
+JA,Jabaquara,19,4,0.6
+SA,Santo Amaro,19,4,0.6
+VM,Vila Mariana,19,4,1.0
+PA,Parelheiros ,19,4,0.1
+AD,Cidade Ademar,19,4,0.7
+MB,M Boi Mirim,20,4,0.0
+CL,Campo Limpo,20,4,0.0
+CS,Capela do Socorro,20,4,0.0
+IP,Ipiranga,20,4,0.0
+JA,Jabaquara,20,4,0.0
+SA,Santo Amaro,20,4,0.0
+VM,Vila Mariana,20,4,0.0
+PA,Parelheiros ,20,4,0.0
+AD,Cidade Ademar,20,4,0.0
+MB,M Boi Mirim,21,4,0.0
+CL,Campo Limpo,21,4,0.0
+CS,Capela do Socorro,21,4,0.0
+IP,Ipiranga,21,4,0.0
+JA,Jabaquara,21,4,0.0
+SA,Santo Amaro,21,4,0.0
+VM,Vila Mariana,21,4,0.0
+PA,Parelheiros ,21,4,0.0
+AD,Cidade Ademar,21,4,0.0
+MB,M Boi Mirim,22,4,0.0
+CL,Campo Limpo,22,4,0.0
+CS,Capela do Socorro,22,4,0.0
+IP,Ipiranga,22,4,0.0
+JA,Jabaquara,22,4,0.0
+SA,Santo Amaro,22,4,0.0
+VM,Vila Mariana,22,4,0.0
+PA,Parelheiros ,22,4,0.0
+AD,Cidade Ademar,22,4,0.0
+MB,M Boi Mirim,23,4,0.0
+CL,Campo Limpo,23,4,0.0
+CS,Capela do Socorro,23,4,0.0
+IP,Ipiranga,23,4,0.0
+JA,Jabaquara,23,4,0.0
+SA,Santo Amaro,23,4,0.0
+VM,Vila Mariana,23,4,0.0
+PA,Parelheiros ,23,4,0.0
+AD,Cidade Ademar,23,4,0.0
+MB,M Boi Mirim,24,4,0.0
+CL,Campo Limpo,24,4,0.0
+CS,Capela do Socorro,24,4,0.0
+IP,Ipiranga,24,4,0.0
+JA,Jabaquara,24,4,0.0
+SA,Santo Amaro,24,4,0.0
+VM,Vila Mariana,24,4,0.0
+PA,Parelheiros ,24,4,0.0
+AD,Cidade Ademar,24,4,0.0
+MB,M Boi Mirim,25,4,0.0
+CL,Campo Limpo,25,4,0.0
+CS,Capela do Socorro,25,4,0.0
+IP,Ipiranga,25,4,0.0
+JA,Jabaquara,25,4,0.0
+SA,Santo Amaro,25,4,0.0
+VM,Vila Mariana,25,4,0.0
+PA,Parelheiros ,25,4,0.0
+AD,Cidade Ademar,25,4,0.0
+MB,M Boi Mirim,26,4,0.3
+CL,Campo Limpo,26,4,0.1
+CS,Capela do Socorro,26,4,0.2
+IP,Ipiranga,26,4,0.4
+JA,Jabaquara,26,4,0.2
+SA,Santo Amaro,26,4,0.1
+VM,Vila Mariana,26,4,0.2
+PA,Parelheiros ,26,4,0.5
+AD,Cidade Ademar,26,4,0.1
+MB,M Boi Mirim,27,4,4.6
+CL,Campo Limpo,27,4,3.3000000000000003
+CS,Capela do Socorro,27,4,2.5
+IP,Ipiranga,27,4,1.4
+JA,Jabaquara,27,4,1.4
+SA,Santo Amaro,27,4,2.2
+VM,Vila Mariana,27,4,1.7
+PA,Parelheiros ,27,4,2.9
+AD,Cidade Ademar,27,4,2.1
+MB,M Boi Mirim,28,4,1.2000000000000002
+CL,Campo Limpo,28,4,1.1
+CS,Capela do Socorro,28,4,0.5
+IP,Ipiranga,28,4,0.8999999999999999
+JA,Jabaquara,28,4,0.7
+SA,Santo Amaro,28,4,0.7
+VM,Vila Mariana,28,4,0.8
+PA,Parelheiros ,28,4,1.8
+AD,Cidade Ademar,28,4,0.6
+MB,M Boi Mirim,29,4,0.8
+CL,Campo Limpo,29,4,1.4
+CS,Capela do Socorro,29,4,0.4
+IP,Ipiranga,29,4,0.8
+JA,Jabaquara,29,4,1.4
+SA,Santo Amaro,29,4,1.1
+VM,Vila Mariana,29,4,0.6
+PA,Parelheiros ,29,4,2.4
+AD,Cidade Ademar,29,4,1.0
+MB,M Boi Mirim,30,4,0.0
+CL,Campo Limpo,30,4,0.0
+CS,Capela do Socorro,30,4,0.0
+IP,Ipiranga,30,4,0.0
+JA,Jabaquara,30,4,0.0
+SA,Santo Amaro,30,4,0.0
+VM,Vila Mariana,30,4,0.0
+PA,Parelheiros ,30,4,0.0
+AD,Cidade Ademar,30,4,0.0
+MB,M Boi Mirim,1,5,1.0
+CL,Campo Limpo,1,5,0.2
+CS,Capela do Socorro,1,5,0.0
+IP,Ipiranga,1,5,0.0
+JA,Jabaquara,1,5,0.0
+SA,Santo Amaro,1,5,0.0
+VM,Vila Mariana,1,5,0.0
+PA,Parelheiros ,1,5,0.1
+AD,Cidade Ademar,1,5,0.0
+MB,M Boi Mirim,2,5,0.2
+CL,Campo Limpo,2,5,1.8
+CS,Capela do Socorro,2,5,0.2
+IP,Ipiranga,2,5,0.0
+JA,Jabaquara,2,5,0.0
+SA,Santo Amaro,2,5,0.1
+VM,Vila Mariana,2,5,0.1
+PA,Parelheiros ,2,5,0.2
+AD,Cidade Ademar,2,5,0.0
+MB,M Boi Mirim,3,5,0.0
+CL,Campo Limpo,3,5,0.0
+CS,Capela do Socorro,3,5,0.0
+IP,Ipiranga,3,5,0.0
+JA,Jabaquara,3,5,0.0
+SA,Santo Amaro,3,5,0.0
+VM,Vila Mariana,3,5,0.0
+PA,Parelheiros ,3,5,0.0
+AD,Cidade Ademar,3,5,0.0
+MB,M Boi Mirim,4,5,0.0
+CL,Campo Limpo,4,5,0.0
+CS,Capela do Socorro,4,5,0.0
+IP,Ipiranga,4,5,0.0
+JA,Jabaquara,4,5,0.0
+SA,Santo Amaro,4,5,0.0
+VM,Vila Mariana,4,5,0.0
+PA,Parelheiros ,4,5,0.0
+AD,Cidade Ademar,4,5,0.0
+MB,M Boi Mirim,5,5,0.0
+CL,Campo Limpo,5,5,0.0
+CS,Capela do Socorro,5,5,0.0
+IP,Ipiranga,5,5,0.0
+JA,Jabaquara,5,5,0.0
+SA,Santo Amaro,5,5,0.0
+VM,Vila Mariana,5,5,0.0
+PA,Parelheiros ,5,5,0.0
+AD,Cidade Ademar,5,5,0.0
+MB,M Boi Mirim,6,5,0.0
+CL,Campo Limpo,6,5,0.0
+CS,Capela do Socorro,6,5,0.0
+IP,Ipiranga,6,5,0.0
+JA,Jabaquara,6,5,0.0
+SA,Santo Amaro,6,5,0.0
+VM,Vila Mariana,6,5,0.0
+PA,Parelheiros ,6,5,0.0
+AD,Cidade Ademar,6,5,0.0
+MB,M Boi Mirim,7,5,0.0
+CL,Campo Limpo,7,5,0.0
+CS,Capela do Socorro,7,5,0.0
+IP,Ipiranga,7,5,0.0
+JA,Jabaquara,7,5,0.0
+SA,Santo Amaro,7,5,0.0
+VM,Vila Mariana,7,5,0.0
+PA,Parelheiros ,7,5,0.0
+AD,Cidade Ademar,7,5,0.0
+MB,M Boi Mirim,8,5,0.0
+CL,Campo Limpo,8,5,0.0
+CS,Capela do Socorro,8,5,0.0
+IP,Ipiranga,8,5,0.0
+JA,Jabaquara,8,5,0.0
+SA,Santo Amaro,8,5,0.0
+VM,Vila Mariana,8,5,0.0
+PA,Parelheiros ,8,5,0.0
+AD,Cidade Ademar,8,5,0.0
+MB,M Boi Mirim,9,5,1.2
+CL,Campo Limpo,9,5,0.7
+CS,Capela do Socorro,9,5,3.0
+IP,Ipiranga,9,5,0.1
+JA,Jabaquara,9,5,0.5
+SA,Santo Amaro,9,5,1.0
+VM,Vila Mariana,9,5,0.0
+PA,Parelheiros ,9,5,14.4
+AD,Cidade Ademar,9,5,2.1
+MB,M Boi Mirim,10,5,1.3
+CL,Campo Limpo,10,5,2.1
+CS,Capela do Socorro,10,5,0.7999999999999999
+IP,Ipiranga,10,5,9.3
+JA,Jabaquara,10,5,2.7
+SA,Santo Amaro,10,5,1.6
+VM,Vila Mariana,10,5,8.0
+PA,Parelheiros ,10,5,7.6
+AD,Cidade Ademar,10,5,1.7
+MB,M Boi Mirim,11,5,0.0
+CL,Campo Limpo,11,5,0.0
+CS,Capela do Socorro,11,5,0.0
+IP,Ipiranga,11,5,0.0
+JA,Jabaquara,11,5,0.0
+SA,Santo Amaro,11,5,0.0
+VM,Vila Mariana,11,5,0.0
+PA,Parelheiros ,11,5,0.0
+AD,Cidade Ademar,11,5,0.0
+MB,M Boi Mirim,12,5,0.1
+CL,Campo Limpo,12,5,0.0
+CS,Capela do Socorro,12,5,0.5
+IP,Ipiranga,12,5,0.6
+JA,Jabaquara,12,5,0.5
+SA,Santo Amaro,12,5,0.0
+VM,Vila Mariana,12,5,0.1
+PA,Parelheiros ,12,5,3.3
+AD,Cidade Ademar,12,5,0.6
+MB,M Boi Mirim,13,5,0.1
+CL,Campo Limpo,13,5,0.0
+CS,Capela do Socorro,13,5,0.1
+IP,Ipiranga,13,5,0.3
+JA,Jabaquara,13,5,0.3
+SA,Santo Amaro,13,5,0.0
+VM,Vila Mariana,13,5,0.2
+PA,Parelheiros ,13,5,1.1
+AD,Cidade Ademar,13,5,0.4
+MB,M Boi Mirim,14,5,0.0
+CL,Campo Limpo,14,5,0.0
+CS,Capela do Socorro,14,5,0.0
+IP,Ipiranga,14,5,0.0
+JA,Jabaquara,14,5,0.0
+SA,Santo Amaro,14,5,0.0
+VM,Vila Mariana,14,5,0.0
+PA,Parelheiros ,14,5,0.0
+AD,Cidade Ademar,14,5,0.0
+MB,M Boi Mirim,15,5,0.0
+CL,Campo Limpo,15,5,0.0
+CS,Capela do Socorro,15,5,0.0
+IP,Ipiranga,15,5,0.0
+JA,Jabaquara,15,5,0.0
+SA,Santo Amaro,15,5,0.0
+VM,Vila Mariana,15,5,0.0
+PA,Parelheiros ,15,5,0.0
+AD,Cidade Ademar,15,5,0.0
+MB,M Boi Mirim,16,5,0.0
+CL,Campo Limpo,16,5,0.0
+CS,Capela do Socorro,16,5,0.0
+IP,Ipiranga,16,5,0.0
+JA,Jabaquara,16,5,0.0
+SA,Santo Amaro,16,5,0.0
+VM,Vila Mariana,16,5,0.0
+PA,Parelheiros ,16,5,0.0
+AD,Cidade Ademar,16,5,0.0
+MB,M Boi Mirim,17,5,0.0
+CL,Campo Limpo,17,5,0.0
+CS,Capela do Socorro,17,5,0.0
+IP,Ipiranga,17,5,0.0
+JA,Jabaquara,17,5,0.0
+SA,Santo Amaro,17,5,0.0
+VM,Vila Mariana,17,5,0.0
+PA,Parelheiros ,17,5,0.0
+AD,Cidade Ademar,17,5,0.0
+MB,M Boi Mirim,18,5,0.0
+CL,Campo Limpo,18,5,0.0
+CS,Capela do Socorro,18,5,0.0
+IP,Ipiranga,18,5,0.0
+JA,Jabaquara,18,5,0.0
+SA,Santo Amaro,18,5,0.0
+VM,Vila Mariana,18,5,0.0
+PA,Parelheiros ,18,5,0.0
+AD,Cidade Ademar,18,5,0.0
+MB,M Boi Mirim,19,5,0.0
+CL,Campo Limpo,19,5,0.0
+CS,Capela do Socorro,19,5,0.0
+IP,Ipiranga,19,5,0.0
+JA,Jabaquara,19,5,0.0
+SA,Santo Amaro,19,5,0.0
+VM,Vila Mariana,19,5,0.0
+PA,Parelheiros ,19,5,0.0
+AD,Cidade Ademar,19,5,0.0
+MB,M Boi Mirim,20,5,0.0
+CL,Campo Limpo,20,5,0.0
+CS,Capela do Socorro,20,5,0.0
+IP,Ipiranga,20,5,0.0
+JA,Jabaquara,20,5,0.0
+SA,Santo Amaro,20,5,0.0
+VM,Vila Mariana,20,5,0.0
+PA,Parelheiros ,20,5,0.0
+AD,Cidade Ademar,20,5,0.0
+MB,M Boi Mirim,21,5,0.0
+CL,Campo Limpo,21,5,0.0
+CS,Capela do Socorro,21,5,0.0
+IP,Ipiranga,21,5,0.0
+JA,Jabaquara,21,5,0.0
+SA,Santo Amaro,21,5,0.0
+VM,Vila Mariana,21,5,0.0
+PA,Parelheiros ,21,5,0.0
+AD,Cidade Ademar,21,5,0.0
+MB,M Boi Mirim,22,5,0.0
+CL,Campo Limpo,22,5,0.0
+CS,Capela do Socorro,22,5,0.0
+IP,Ipiranga,22,5,0.0
+JA,Jabaquara,22,5,0.0
+SA,Santo Amaro,22,5,0.0
+VM,Vila Mariana,22,5,0.0
+PA,Parelheiros ,22,5,0.0
+AD,Cidade Ademar,22,5,0.0
+MB,M Boi Mirim,23,5,0.0
+CL,Campo Limpo,23,5,0.0
+CS,Capela do Socorro,23,5,0.0
+IP,Ipiranga,23,5,0.0
+JA,Jabaquara,23,5,0.0
+SA,Santo Amaro,23,5,0.0
+VM,Vila Mariana,23,5,0.0
+PA,Parelheiros ,23,5,0.0
+AD,Cidade Ademar,23,5,0.0
+MB,M Boi Mirim,24,5,0.0
+CL,Campo Limpo,24,5,0.0
+CS,Capela do Socorro,24,5,0.0
+IP,Ipiranga,24,5,0.0
+JA,Jabaquara,24,5,0.0
+SA,Santo Amaro,24,5,0.0
+VM,Vila Mariana,24,5,0.0
+PA,Parelheiros ,24,5,0.0
+AD,Cidade Ademar,24,5,0.0
+MB,M Boi Mirim,25,5,0.0
+CL,Campo Limpo,25,5,0.0
+CS,Capela do Socorro,25,5,0.0
+IP,Ipiranga,25,5,0.0
+JA,Jabaquara,25,5,0.0
+SA,Santo Amaro,25,5,0.0
+VM,Vila Mariana,25,5,0.0
+PA,Parelheiros ,25,5,0.0
+AD,Cidade Ademar,25,5,0.0
+MB,M Boi Mirim,26,5,0.0
+CL,Campo Limpo,26,5,0.0
+CS,Capela do Socorro,26,5,0.0
+IP,Ipiranga,26,5,0.0
+JA,Jabaquara,26,5,0.0
+SA,Santo Amaro,26,5,0.0
+VM,Vila Mariana,26,5,0.0
+PA,Parelheiros ,26,5,0.0
+AD,Cidade Ademar,26,5,0.0
+MB,M Boi Mirim,27,5,0.0
+CL,Campo Limpo,27,5,0.0
+CS,Capela do Socorro,27,5,0.0
+IP,Ipiranga,27,5,0.0
+JA,Jabaquara,27,5,0.0
+SA,Santo Amaro,27,5,0.0
+VM,Vila Mariana,27,5,0.0
+PA,Parelheiros ,27,5,0.0
+AD,Cidade Ademar,27,5,0.0
+MB,M Boi Mirim,28,5,3.1
+CL,Campo Limpo,28,5,4.5
+CS,Capela do Socorro,28,5,2.8
+IP,Ipiranga,28,5,2.9
+JA,Jabaquara,28,5,3.3000000000000003
+SA,Santo Amaro,28,5,3.1
+VM,Vila Mariana,28,5,3.8
+PA,Parelheiros ,28,5,7.9
+AD,Cidade Ademar,28,5,2.6
+MB,M Boi Mirim,29,5,0.7
+CL,Campo Limpo,29,5,0.6000000000000001
+CS,Capela do Socorro,29,5,1.2
+IP,Ipiranga,29,5,0.2
+JA,Jabaquara,29,5,0.7
+SA,Santo Amaro,29,5,1.0
+VM,Vila Mariana,29,5,0.2
+PA,Parelheiros ,29,5,6.8
+AD,Cidade Ademar,29,5,1.3
+MB,M Boi Mirim,30,5,0.4
+CL,Campo Limpo,30,5,0.4
+CS,Capela do Socorro,30,5,0.5
+IP,Ipiranga,30,5,0.1
+JA,Jabaquara,30,5,0.1
+SA,Santo Amaro,30,5,0.2
+VM,Vila Mariana,30,5,0.2
+PA,Parelheiros ,30,5,1.9
+AD,Cidade Ademar,30,5,0.3
+MB,M Boi Mirim,31,5,36.4
+CL,Campo Limpo,31,5,33.8
+CS,Capela do Socorro,31,5,28.6
+IP,Ipiranga,31,5,28.0
+JA,Jabaquara,31,5,28.7
+SA,Santo Amaro,31,5,27.9
+VM,Vila Mariana,31,5,28.2
+PA,Parelheiros ,31,5,26.9
+AD,Cidade Ademar,31,5,33.2
+MB,M Boi Mirim,1,6,0.1
+CL,Campo Limpo,1,6,0.4
+CS,Capela do Socorro,1,6,0.8
+IP,Ipiranga,1,6,0.6
+JA,Jabaquara,1,6,0.8
+SA,Santo Amaro,1,6,0.7
+VM,Vila Mariana,1,6,0.6
+PA,Parelheiros ,1,6,1.6
+AD,Cidade Ademar,1,6,0.9
+MB,M Boi Mirim,2,6,0.0
+CL,Campo Limpo,2,6,0.0
+CS,Capela do Socorro,2,6,0.0
+IP,Ipiranga,2,6,0.0
+JA,Jabaquara,2,6,0.0
+SA,Santo Amaro,2,6,0.0
+VM,Vila Mariana,2,6,0.0
+PA,Parelheiros ,2,6,0.0
+AD,Cidade Ademar,2,6,0.0
+MB,M Boi Mirim,3,6,0.0
+CL,Campo Limpo,3,6,0.0
+CS,Capela do Socorro,3,6,0.0
+IP,Ipiranga,3,6,0.0
+JA,Jabaquara,3,6,0.0
+SA,Santo Amaro,3,6,0.0
+VM,Vila Mariana,3,6,0.0
+PA,Parelheiros ,3,6,0.0
+AD,Cidade Ademar,3,6,0.0
+MB,M Boi Mirim,4,6,0.0
+CL,Campo Limpo,4,6,0.0
+CS,Capela do Socorro,4,6,0.0
+IP,Ipiranga,4,6,0.0
+JA,Jabaquara,4,6,0.0
+SA,Santo Amaro,4,6,0.0
+VM,Vila Mariana,4,6,0.0
+PA,Parelheiros ,4,6,0.0
+AD,Cidade Ademar,4,6,0.0
+MB,M Boi Mirim,5,6,0.0
+CL,Campo Limpo,5,6,0.0
+CS,Capela do Socorro,5,6,0.0
+IP,Ipiranga,5,6,0.0
+JA,Jabaquara,5,6,0.0
+SA,Santo Amaro,5,6,0.0
+VM,Vila Mariana,5,6,0.0
+PA,Parelheiros ,5,6,0.0
+AD,Cidade Ademar,5,6,0.0
+MB,M Boi Mirim,6,6,0.0
+CL,Campo Limpo,6,6,0.0
+CS,Capela do Socorro,6,6,0.0
+IP,Ipiranga,6,6,0.0
+JA,Jabaquara,6,6,0.0
+SA,Santo Amaro,6,6,0.0
+VM,Vila Mariana,6,6,0.0
+PA,Parelheiros ,6,6,0.0
+AD,Cidade Ademar,6,6,0.0
+MB,M Boi Mirim,7,6,0.0
+CL,Campo Limpo,7,6,0.0
+CS,Capela do Socorro,7,6,0.0
+IP,Ipiranga,7,6,0.0
+JA,Jabaquara,7,6,0.0
+SA,Santo Amaro,7,6,0.0
+VM,Vila Mariana,7,6,0.0
+PA,Parelheiros ,7,6,0.0
+AD,Cidade Ademar,7,6,0.0
+MB,M Boi Mirim,8,6,0.0
+CL,Campo Limpo,8,6,0.0
+CS,Capela do Socorro,8,6,0.0
+IP,Ipiranga,8,6,0.0
+JA,Jabaquara,8,6,0.0
+SA,Santo Amaro,8,6,0.0
+VM,Vila Mariana,8,6,0.0
+PA,Parelheiros ,8,6,0.0
+AD,Cidade Ademar,8,6,0.0
+MB,M Boi Mirim,9,6,0.0
+CL,Campo Limpo,9,6,0.0
+CS,Capela do Socorro,9,6,0.0
+IP,Ipiranga,9,6,0.0
+JA,Jabaquara,9,6,0.0
+SA,Santo Amaro,9,6,0.0
+VM,Vila Mariana,9,6,0.0
+PA,Parelheiros ,9,6,0.0
+AD,Cidade Ademar,9,6,0.0
+MB,M Boi Mirim,10,6,0.0
+CL,Campo Limpo,10,6,0.0
+CS,Capela do Socorro,10,6,0.0
+IP,Ipiranga,10,6,0.0
+JA,Jabaquara,10,6,0.0
+SA,Santo Amaro,10,6,0.0
+VM,Vila Mariana,10,6,0.0
+PA,Parelheiros ,10,6,0.0
+AD,Cidade Ademar,10,6,0.0
+MB,M Boi Mirim,11,6,0.0
+CL,Campo Limpo,11,6,0.0
+CS,Capela do Socorro,11,6,0.0
+IP,Ipiranga,11,6,0.0
+JA,Jabaquara,11,6,0.0
+SA,Santo Amaro,11,6,0.0
+VM,Vila Mariana,11,6,0.0
+PA,Parelheiros ,11,6,0.0
+AD,Cidade Ademar,11,6,0.0
+MB,M Boi Mirim,12,6,0.0
+CL,Campo Limpo,12,6,0.0
+CS,Capela do Socorro,12,6,0.0
+IP,Ipiranga,12,6,0.0
+JA,Jabaquara,12,6,0.0
+SA,Santo Amaro,12,6,0.0
+VM,Vila Mariana,12,6,0.0
+PA,Parelheiros ,12,6,0.0
+AD,Cidade Ademar,12,6,0.0
+MB,M Boi Mirim,13,6,0.9
+CL,Campo Limpo,13,6,0.6
+CS,Capela do Socorro,13,6,0.8
+IP,Ipiranga,13,6,0.2
+JA,Jabaquara,13,6,0.7999999999999999
+SA,Santo Amaro,13,6,0.2
+VM,Vila Mariana,13,6,0.1
+PA,Parelheiros ,13,6,9.1
+AD,Cidade Ademar,13,6,0.3
+MB,M Boi Mirim,14,6,13.3
+CL,Campo Limpo,14,6,14.0
+CS,Capela do Socorro,14,6,11.400000000000002
+IP,Ipiranga,14,6,12.7
+JA,Jabaquara,14,6,11.900000000000002
+SA,Santo Amaro,14,6,11.0
+VM,Vila Mariana,14,6,13.4
+PA,Parelheiros ,14,6,13.2
+AD,Cidade Ademar,14,6,12.9
+MB,M Boi Mirim,15,6,10.0
+CL,Campo Limpo,15,6,9.8
+CS,Capela do Socorro,15,6,8.2
+IP,Ipiranga,15,6,6.8
+JA,Jabaquara,15,6,7.1
+SA,Santo Amaro,15,6,7.4
+VM,Vila Mariana,15,6,7.6
+PA,Parelheiros ,15,6,9.8
+AD,Cidade Ademar,15,6,8.200000000000001
+MB,M Boi Mirim,16,6,0.2
+CL,Campo Limpo,16,6,0.2
+CS,Capela do Socorro,16,6,0.1
+IP,Ipiranga,16,6,0.3
+JA,Jabaquara,16,6,0.1
+SA,Santo Amaro,16,6,0.1
+VM,Vila Mariana,16,6,0.4
+PA,Parelheiros ,16,6,0.1
+AD,Cidade Ademar,16,6,0.2
+MB,M Boi Mirim,17,6,0.0
+CL,Campo Limpo,17,6,0.0
+CS,Capela do Socorro,17,6,0.0
+IP,Ipiranga,17,6,0.0
+JA,Jabaquara,17,6,0.0
+SA,Santo Amaro,17,6,0.0
+VM,Vila Mariana,17,6,0.0
+PA,Parelheiros ,17,6,0.0
+AD,Cidade Ademar,17,6,0.0
+MB,M Boi Mirim,18,6,0.0
+CL,Campo Limpo,18,6,0.0
+CS,Capela do Socorro,18,6,0.0
+IP,Ipiranga,18,6,0.0
+JA,Jabaquara,18,6,0.0
+SA,Santo Amaro,18,6,0.0
+VM,Vila Mariana,18,6,0.0
+PA,Parelheiros ,18,6,0.0
+AD,Cidade Ademar,18,6,0.0
+MB,M Boi Mirim,19,6,0.0
+CL,Campo Limpo,19,6,0.0
+CS,Capela do Socorro,19,6,0.0
+IP,Ipiranga,19,6,0.0
+JA,Jabaquara,19,6,0.0
+SA,Santo Amaro,19,6,0.0
+VM,Vila Mariana,19,6,0.0
+PA,Parelheiros ,19,6,0.0
+AD,Cidade Ademar,19,6,0.0
+MB,M Boi Mirim,20,6,0.0
+CL,Campo Limpo,20,6,0.0
+CS,Capela do Socorro,20,6,0.0
+IP,Ipiranga,20,6,0.0
+JA,Jabaquara,20,6,0.0
+SA,Santo Amaro,20,6,0.0
+VM,Vila Mariana,20,6,0.0
+PA,Parelheiros ,20,6,0.0
+AD,Cidade Ademar,20,6,0.0
+MB,M Boi Mirim,21,6,0.0
+CL,Campo Limpo,21,6,0.0
+CS,Capela do Socorro,21,6,0.0
+IP,Ipiranga,21,6,0.0
+JA,Jabaquara,21,6,0.0
+SA,Santo Amaro,21,6,0.0
+VM,Vila Mariana,21,6,0.0
+PA,Parelheiros ,21,6,0.0
+AD,Cidade Ademar,21,6,0.0
+MB,M Boi Mirim,22,6,0.0
+CL,Campo Limpo,22,6,0.0
+CS,Capela do Socorro,22,6,0.0
+IP,Ipiranga,22,6,0.0
+JA,Jabaquara,22,6,0.0
+SA,Santo Amaro,22,6,0.0
+VM,Vila Mariana,22,6,0.0
+PA,Parelheiros ,22,6,0.0
+AD,Cidade Ademar,22,6,0.0
+MB,M Boi Mirim,23,6,0.0
+CL,Campo Limpo,23,6,0.0
+CS,Capela do Socorro,23,6,0.0
+IP,Ipiranga,23,6,0.0
+JA,Jabaquara,23,6,0.0
+SA,Santo Amaro,23,6,0.0
+VM,Vila Mariana,23,6,0.0
+PA,Parelheiros ,23,6,0.0
+AD,Cidade Ademar,23,6,0.0
+MB,M Boi Mirim,24,6,0.0
+CL,Campo Limpo,24,6,0.0
+CS,Capela do Socorro,24,6,0.0
+IP,Ipiranga,24,6,0.0
+JA,Jabaquara,24,6,0.0
+SA,Santo Amaro,24,6,0.0
+VM,Vila Mariana,24,6,0.0
+PA,Parelheiros ,24,6,0.0
+AD,Cidade Ademar,24,6,0.0
+MB,M Boi Mirim,25,6,0.0
+CL,Campo Limpo,25,6,0.0
+CS,Capela do Socorro,25,6,0.0
+IP,Ipiranga,25,6,0.0
+JA,Jabaquara,25,6,0.0
+SA,Santo Amaro,25,6,0.0
+VM,Vila Mariana,25,6,0.0
+PA,Parelheiros ,25,6,0.0
+AD,Cidade Ademar,25,6,0.0
+MB,M Boi Mirim,26,6,0.0
+CL,Campo Limpo,26,6,0.0
+CS,Capela do Socorro,26,6,0.0
+IP,Ipiranga,26,6,0.0
+JA,Jabaquara,26,6,0.0
+SA,Santo Amaro,26,6,0.0
+VM,Vila Mariana,26,6,0.0
+PA,Parelheiros ,26,6,0.0
+AD,Cidade Ademar,26,6,0.0
+MB,M Boi Mirim,27,6,0.0
+CL,Campo Limpo,27,6,0.0
+CS,Capela do Socorro,27,6,0.0
+IP,Ipiranga,27,6,0.0
+JA,Jabaquara,27,6,0.0
+SA,Santo Amaro,27,6,0.0
+VM,Vila Mariana,27,6,0.0
+PA,Parelheiros ,27,6,0.0
+AD,Cidade Ademar,27,6,0.0
+MB,M Boi Mirim,28,6,0.0
+CL,Campo Limpo,28,6,0.0
+CS,Capela do Socorro,28,6,0.0
+IP,Ipiranga,28,6,0.0
+JA,Jabaquara,28,6,0.0
+SA,Santo Amaro,28,6,0.0
+VM,Vila Mariana,28,6,0.0
+PA,Parelheiros ,28,6,0.0
+AD,Cidade Ademar,28,6,0.0
+MB,M Boi Mirim,29,6,3.5
+CL,Campo Limpo,29,6,2.5
+CS,Capela do Socorro,29,6,4.4
+IP,Ipiranga,29,6,2.4
+JA,Jabaquara,29,6,2.3
+SA,Santo Amaro,29,6,2.2
+VM,Vila Mariana,29,6,3.0
+PA,Parelheiros ,29,6,11.9
+AD,Cidade Ademar,29,6,3.3000000000000003
+MB,M Boi Mirim,30,6,0.2
+CL,Campo Limpo,30,6,0.4
+CS,Capela do Socorro,30,6,0.5
+IP,Ipiranga,30,6,0.3
+JA,Jabaquara,30,6,0.3
+SA,Santo Amaro,30,6,0.2
+VM,Vila Mariana,30,6,0.4
+PA,Parelheiros ,30,6,2.1
+AD,Cidade Ademar,30,6,0.3
+MB,M Boi Mirim,1,7,0.0
+CL,Campo Limpo,1,7,0.0
+CS,Capela do Socorro,1,7,0.0
+IP,Ipiranga,1,7,0.0
+JA,Jabaquara,1,7,0.0
+SA,Santo Amaro,1,7,0.0
+VM,Vila Mariana,1,7,0.0
+PA,Parelheiros ,1,7,0.0
+AD,Cidade Ademar,1,7,0.0
+MB,M Boi Mirim,2,7,0.3
+CL,Campo Limpo,2,7,0.5
+CS,Capela do Socorro,2,7,0.5
+IP,Ipiranga,2,7,0.0
+JA,Jabaquara,2,7,0.2
+SA,Santo Amaro,2,7,0.4
+VM,Vila Mariana,2,7,0.1
+PA,Parelheiros ,2,7,0.7
+AD,Cidade Ademar,2,7,0.3
+MB,M Boi Mirim,3,7,0.0
+CL,Campo Limpo,3,7,0.0
+CS,Capela do Socorro,3,7,0.0
+IP,Ipiranga,3,7,0.0
+JA,Jabaquara,3,7,0.0
+SA,Santo Amaro,3,7,0.0
+VM,Vila Mariana,3,7,0.0
+PA,Parelheiros ,3,7,0.0
+AD,Cidade Ademar,3,7,0.0
+MB,M Boi Mirim,4,7,0.0
+CL,Campo Limpo,4,7,0.0
+CS,Capela do Socorro,4,7,0.0
+IP,Ipiranga,4,7,0.0
+JA,Jabaquara,4,7,0.0
+SA,Santo Amaro,4,7,0.0
+VM,Vila Mariana,4,7,0.0
+PA,Parelheiros ,4,7,0.0
+AD,Cidade Ademar,4,7,0.0
+MB,M Boi Mirim,5,7,0.0
+CL,Campo Limpo,5,7,0.0
+CS,Capela do Socorro,5,7,0.0
+IP,Ipiranga,5,7,0.0
+JA,Jabaquara,5,7,0.0
+SA,Santo Amaro,5,7,0.0
+VM,Vila Mariana,5,7,0.0
+PA,Parelheiros ,5,7,0.0
+AD,Cidade Ademar,5,7,0.0
+MB,M Boi Mirim,6,7,0.0
+CL,Campo Limpo,6,7,0.0
+CS,Capela do Socorro,6,7,0.0
+IP,Ipiranga,6,7,0.0
+JA,Jabaquara,6,7,0.0
+SA,Santo Amaro,6,7,0.0
+VM,Vila Mariana,6,7,0.0
+PA,Parelheiros ,6,7,0.0
+AD,Cidade Ademar,6,7,0.0
+MB,M Boi Mirim,7,7,0.0
+CL,Campo Limpo,7,7,0.0
+CS,Capela do Socorro,7,7,0.1
+IP,Ipiranga,7,7,0.0
+JA,Jabaquara,7,7,0.0
+SA,Santo Amaro,7,7,0.0
+VM,Vila Mariana,7,7,0.0
+PA,Parelheiros ,7,7,0.0
+AD,Cidade Ademar,7,7,0.0
+MB,M Boi Mirim,8,7,2.1
+CL,Campo Limpo,8,7,1.4
+CS,Capela do Socorro,8,7,3.5
+IP,Ipiranga,8,7,1.2
+JA,Jabaquara,8,7,1.9
+SA,Santo Amaro,8,7,1.7
+VM,Vila Mariana,8,7,0.9
+PA,Parelheiros ,8,7,3.2
+AD,Cidade Ademar,8,7,2.4
+MB,M Boi Mirim,9,7,4.7
+CL,Campo Limpo,9,7,4.1
+CS,Capela do Socorro,9,7,5.0
+IP,Ipiranga,9,7,3.6
+JA,Jabaquara,9,7,4.7
+SA,Santo Amaro,9,7,3.8
+VM,Vila Mariana,9,7,3.3000000000000003
+PA,Parelheiros ,9,7,4.0
+AD,Cidade Ademar,9,7,5.0
+MB,M Boi Mirim,10,7,1.0
+CL,Campo Limpo,10,7,1.7
+CS,Capela do Socorro,10,7,1.4
+IP,Ipiranga,10,7,0.7
+JA,Jabaquara,10,7,0.7
+SA,Santo Amaro,10,7,1.0
+VM,Vila Mariana,10,7,0.9
+PA,Parelheiros ,10,7,2.1
+AD,Cidade Ademar,10,7,0.7
+MB,M Boi Mirim,11,7,0.0
+CL,Campo Limpo,11,7,0.0
+CS,Capela do Socorro,11,7,0.0
+IP,Ipiranga,11,7,0.0
+JA,Jabaquara,11,7,0.0
+SA,Santo Amaro,11,7,0.0
+VM,Vila Mariana,11,7,0.0
+PA,Parelheiros ,11,7,0.0
+AD,Cidade Ademar,11,7,0.0
+MB,M Boi Mirim,12,7,0.0
+CL,Campo Limpo,12,7,0.0
+CS,Capela do Socorro,12,7,0.0
+IP,Ipiranga,12,7,0.0
+JA,Jabaquara,12,7,0.0
+SA,Santo Amaro,12,7,0.0
+VM,Vila Mariana,12,7,0.0
+PA,Parelheiros ,12,7,0.0
+AD,Cidade Ademar,12,7,0.0
+MB,M Boi Mirim,13,7,0.0
+CL,Campo Limpo,13,7,0.0
+CS,Capela do Socorro,13,7,0.0
+IP,Ipiranga,13,7,0.0
+JA,Jabaquara,13,7,0.0
+SA,Santo Amaro,13,7,0.0
+VM,Vila Mariana,13,7,0.0
+PA,Parelheiros ,13,7,0.0
+AD,Cidade Ademar,13,7,0.0
+MB,M Boi Mirim,14,7,0.0
+CL,Campo Limpo,14,7,0.0
+CS,Capela do Socorro,14,7,0.0
+IP,Ipiranga,14,7,0.0
+JA,Jabaquara,14,7,0.0
+SA,Santo Amaro,14,7,0.0
+VM,Vila Mariana,14,7,0.0
+PA,Parelheiros ,14,7,0.0
+AD,Cidade Ademar,14,7,0.0
+MB,M Boi Mirim,15,7,0.0
+CL,Campo Limpo,15,7,0.0
+CS,Capela do Socorro,15,7,0.0
+IP,Ipiranga,15,7,0.0
+JA,Jabaquara,15,7,0.0
+SA,Santo Amaro,15,7,0.0
+VM,Vila Mariana,15,7,0.0
+PA,Parelheiros ,15,7,0.0
+AD,Cidade Ademar,15,7,0.0
+MB,M Boi Mirim,16,7,0.0
+CL,Campo Limpo,16,7,0.0
+CS,Capela do Socorro,16,7,0.0
+IP,Ipiranga,16,7,0.0
+JA,Jabaquara,16,7,0.0
+SA,Santo Amaro,16,7,0.0
+VM,Vila Mariana,16,7,0.0
+PA,Parelheiros ,16,7,0.0
+AD,Cidade Ademar,16,7,0.0
+MB,M Boi Mirim,17,7,0.0
+CL,Campo Limpo,17,7,0.2
+CS,Capela do Socorro,17,7,0.1
+IP,Ipiranga,17,7,0.2
+JA,Jabaquara,17,7,0.2
+SA,Santo Amaro,17,7,0.2
+VM,Vila Mariana,17,7,0.1
+PA,Parelheiros ,17,7,0.1
+AD,Cidade Ademar,17,7,0.0
+MB,M Boi Mirim,18,7,0.0
+CL,Campo Limpo,18,7,0.0
+CS,Capela do Socorro,18,7,0.0
+IP,Ipiranga,18,7,0.0
+JA,Jabaquara,18,7,0.3
+SA,Santo Amaro,18,7,0.1
+VM,Vila Mariana,18,7,0.0
+PA,Parelheiros ,18,7,2.3
+AD,Cidade Ademar,18,7,0.1
+MB,M Boi Mirim,19,7,0.5
+CL,Campo Limpo,19,7,0.6
+CS,Capela do Socorro,19,7,1.0
+IP,Ipiranga,19,7,0.7
+JA,Jabaquara,19,7,0.5
+SA,Santo Amaro,19,7,0.7
+VM,Vila Mariana,19,7,1.0
+PA,Parelheiros ,19,7,6.199999999999999
+AD,Cidade Ademar,19,7,0.6
+MB,M Boi Mirim,20,7,0.1
+CL,Campo Limpo,20,7,0.0
+CS,Capela do Socorro,20,7,0.1
+IP,Ipiranga,20,7,0.0
+JA,Jabaquara,20,7,0.0
+SA,Santo Amaro,20,7,0.0
+VM,Vila Mariana,20,7,0.0
+PA,Parelheiros ,20,7,1.4
+AD,Cidade Ademar,20,7,0.1
+MB,M Boi Mirim,21,7,0.0
+CL,Campo Limpo,21,7,0.0
+CS,Capela do Socorro,21,7,0.0
+IP,Ipiranga,21,7,0.0
+JA,Jabaquara,21,7,0.0
+SA,Santo Amaro,21,7,0.0
+VM,Vila Mariana,21,7,0.0
+PA,Parelheiros ,21,7,0.0
+AD,Cidade Ademar,21,7,0.0
+MB,M Boi Mirim,22,7,0.0
+CL,Campo Limpo,22,7,0.0
+CS,Capela do Socorro,22,7,0.0
+IP,Ipiranga,22,7,0.0
+JA,Jabaquara,22,7,0.0
+SA,Santo Amaro,22,7,0.0
+VM,Vila Mariana,22,7,0.0
+PA,Parelheiros ,22,7,0.0
+AD,Cidade Ademar,22,7,0.0
+MB,M Boi Mirim,23,7,0.0
+CL,Campo Limpo,23,7,0.0
+CS,Capela do Socorro,23,7,0.0
+IP,Ipiranga,23,7,0.0
+JA,Jabaquara,23,7,0.0
+SA,Santo Amaro,23,7,0.0
+VM,Vila Mariana,23,7,0.0
+PA,Parelheiros ,23,7,0.0
+AD,Cidade Ademar,23,7,0.0
+MB,M Boi Mirim,24,7,0.0
+CL,Campo Limpo,24,7,0.0
+CS,Capela do Socorro,24,7,0.0
+IP,Ipiranga,24,7,0.0
+JA,Jabaquara,24,7,0.0
+SA,Santo Amaro,24,7,0.0
+VM,Vila Mariana,24,7,0.0
+PA,Parelheiros ,24,7,0.0
+AD,Cidade Ademar,24,7,0.0
+MB,M Boi Mirim,25,7,0.0
+CL,Campo Limpo,25,7,0.0
+CS,Capela do Socorro,25,7,0.0
+IP,Ipiranga,25,7,0.0
+JA,Jabaquara,25,7,0.0
+SA,Santo Amaro,25,7,0.0
+VM,Vila Mariana,25,7,0.0
+PA,Parelheiros ,25,7,0.0
+AD,Cidade Ademar,25,7,0.0
+MB,M Boi Mirim,26,7,0.0
+CL,Campo Limpo,26,7,0.0
+CS,Capela do Socorro,26,7,0.0
+IP,Ipiranga,26,7,0.0
+JA,Jabaquara,26,7,0.0
+SA,Santo Amaro,26,7,0.0
+VM,Vila Mariana,26,7,0.0
+PA,Parelheiros ,26,7,0.0
+AD,Cidade Ademar,26,7,0.0
+MB,M Boi Mirim,27,7,0.1
+CL,Campo Limpo,27,7,0.0
+CS,Capela do Socorro,27,7,0.3
+IP,Ipiranga,27,7,0.0
+JA,Jabaquara,27,7,0.0
+SA,Santo Amaro,27,7,0.0
+VM,Vila Mariana,27,7,0.0
+PA,Parelheiros ,27,7,1.7000000000000002
+AD,Cidade Ademar,27,7,0.0
+MB,M Boi Mirim,28,7,0.0
+CL,Campo Limpo,28,7,0.6
+CS,Capela do Socorro,28,7,0.1
+IP,Ipiranga,28,7,0.9
+JA,Jabaquara,28,7,1.0
+SA,Santo Amaro,28,7,0.3
+VM,Vila Mariana,28,7,0.3
+PA,Parelheiros ,28,7,0.8999999999999999
+AD,Cidade Ademar,28,7,0.6
+MB,M Boi Mirim,29,7,0.0
+CL,Campo Limpo,29,7,0.1
+CS,Capela do Socorro,29,7,0.4
+IP,Ipiranga,29,7,0.4
+JA,Jabaquara,29,7,1.2000000000000002
+SA,Santo Amaro,29,7,1.1
+VM,Vila Mariana,29,7,0.4
+PA,Parelheiros ,29,7,5.1
+AD,Cidade Ademar,29,7,1.1
+MB,M Boi Mirim,30,7,0.0
+CL,Campo Limpo,30,7,0.0
+CS,Capela do Socorro,30,7,0.0
+IP,Ipiranga,30,7,0.0
+JA,Jabaquara,30,7,0.0
+SA,Santo Amaro,30,7,0.0
+VM,Vila Mariana,30,7,0.0
+PA,Parelheiros ,30,7,0.0
+AD,Cidade Ademar,30,7,0.0
+MB,M Boi Mirim,31,7,0.0
+CL,Campo Limpo,31,7,0.0
+CS,Capela do Socorro,31,7,0.0
+IP,Ipiranga,31,7,0.0
+JA,Jabaquara,31,7,0.0
+SA,Santo Amaro,31,7,0.0
+VM,Vila Mariana,31,7,0.0
+PA,Parelheiros ,31,7,0.0
+AD,Cidade Ademar,31,7,0.0
+MB,M Boi Mirim,1,8,0.0
+CL,Campo Limpo,1,8,0.0
+CS,Capela do Socorro,1,8,0.0
+IP,Ipiranga,1,8,0.0
+JA,Jabaquara,1,8,0.0
+SA,Santo Amaro,1,8,0.0
+VM,Vila Mariana,1,8,0.0
+PA,Parelheiros ,1,8,0.0
+AD,Cidade Ademar,1,8,0.0
+MB,M Boi Mirim,2,8,0.0
+CL,Campo Limpo,2,8,0.0
+CS,Capela do Socorro,2,8,0.0
+IP,Ipiranga,2,8,0.0
+JA,Jabaquara,2,8,0.0
+SA,Santo Amaro,2,8,0.0
+VM,Vila Mariana,2,8,0.0
+PA,Parelheiros ,2,8,0.0
+AD,Cidade Ademar,2,8,0.0
+MB,M Boi Mirim,3,8,0.0
+CL,Campo Limpo,3,8,0.0
+CS,Capela do Socorro,3,8,0.0
+IP,Ipiranga,3,8,0.0
+JA,Jabaquara,3,8,0.0
+SA,Santo Amaro,3,8,0.0
+VM,Vila Mariana,3,8,0.0
+PA,Parelheiros ,3,8,0.0
+AD,Cidade Ademar,3,8,0.0
+MB,M Boi Mirim,4,8,0.0
+CL,Campo Limpo,4,8,0.0
+CS,Capela do Socorro,4,8,0.0
+IP,Ipiranga,4,8,0.0
+JA,Jabaquara,4,8,0.0
+SA,Santo Amaro,4,8,0.0
+VM,Vila Mariana,4,8,0.0
+PA,Parelheiros ,4,8,0.0
+AD,Cidade Ademar,4,8,0.0
+MB,M Boi Mirim,5,8,0.0
+CL,Campo Limpo,5,8,0.0
+CS,Capela do Socorro,5,8,0.0
+IP,Ipiranga,5,8,0.0
+JA,Jabaquara,5,8,0.0
+SA,Santo Amaro,5,8,0.0
+VM,Vila Mariana,5,8,0.0
+PA,Parelheiros ,5,8,0.0
+AD,Cidade Ademar,5,8,0.0
+MB,M Boi Mirim,6,8,0.0
+CL,Campo Limpo,6,8,0.0
+CS,Capela do Socorro,6,8,0.0
+IP,Ipiranga,6,8,0.0
+JA,Jabaquara,6,8,0.0
+SA,Santo Amaro,6,8,0.0
+VM,Vila Mariana,6,8,0.0
+PA,Parelheiros ,6,8,0.0
+AD,Cidade Ademar,6,8,0.0
+MB,M Boi Mirim,7,8,0.0
+CL,Campo Limpo,7,8,0.0
+CS,Capela do Socorro,7,8,0.0
+IP,Ipiranga,7,8,0.0
+JA,Jabaquara,7,8,0.0
+SA,Santo Amaro,7,8,0.0
+VM,Vila Mariana,7,8,0.0
+PA,Parelheiros ,7,8,0.0
+AD,Cidade Ademar,7,8,0.0
+MB,M Boi Mirim,8,8,0.3
+CL,Campo Limpo,8,8,0.1
+CS,Capela do Socorro,8,8,0.9000000000000001
+IP,Ipiranga,8,8,0.5
+JA,Jabaquara,8,8,0.2
+SA,Santo Amaro,8,8,0.0
+VM,Vila Mariana,8,8,0.2
+PA,Parelheiros ,8,8,8.9
+AD,Cidade Ademar,8,8,0.2
+MB,M Boi Mirim,9,8,4.2
+CL,Campo Limpo,9,8,2.7
+CS,Capela do Socorro,9,8,6.9
+IP,Ipiranga,9,8,4.5
+JA,Jabaquara,9,8,2.6
+SA,Santo Amaro,9,8,3.1
+VM,Vila Mariana,9,8,5.0
+PA,Parelheiros ,9,8,7.3
+AD,Cidade Ademar,9,8,3.7
+MB,M Boi Mirim,10,8,0.0
+CL,Campo Limpo,10,8,0.0
+CS,Capela do Socorro,10,8,0.0
+IP,Ipiranga,10,8,0.0
+JA,Jabaquara,10,8,0.0
+SA,Santo Amaro,10,8,0.0
+VM,Vila Mariana,10,8,0.0
+PA,Parelheiros ,10,8,0.0
+AD,Cidade Ademar,10,8,0.0
+MB,M Boi Mirim,11,8,3.0
+CL,Campo Limpo,11,8,1.5
+CS,Capela do Socorro,11,8,3.1
+IP,Ipiranga,11,8,1.2
+JA,Jabaquara,11,8,1.0
+SA,Santo Amaro,11,8,1.2
+VM,Vila Mariana,11,8,1.9
+PA,Parelheiros ,11,8,2.8
+AD,Cidade Ademar,11,8,2.0
+MB,M Boi Mirim,12,8,3.7
+CL,Campo Limpo,12,8,2.5
+CS,Capela do Socorro,12,8,1.9
+IP,Ipiranga,12,8,1.3
+JA,Jabaquara,12,8,4.0
+SA,Santo Amaro,12,8,3.8
+VM,Vila Mariana,12,8,0.2
+PA,Parelheiros ,12,8,0.6000000000000001
+AD,Cidade Ademar,12,8,5.2
+MB,M Boi Mirim,13,8,0.3
+CL,Campo Limpo,13,8,0.3
+CS,Capela do Socorro,13,8,1.5000000000000002
+IP,Ipiranga,13,8,0.5
+JA,Jabaquara,13,8,0.8
+SA,Santo Amaro,13,8,0.6
+VM,Vila Mariana,13,8,0.7
+PA,Parelheiros ,13,8,6.1000000000000005
+AD,Cidade Ademar,13,8,1.2
+MB,M Boi Mirim,14,8,0.0
+CL,Campo Limpo,14,8,0.0
+CS,Capela do Socorro,14,8,0.0
+IP,Ipiranga,14,8,0.0
+JA,Jabaquara,14,8,0.0
+SA,Santo Amaro,14,8,0.0
+VM,Vila Mariana,14,8,0.0
+PA,Parelheiros ,14,8,0.0
+AD,Cidade Ademar,14,8,0.0
+MB,M Boi Mirim,15,8,0.0
+CL,Campo Limpo,15,8,0.0
+CS,Capela do Socorro,15,8,0.0
+IP,Ipiranga,15,8,0.0
+JA,Jabaquara,15,8,0.0
+SA,Santo Amaro,15,8,0.0
+VM,Vila Mariana,15,8,0.0
+PA,Parelheiros ,15,8,0.0
+AD,Cidade Ademar,15,8,0.0
+MB,M Boi Mirim,16,8,0.0
+CL,Campo Limpo,16,8,0.0
+CS,Capela do Socorro,16,8,0.0
+IP,Ipiranga,16,8,0.0
+JA,Jabaquara,16,8,0.0
+SA,Santo Amaro,16,8,0.0
+VM,Vila Mariana,16,8,0.0
+PA,Parelheiros ,16,8,0.0
+AD,Cidade Ademar,16,8,0.0
+MB,M Boi Mirim,17,8,0.0
+CL,Campo Limpo,17,8,0.0
+CS,Capela do Socorro,17,8,0.0
+IP,Ipiranga,17,8,0.0
+JA,Jabaquara,17,8,0.0
+SA,Santo Amaro,17,8,0.0
+VM,Vila Mariana,17,8,0.0
+PA,Parelheiros ,17,8,0.0
+AD,Cidade Ademar,17,8,0.0
+MB,M Boi Mirim,18,8,0.0
+CL,Campo Limpo,18,8,0.0
+CS,Capela do Socorro,18,8,0.0
+IP,Ipiranga,18,8,0.0
+JA,Jabaquara,18,8,0.0
+SA,Santo Amaro,18,8,0.0
+VM,Vila Mariana,18,8,0.0
+PA,Parelheiros ,18,8,0.0
+AD,Cidade Ademar,18,8,0.0
+MB,M Boi Mirim,19,8,0.0
+CL,Campo Limpo,19,8,0.0
+CS,Capela do Socorro,19,8,0.0
+IP,Ipiranga,19,8,0.0
+JA,Jabaquara,19,8,0.0
+SA,Santo Amaro,19,8,0.0
+VM,Vila Mariana,19,8,0.0
+PA,Parelheiros ,19,8,0.0
+AD,Cidade Ademar,19,8,0.0
+MB,M Boi Mirim,20,8,0.0
+CL,Campo Limpo,20,8,0.0
+CS,Capela do Socorro,20,8,0.0
+IP,Ipiranga,20,8,0.0
+JA,Jabaquara,20,8,0.0
+SA,Santo Amaro,20,8,0.0
+VM,Vila Mariana,20,8,0.0
+PA,Parelheiros ,20,8,0.0
+AD,Cidade Ademar,20,8,0.0
+MB,M Boi Mirim,21,8,0.0
+CL,Campo Limpo,21,8,0.0
+CS,Capela do Socorro,21,8,0.0
+IP,Ipiranga,21,8,0.0
+JA,Jabaquara,21,8,0.0
+SA,Santo Amaro,21,8,0.0
+VM,Vila Mariana,21,8,0.0
+PA,Parelheiros ,21,8,0.0
+AD,Cidade Ademar,21,8,0.0
+MB,M Boi Mirim,22,8,0.0
+CL,Campo Limpo,22,8,0.0
+CS,Capela do Socorro,22,8,0.0
+IP,Ipiranga,22,8,0.0
+JA,Jabaquara,22,8,0.0
+SA,Santo Amaro,22,8,0.0
+VM,Vila Mariana,22,8,0.0
+PA,Parelheiros ,22,8,0.0
+AD,Cidade Ademar,22,8,0.0
+MB,M Boi Mirim,23,8,0.0
+CL,Campo Limpo,23,8,0.0
+CS,Capela do Socorro,23,8,0.0
+IP,Ipiranga,23,8,0.0
+JA,Jabaquara,23,8,0.0
+SA,Santo Amaro,23,8,0.0
+VM,Vila Mariana,23,8,0.0
+PA,Parelheiros ,23,8,0.0
+AD,Cidade Ademar,23,8,0.0
+MB,M Boi Mirim,24,8,2.6
+CL,Campo Limpo,24,8,2.1
+CS,Capela do Socorro,24,8,3.0
+IP,Ipiranga,24,8,1.5
+JA,Jabaquara,24,8,0.9
+SA,Santo Amaro,24,8,0.8
+VM,Vila Mariana,24,8,1.8
+PA,Parelheiros ,24,8,1.2000000000000002
+AD,Cidade Ademar,24,8,2.4
+MB,M Boi Mirim,25,8,6.3
+CL,Campo Limpo,25,8,5.6
+CS,Capela do Socorro,25,8,6.2
+IP,Ipiranga,25,8,4.9
+JA,Jabaquara,25,8,6.699999999999999
+SA,Santo Amaro,25,8,5.6
+VM,Vila Mariana,25,8,5.0
+PA,Parelheiros ,25,8,7.9
+AD,Cidade Ademar,25,8,6.300000000000001
+MB,M Boi Mirim,26,8,6.9
+CL,Campo Limpo,26,8,8.799999999999999
+CS,Capela do Socorro,26,8,5.9
+IP,Ipiranga,26,8,7.4
+JA,Jabaquara,26,8,9.4
+SA,Santo Amaro,26,8,8.2
+VM,Vila Mariana,26,8,8.1
+PA,Parelheiros ,26,8,10.9
+AD,Cidade Ademar,26,8,8.5
+MB,M Boi Mirim,27,8,6.699999999999999
+CL,Campo Limpo,27,8,7.1
+CS,Capela do Socorro,27,8,6.5
+IP,Ipiranga,27,8,6.199999999999999
+JA,Jabaquara,27,8,7.9
+SA,Santo Amaro,27,8,6.9
+VM,Vila Mariana,27,8,6.4
+PA,Parelheiros ,27,8,8.2
+AD,Cidade Ademar,27,8,7.5
+MB,M Boi Mirim,28,8,0.9000000000000001
+CL,Campo Limpo,28,8,1.4
+CS,Capela do Socorro,28,8,0.7
+IP,Ipiranga,28,8,0.1
+JA,Jabaquara,28,8,0.0
+SA,Santo Amaro,28,8,0.4
+VM,Vila Mariana,28,8,0.2
+PA,Parelheiros ,28,8,4.199999999999999
+AD,Cidade Ademar,28,8,0.3
+MB,M Boi Mirim,29,8,0.0
+CL,Campo Limpo,29,8,0.0
+CS,Capela do Socorro,29,8,0.0
+IP,Ipiranga,29,8,0.0
+JA,Jabaquara,29,8,0.0
+SA,Santo Amaro,29,8,0.0
+VM,Vila Mariana,29,8,0.0
+PA,Parelheiros ,29,8,0.0
+AD,Cidade Ademar,29,8,0.0
+MB,M Boi Mirim,30,8,0.0
+CL,Campo Limpo,30,8,0.0
+CS,Capela do Socorro,30,8,0.0
+IP,Ipiranga,30,8,0.0
+JA,Jabaquara,30,8,0.0
+SA,Santo Amaro,30,8,0.0
+VM,Vila Mariana,30,8,0.0
+PA,Parelheiros ,30,8,0.0
+AD,Cidade Ademar,30,8,0.0
+MB,M Boi Mirim,31,8,0.0
+CL,Campo Limpo,31,8,0.0
+CS,Capela do Socorro,31,8,0.0
+IP,Ipiranga,31,8,0.0
+JA,Jabaquara,31,8,0.0
+SA,Santo Amaro,31,8,0.0
+VM,Vila Mariana,31,8,0.0
+PA,Parelheiros ,31,8,0.0
+AD,Cidade Ademar,31,8,0.0
+MB,M Boi Mirim,1,9,0.0
+CL,Campo Limpo,1,9,0.0
+CS,Capela do Socorro,1,9,0.0
+IP,Ipiranga,1,9,0.0
+JA,Jabaquara,1,9,0.0
+SA,Santo Amaro,1,9,0.0
+VM,Vila Mariana,1,9,0.0
+PA,Parelheiros ,1,9,0.0
+AD,Cidade Ademar,1,9,0.0
+MB,M Boi Mirim,2,9,20.5
+CL,Campo Limpo,2,9,22.5
+CS,Capela do Socorro,2,9,17.7
+IP,Ipiranga,2,9,14.4
+JA,Jabaquara,2,9,21.3
+SA,Santo Amaro,2,9,21.9
+VM,Vila Mariana,2,9,16.599999999999998
+PA,Parelheiros ,2,9,21.7
+AD,Cidade Ademar,2,9,20.6
+MB,M Boi Mirim,3,9,4.5
+CL,Campo Limpo,3,9,6.4
+CS,Capela do Socorro,3,9,2.8000000000000003
+IP,Ipiranga,3,9,7.1
+JA,Jabaquara,3,9,6.0
+SA,Santo Amaro,3,9,5.3
+VM,Vila Mariana,3,9,7.4
+PA,Parelheiros ,3,9,0.9
+AD,Cidade Ademar,3,9,4.5
+MB,M Boi Mirim,4,9,0.0
+CL,Campo Limpo,4,9,0.0
+CS,Capela do Socorro,4,9,0.0
+IP,Ipiranga,4,9,0.0
+JA,Jabaquara,4,9,0.0
+SA,Santo Amaro,4,9,0.0
+VM,Vila Mariana,4,9,0.0
+PA,Parelheiros ,4,9,0.0
+AD,Cidade Ademar,4,9,0.0
+MB,M Boi Mirim,5,9,0.4
+CL,Campo Limpo,5,9,0.7
+CS,Capela do Socorro,5,9,0.5
+IP,Ipiranga,5,9,0.2
+JA,Jabaquara,5,9,0.7000000000000001
+SA,Santo Amaro,5,9,0.6
+VM,Vila Mariana,5,9,0.0
+PA,Parelheiros ,5,9,2.5
+AD,Cidade Ademar,5,9,0.7999999999999999
+MB,M Boi Mirim,6,9,0.3
+CL,Campo Limpo,6,9,0.2
+CS,Capela do Socorro,6,9,0.7000000000000001
+IP,Ipiranga,6,9,0.0
+JA,Jabaquara,6,9,0.1
+SA,Santo Amaro,6,9,0.1
+VM,Vila Mariana,6,9,0.0
+PA,Parelheiros ,6,9,6.6
+AD,Cidade Ademar,6,9,0.1
+MB,M Boi Mirim,7,9,0.0
+CL,Campo Limpo,7,9,0.0
+CS,Capela do Socorro,7,9,0.0
+IP,Ipiranga,7,9,0.0
+JA,Jabaquara,7,9,0.0
+SA,Santo Amaro,7,9,0.0
+VM,Vila Mariana,7,9,0.0
+PA,Parelheiros ,7,9,0.0
+AD,Cidade Ademar,7,9,0.0
+MB,M Boi Mirim,8,9,0.0
+CL,Campo Limpo,8,9,0.0
+CS,Capela do Socorro,8,9,0.0
+IP,Ipiranga,8,9,0.0
+JA,Jabaquara,8,9,0.0
+SA,Santo Amaro,8,9,0.0
+VM,Vila Mariana,8,9,0.0
+PA,Parelheiros ,8,9,0.0
+AD,Cidade Ademar,8,9,0.0
+MB,M Boi Mirim,9,9,0.0
+CL,Campo Limpo,9,9,0.0
+CS,Capela do Socorro,9,9,0.0
+IP,Ipiranga,9,9,0.0
+JA,Jabaquara,9,9,0.0
+SA,Santo Amaro,9,9,0.0
+VM,Vila Mariana,9,9,0.0
+PA,Parelheiros ,9,9,0.0
+AD,Cidade Ademar,9,9,0.0
+MB,M Boi Mirim,10,9,0.0
+CL,Campo Limpo,10,9,0.0
+CS,Capela do Socorro,10,9,0.0
+IP,Ipiranga,10,9,0.0
+JA,Jabaquara,10,9,0.0
+SA,Santo Amaro,10,9,0.0
+VM,Vila Mariana,10,9,0.0
+PA,Parelheiros ,10,9,0.0
+AD,Cidade Ademar,10,9,0.0
+MB,M Boi Mirim,11,9,0.0
+CL,Campo Limpo,11,9,0.0
+CS,Capela do Socorro,11,9,0.0
+IP,Ipiranga,11,9,0.0
+JA,Jabaquara,11,9,0.0
+SA,Santo Amaro,11,9,0.0
+VM,Vila Mariana,11,9,0.0
+PA,Parelheiros ,11,9,0.0
+AD,Cidade Ademar,11,9,0.0
+MB,M Boi Mirim,12,9,0.0
+CL,Campo Limpo,12,9,0.0
+CS,Capela do Socorro,12,9,0.0
+IP,Ipiranga,12,9,0.0
+JA,Jabaquara,12,9,0.0
+SA,Santo Amaro,12,9,0.0
+VM,Vila Mariana,12,9,0.0
+PA,Parelheiros ,12,9,0.0
+AD,Cidade Ademar,12,9,0.0
+MB,M Boi Mirim,13,9,0.0
+CL,Campo Limpo,13,9,0.0
+CS,Capela do Socorro,13,9,0.0
+IP,Ipiranga,13,9,0.0
+JA,Jabaquara,13,9,0.0
+SA,Santo Amaro,13,9,0.0
+VM,Vila Mariana,13,9,0.0
+PA,Parelheiros ,13,9,0.0
+AD,Cidade Ademar,13,9,0.0
+MB,M Boi Mirim,14,9,18.0
+CL,Campo Limpo,14,9,18.7
+CS,Capela do Socorro,14,9,18.200000000000003
+IP,Ipiranga,14,9,21.4
+JA,Jabaquara,14,9,21.1
+SA,Santo Amaro,14,9,18.700000000000003
+VM,Vila Mariana,14,9,14.3
+PA,Parelheiros ,14,9,15.0
+AD,Cidade Ademar,14,9,23.0
+MB,M Boi Mirim,15,9,0.0
+CL,Campo Limpo,15,9,0.0
+CS,Capela do Socorro,15,9,0.0
+IP,Ipiranga,15,9,0.0
+JA,Jabaquara,15,9,0.0
+SA,Santo Amaro,15,9,0.0
+VM,Vila Mariana,15,9,0.0
+PA,Parelheiros ,15,9,0.0
+AD,Cidade Ademar,15,9,0.0
+MB,M Boi Mirim,16,9,0.0
+CL,Campo Limpo,16,9,0.0
+CS,Capela do Socorro,16,9,0.0
+IP,Ipiranga,16,9,0.0
+JA,Jabaquara,16,9,0.0
+SA,Santo Amaro,16,9,0.0
+VM,Vila Mariana,16,9,0.0
+PA,Parelheiros ,16,9,0.0
+AD,Cidade Ademar,16,9,0.0
+MB,M Boi Mirim,17,9,0.0
+CL,Campo Limpo,17,9,0.0
+CS,Capela do Socorro,17,9,0.0
+IP,Ipiranga,17,9,0.0
+JA,Jabaquara,17,9,0.0
+SA,Santo Amaro,17,9,0.0
+VM,Vila Mariana,17,9,0.0
+PA,Parelheiros ,17,9,0.0
+AD,Cidade Ademar,17,9,0.0
+MB,M Boi Mirim,18,9,0.5
+CL,Campo Limpo,18,9,0.1
+CS,Capela do Socorro,18,9,4.9
+IP,Ipiranga,18,9,0.0
+JA,Jabaquara,18,9,0.9
+SA,Santo Amaro,18,9,5.0
+VM,Vila Mariana,18,9,0.0
+PA,Parelheiros ,18,9,0.3
+AD,Cidade Ademar,18,9,6.8
+MB,M Boi Mirim,19,9,0.0
+CL,Campo Limpo,19,9,0.0
+CS,Capela do Socorro,19,9,0.0
+IP,Ipiranga,19,9,0.0
+JA,Jabaquara,19,9,0.0
+SA,Santo Amaro,19,9,0.0
+VM,Vila Mariana,19,9,0.0
+PA,Parelheiros ,19,9,0.0
+AD,Cidade Ademar,19,9,0.0
+MB,M Boi Mirim,20,9,0.0
+CL,Campo Limpo,20,9,0.0
+CS,Capela do Socorro,20,9,0.0
+IP,Ipiranga,20,9,0.0
+JA,Jabaquara,20,9,0.0
+SA,Santo Amaro,20,9,0.0
+VM,Vila Mariana,20,9,0.0
+PA,Parelheiros ,20,9,0.0
+AD,Cidade Ademar,20,9,0.0
+MB,M Boi Mirim,21,9,0.0
+CL,Campo Limpo,21,9,0.0
+CS,Capela do Socorro,21,9,0.0
+IP,Ipiranga,21,9,0.0
+JA,Jabaquara,21,9,0.0
+SA,Santo Amaro,21,9,0.0
+VM,Vila Mariana,21,9,0.0
+PA,Parelheiros ,21,9,0.0
+AD,Cidade Ademar,21,9,0.0
+MB,M Boi Mirim,22,9,0.5
+CL,Campo Limpo,22,9,0.2
+CS,Capela do Socorro,22,9,0.1
+IP,Ipiranga,22,9,0.0
+JA,Jabaquara,22,9,0.1
+SA,Santo Amaro,22,9,0.2
+VM,Vila Mariana,22,9,0.1
+PA,Parelheiros ,22,9,0.2
+AD,Cidade Ademar,22,9,0.0
+MB,M Boi Mirim,23,9,0.0
+CL,Campo Limpo,23,9,0.0
+CS,Capela do Socorro,23,9,0.0
+IP,Ipiranga,23,9,0.0
+JA,Jabaquara,23,9,0.0
+SA,Santo Amaro,23,9,0.0
+VM,Vila Mariana,23,9,0.0
+PA,Parelheiros ,23,9,0.0
+AD,Cidade Ademar,23,9,0.0
+MB,M Boi Mirim,24,9,0.0
+CL,Campo Limpo,24,9,0.0
+CS,Capela do Socorro,24,9,0.0
+IP,Ipiranga,24,9,0.0
+JA,Jabaquara,24,9,0.0
+SA,Santo Amaro,24,9,0.0
+VM,Vila Mariana,24,9,0.0
+PA,Parelheiros ,24,9,0.0
+AD,Cidade Ademar,24,9,0.0
+MB,M Boi Mirim,25,9,0.1
+CL,Campo Limpo,25,9,0.0
+CS,Capela do Socorro,25,9,0.2
+IP,Ipiranga,25,9,0.0
+JA,Jabaquara,25,9,0.0
+SA,Santo Amaro,25,9,0.1
+VM,Vila Mariana,25,9,0.0
+PA,Parelheiros ,25,9,1.5
+AD,Cidade Ademar,25,9,0.1
+MB,M Boi Mirim,26,9,0.0
+CL,Campo Limpo,26,9,0.0
+CS,Capela do Socorro,26,9,0.0
+IP,Ipiranga,26,9,0.0
+JA,Jabaquara,26,9,0.0
+SA,Santo Amaro,26,9,0.0
+VM,Vila Mariana,26,9,0.0
+PA,Parelheiros ,26,9,0.0
+AD,Cidade Ademar,26,9,0.0
+MB,M Boi Mirim,27,9,13.0
+CL,Campo Limpo,27,9,13.4
+CS,Capela do Socorro,27,9,14.5
+IP,Ipiranga,27,9,18.1
+JA,Jabaquara,27,9,19.8
+SA,Santo Amaro,27,9,17.7
+VM,Vila Mariana,27,9,15.3
+PA,Parelheiros ,27,9,8.8
+AD,Cidade Ademar,27,9,19.5
+MB,M Boi Mirim,28,9,0.7
+CL,Campo Limpo,28,9,0.6
+CS,Capela do Socorro,28,9,1.8
+IP,Ipiranga,28,9,0.7
+JA,Jabaquara,28,9,1.0
+SA,Santo Amaro,28,9,1.0
+VM,Vila Mariana,28,9,0.7
+PA,Parelheiros ,28,9,6.5
+AD,Cidade Ademar,28,9,0.8999999999999999
+MB,M Boi Mirim,29,9,0.0
+CL,Campo Limpo,29,9,0.0
+CS,Capela do Socorro,29,9,0.0
+IP,Ipiranga,29,9,0.0
+JA,Jabaquara,29,9,0.0
+SA,Santo Amaro,29,9,0.0
+VM,Vila Mariana,29,9,0.0
+PA,Parelheiros ,29,9,0.0
+AD,Cidade Ademar,29,9,0.0
+MB,M Boi Mirim,30,9,7.0
+CL,Campo Limpo,30,9,10.2
+CS,Capela do Socorro,30,9,5.1
+IP,Ipiranga,30,9,3.7
+JA,Jabaquara,30,9,10.2
+SA,Santo Amaro,30,9,10.1
+VM,Vila Mariana,30,9,3.7
+PA,Parelheiros ,30,9,1.5
+AD,Cidade Ademar,30,9,8.6
+MB,M Boi Mirim,1,10,29.800000000000004
+CL,Campo Limpo,1,10,37.0
+CS,Capela do Socorro,1,10,26.0
+IP,Ipiranga,1,10,40.5
+JA,Jabaquara,1,10,32.6
+SA,Santo Amaro,1,10,28.500000000000004
+VM,Vila Mariana,1,10,44.3
+PA,Parelheiros ,1,10,15.700000000000005
+AD,Cidade Ademar,1,10,30.3
+MB,M Boi Mirim,2,10,0.0
+CL,Campo Limpo,2,10,0.1
+CS,Capela do Socorro,2,10,0.0
+IP,Ipiranga,2,10,0.1
+JA,Jabaquara,2,10,0.1
+SA,Santo Amaro,2,10,0.1
+VM,Vila Mariana,2,10,0.2
+PA,Parelheiros ,2,10,1.2000000000000002
+AD,Cidade Ademar,2,10,0.1
+MB,M Boi Mirim,3,10,0.1
+CL,Campo Limpo,3,10,0.1
+CS,Capela do Socorro,3,10,0.4
+IP,Ipiranga,3,10,0.0
+JA,Jabaquara,3,10,0.1
+SA,Santo Amaro,3,10,0.1
+VM,Vila Mariana,3,10,0.0
+PA,Parelheiros ,3,10,1.6
+AD,Cidade Ademar,3,10,0.0
+MB,M Boi Mirim,4,10,11.0
+CL,Campo Limpo,4,10,10.2
+CS,Capela do Socorro,4,10,7.8
+IP,Ipiranga,4,10,6.2
+JA,Jabaquara,4,10,3.8
+SA,Santo Amaro,4,10,6.5
+VM,Vila Mariana,4,10,4.9
+PA,Parelheiros ,4,10,8.1
+AD,Cidade Ademar,4,10,6.1
+MB,M Boi Mirim,5,10,31.9
+CL,Campo Limpo,5,10,29.200000000000003
+CS,Capela do Socorro,5,10,28.9
+IP,Ipiranga,5,10,24.0
+JA,Jabaquara,5,10,25.700000000000003
+SA,Santo Amaro,5,10,24.000000000000004
+VM,Vila Mariana,5,10,25.5
+PA,Parelheiros ,5,10,28.5
+AD,Cidade Ademar,5,10,28.7
+MB,M Boi Mirim,6,10,0.0
+CL,Campo Limpo,6,10,0.0
+CS,Capela do Socorro,6,10,0.0
+IP,Ipiranga,6,10,0.0
+JA,Jabaquara,6,10,0.0
+SA,Santo Amaro,6,10,0.0
+VM,Vila Mariana,6,10,0.0
+PA,Parelheiros ,6,10,0.0
+AD,Cidade Ademar,6,10,0.0
+MB,M Boi Mirim,7,10,29.6
+CL,Campo Limpo,7,10,36.5
+CS,Capela do Socorro,7,10,29.5
+IP,Ipiranga,7,10,19.3
+JA,Jabaquara,7,10,30.2
+SA,Santo Amaro,7,10,29.6
+VM,Vila Mariana,7,10,17.7
+PA,Parelheiros ,7,10,35.7
+AD,Cidade Ademar,7,10,32.1
+MB,M Boi Mirim,8,10,32.7
+CL,Campo Limpo,8,10,35.8
+CS,Capela do Socorro,8,10,27.5
+IP,Ipiranga,8,10,39.7
+JA,Jabaquara,8,10,45.4
+SA,Santo Amaro,8,10,33.7
+VM,Vila Mariana,8,10,41.8
+PA,Parelheiros ,8,10,23.2
+AD,Cidade Ademar,8,10,42.8
+MB,M Boi Mirim,9,10,2.8000000000000003
+CL,Campo Limpo,9,10,3.3
+CS,Capela do Socorro,9,10,2.4
+IP,Ipiranga,9,10,5.199999999999999
+JA,Jabaquara,9,10,4.3
+SA,Santo Amaro,9,10,3.2
+VM,Vila Mariana,9,10,5.4
+PA,Parelheiros ,9,10,3.2
+AD,Cidade Ademar,9,10,3.3000000000000003
+MB,M Boi Mirim,10,10,0.3
+CL,Campo Limpo,10,10,0.4
+CS,Capela do Socorro,10,10,0.4
+IP,Ipiranga,10,10,0.4
+JA,Jabaquara,10,10,0.3
+SA,Santo Amaro,10,10,0.1
+VM,Vila Mariana,10,10,0.3
+PA,Parelheiros ,10,10,3.8
+AD,Cidade Ademar,10,10,0.3
+MB,M Boi Mirim,11,10,0.0
+CL,Campo Limpo,11,10,0.0
+CS,Capela do Socorro,11,10,0.0
+IP,Ipiranga,11,10,0.0
+JA,Jabaquara,11,10,0.0
+SA,Santo Amaro,11,10,0.0
+VM,Vila Mariana,11,10,0.0
+PA,Parelheiros ,11,10,0.0
+AD,Cidade Ademar,11,10,0.0
+MB,M Boi Mirim,12,10,25.1
+CL,Campo Limpo,12,10,19.4
+CS,Capela do Socorro,12,10,19.2
+IP,Ipiranga,12,10,13.6
+JA,Jabaquara,12,10,14.6
+SA,Santo Amaro,12,10,16.799999999999997
+VM,Vila Mariana,12,10,15.9
+PA,Parelheiros ,12,10,13.0
+AD,Cidade Ademar,12,10,20.5
+MB,M Boi Mirim,13,10,1.1
+CL,Campo Limpo,13,10,1.7000000000000002
+CS,Capela do Socorro,13,10,1.9
+IP,Ipiranga,13,10,1.2
+JA,Jabaquara,13,10,1.5
+SA,Santo Amaro,13,10,1.5000000000000002
+VM,Vila Mariana,13,10,0.7999999999999999
+PA,Parelheiros ,13,10,6.6
+AD,Cidade Ademar,13,10,1.8000000000000005
+MB,M Boi Mirim,14,10,0.6
+CL,Campo Limpo,14,10,0.7999999999999999
+CS,Capela do Socorro,14,10,0.7
+IP,Ipiranga,14,10,0.1
+JA,Jabaquara,14,10,0.3
+SA,Santo Amaro,14,10,0.5
+VM,Vila Mariana,14,10,0.0
+PA,Parelheiros ,14,10,3.4
+AD,Cidade Ademar,14,10,0.7
+MB,M Boi Mirim,15,10,0.0
+CL,Campo Limpo,15,10,0.0
+CS,Capela do Socorro,15,10,0.0
+IP,Ipiranga,15,10,0.0
+JA,Jabaquara,15,10,0.0
+SA,Santo Amaro,15,10,0.0
+VM,Vila Mariana,15,10,0.0
+PA,Parelheiros ,15,10,0.0
+AD,Cidade Ademar,15,10,0.0
+MB,M Boi Mirim,16,10,8.8
+CL,Campo Limpo,16,10,10.0
+CS,Capela do Socorro,16,10,8.1
+IP,Ipiranga,16,10,7.3
+JA,Jabaquara,16,10,4.4
+SA,Santo Amaro,16,10,6.5
+VM,Vila Mariana,16,10,8.0
+PA,Parelheiros ,16,10,16.7
+AD,Cidade Ademar,16,10,4.7
+MB,M Boi Mirim,17,10,11.1
+CL,Campo Limpo,17,10,11.5
+CS,Capela do Socorro,17,10,11.0
+IP,Ipiranga,17,10,11.8
+JA,Jabaquara,17,10,13.7
+SA,Santo Amaro,17,10,12.0
+VM,Vila Mariana,17,10,12.9
+PA,Parelheiros ,17,10,9.7
+AD,Cidade Ademar,17,10,12.0
+MB,M Boi Mirim,18,10,0.1
+CL,Campo Limpo,18,10,0.2
+CS,Capela do Socorro,18,10,0.2
+IP,Ipiranga,18,10,0.1
+JA,Jabaquara,18,10,0.2
+SA,Santo Amaro,18,10,0.2
+VM,Vila Mariana,18,10,0.2
+PA,Parelheiros ,18,10,3.8
+AD,Cidade Ademar,18,10,0.7
+MB,M Boi Mirim,19,10,0.3
+CL,Campo Limpo,19,10,0.2
+CS,Capela do Socorro,19,10,0.2
+IP,Ipiranga,19,10,0.0
+JA,Jabaquara,19,10,0.2
+SA,Santo Amaro,19,10,0.2
+VM,Vila Mariana,19,10,0.1
+PA,Parelheiros ,19,10,3.0
+AD,Cidade Ademar,19,10,0.1
+MB,M Boi Mirim,20,10,0.0
+CL,Campo Limpo,20,10,0.0
+CS,Capela do Socorro,20,10,0.0
+IP,Ipiranga,20,10,0.0
+JA,Jabaquara,20,10,0.0
+SA,Santo Amaro,20,10,0.0
+VM,Vila Mariana,20,10,0.0
+PA,Parelheiros ,20,10,0.0
+AD,Cidade Ademar,20,10,0.0
+MB,M Boi Mirim,21,10,0.0
+CL,Campo Limpo,21,10,0.0
+CS,Capela do Socorro,21,10,0.0
+IP,Ipiranga,21,10,0.0
+JA,Jabaquara,21,10,0.0
+SA,Santo Amaro,21,10,0.0
+VM,Vila Mariana,21,10,0.0
+PA,Parelheiros ,21,10,0.0
+AD,Cidade Ademar,21,10,0.0
+MB,M Boi Mirim,22,10,0.0
+CL,Campo Limpo,22,10,0.0
+CS,Capela do Socorro,22,10,0.0
+IP,Ipiranga,22,10,0.0
+JA,Jabaquara,22,10,0.0
+SA,Santo Amaro,22,10,0.0
+VM,Vila Mariana,22,10,0.0
+PA,Parelheiros ,22,10,0.0
+AD,Cidade Ademar,22,10,0.0
+MB,M Boi Mirim,23,10,0.0
+CL,Campo Limpo,23,10,0.0
+CS,Capela do Socorro,23,10,0.0
+IP,Ipiranga,23,10,0.0
+JA,Jabaquara,23,10,0.0
+SA,Santo Amaro,23,10,0.0
+VM,Vila Mariana,23,10,0.0
+PA,Parelheiros ,23,10,0.0
+AD,Cidade Ademar,23,10,0.0
+MB,M Boi Mirim,24,10,1.2000000000000002
+CL,Campo Limpo,24,10,1.8
+CS,Capela do Socorro,24,10,0.5
+IP,Ipiranga,24,10,0.6
+JA,Jabaquara,24,10,1.8
+SA,Santo Amaro,24,10,1.4
+VM,Vila Mariana,24,10,0.4
+PA,Parelheiros ,24,10,2.8
+AD,Cidade Ademar,24,10,1.4
+MB,M Boi Mirim,25,10,0.1
+CL,Campo Limpo,25,10,0.0
+CS,Capela do Socorro,25,10,0.4
+IP,Ipiranga,25,10,0.2
+JA,Jabaquara,25,10,0.4
+SA,Santo Amaro,25,10,0.2
+VM,Vila Mariana,25,10,0.2
+PA,Parelheiros ,25,10,1.9
+AD,Cidade Ademar,25,10,0.3
+MB,M Boi Mirim,26,10,3.8
+CL,Campo Limpo,26,10,1.9
+CS,Capela do Socorro,26,10,2.2
+IP,Ipiranga,26,10,1.7
+JA,Jabaquara,26,10,3.5
+SA,Santo Amaro,26,10,1.7
+VM,Vila Mariana,26,10,1.3
+PA,Parelheiros ,26,10,3.6
+AD,Cidade Ademar,26,10,2.5
+MB,M Boi Mirim,27,10,2.0
+CL,Campo Limpo,27,10,3.5
+CS,Capela do Socorro,27,10,3.9
+IP,Ipiranga,27,10,14.0
+JA,Jabaquara,27,10,14.2
+SA,Santo Amaro,27,10,9.3
+VM,Vila Mariana,27,10,20.7
+PA,Parelheiros ,27,10,2.2
+AD,Cidade Ademar,27,10,11.4
+MB,M Boi Mirim,28,10,4.9
+CL,Campo Limpo,28,10,4.9
+CS,Capela do Socorro,28,10,3.5
+IP,Ipiranga,28,10,6.0
+JA,Jabaquara,28,10,3.9
+SA,Santo Amaro,28,10,3.8
+VM,Vila Mariana,28,10,6.4
+PA,Parelheiros ,28,10,3.8
+AD,Cidade Ademar,28,10,3.9
+MB,M Boi Mirim,29,10,7.0
+CL,Campo Limpo,29,10,7.6
+CS,Capela do Socorro,29,10,7.9
+IP,Ipiranga,29,10,16.9
+JA,Jabaquara,29,10,12.7
+SA,Santo Amaro,29,10,9.6
+VM,Vila Mariana,29,10,16.9
+PA,Parelheiros ,29,10,17.0
+AD,Cidade Ademar,29,10,10.6
+MB,M Boi Mirim,30,10,0.4
+CL,Campo Limpo,30,10,0.4
+CS,Capela do Socorro,30,10,0.3
+IP,Ipiranga,30,10,0.3
+JA,Jabaquara,30,10,0.1
+SA,Santo Amaro,30,10,0.2
+VM,Vila Mariana,30,10,0.5
+PA,Parelheiros ,30,10,0.1
+AD,Cidade Ademar,30,10,0.2
+MB,M Boi Mirim,31,10,8.799999999999999
+CL,Campo Limpo,31,10,12.2
+CS,Capela do Socorro,31,10,4.9
+IP,Ipiranga,31,10,18.8
+JA,Jabaquara,31,10,14.099999999999998
+SA,Santo Amaro,31,10,10.9
+VM,Vila Mariana,31,10,20.4
+PA,Parelheiros ,31,10,4.4
+AD,Cidade Ademar,31,10,5.8
+MB,M Boi Mirim,1,11,1.4
+CL,Campo Limpo,1,11,0.4
+CS,Capela do Socorro,1,11,1.7
+IP,Ipiranga,1,11,1.0
+JA,Jabaquara,1,11,1.4
+SA,Santo Amaro,1,11,1.5
+VM,Vila Mariana,1,11,0.5
+PA,Parelheiros ,1,11,4.500000000000001
+AD,Cidade Ademar,1,11,2.0
+MB,M Boi Mirim,2,11,0.3
+CL,Campo Limpo,2,11,0.2
+CS,Capela do Socorro,2,11,0.4
+IP,Ipiranga,2,11,0.0
+JA,Jabaquara,2,11,0.1
+SA,Santo Amaro,2,11,0.1
+VM,Vila Mariana,2,11,0.0
+PA,Parelheiros ,2,11,1.4
+AD,Cidade Ademar,2,11,0.3
+MB,M Boi Mirim,3,11,15.4
+CL,Campo Limpo,3,11,12.7
+CS,Capela do Socorro,3,11,12.8
+IP,Ipiranga,3,11,11.1
+JA,Jabaquara,3,11,15.7
+SA,Santo Amaro,3,11,16.1
+VM,Vila Mariana,3,11,7.6
+PA,Parelheiros ,3,11,16.1
+AD,Cidade Ademar,3,11,13.5
+MB,M Boi Mirim,4,11,0.9
+CL,Campo Limpo,4,11,1.5
+CS,Capela do Socorro,4,11,0.7
+IP,Ipiranga,4,11,0.3
+JA,Jabaquara,4,11,1.1
+SA,Santo Amaro,4,11,1.1
+VM,Vila Mariana,4,11,0.6
+PA,Parelheiros ,4,11,0.1
+AD,Cidade Ademar,4,11,1.9
+MB,M Boi Mirim,5,11,0.0
+CL,Campo Limpo,5,11,0.0
+CS,Capela do Socorro,5,11,0.0
+IP,Ipiranga,5,11,0.0
+JA,Jabaquara,5,11,0.0
+SA,Santo Amaro,5,11,0.0
+VM,Vila Mariana,5,11,0.0
+PA,Parelheiros ,5,11,0.0
+AD,Cidade Ademar,5,11,0.0
+MB,M Boi Mirim,6,11,0.0
+CL,Campo Limpo,6,11,0.0
+CS,Capela do Socorro,6,11,0.0
+IP,Ipiranga,6,11,0.0
+JA,Jabaquara,6,11,0.0
+SA,Santo Amaro,6,11,0.0
+VM,Vila Mariana,6,11,0.0
+PA,Parelheiros ,6,11,0.0
+AD,Cidade Ademar,6,11,0.0
+MB,M Boi Mirim,7,11,0.0
+CL,Campo Limpo,7,11,0.0
+CS,Capela do Socorro,7,11,0.0
+IP,Ipiranga,7,11,0.0
+JA,Jabaquara,7,11,0.0
+SA,Santo Amaro,7,11,0.0
+VM,Vila Mariana,7,11,0.0
+PA,Parelheiros ,7,11,0.0
+AD,Cidade Ademar,7,11,0.0
+MB,M Boi Mirim,8,11,0.0
+CL,Campo Limpo,8,11,0.0
+CS,Capela do Socorro,8,11,0.0
+IP,Ipiranga,8,11,0.0
+JA,Jabaquara,8,11,0.0
+SA,Santo Amaro,8,11,0.0
+VM,Vila Mariana,8,11,0.0
+PA,Parelheiros ,8,11,0.0
+AD,Cidade Ademar,8,11,0.0
+MB,M Boi Mirim,9,11,0.0
+CL,Campo Limpo,9,11,0.0
+CS,Capela do Socorro,9,11,0.0
+IP,Ipiranga,9,11,0.0
+JA,Jabaquara,9,11,0.0
+SA,Santo Amaro,9,11,0.0
+VM,Vila Mariana,9,11,0.0
+PA,Parelheiros ,9,11,0.8
+AD,Cidade Ademar,9,11,0.0
+MB,M Boi Mirim,10,11,0.0
+CL,Campo Limpo,10,11,0.0
+CS,Capela do Socorro,10,11,0.1
+IP,Ipiranga,10,11,0.0
+JA,Jabaquara,10,11,0.0
+SA,Santo Amaro,10,11,0.0
+VM,Vila Mariana,10,11,0.0
+PA,Parelheiros ,10,11,0.8
+AD,Cidade Ademar,10,11,0.0
+MB,M Boi Mirim,11,11,0.0
+CL,Campo Limpo,11,11,0.0
+CS,Capela do Socorro,11,11,0.0
+IP,Ipiranga,11,11,0.0
+JA,Jabaquara,11,11,0.0
+SA,Santo Amaro,11,11,0.0
+VM,Vila Mariana,11,11,0.0
+PA,Parelheiros ,11,11,0.0
+AD,Cidade Ademar,11,11,0.0
+MB,M Boi Mirim,12,11,0.0
+CL,Campo Limpo,12,11,0.0
+CS,Capela do Socorro,12,11,0.0
+IP,Ipiranga,12,11,0.0
+JA,Jabaquara,12,11,0.0
+SA,Santo Amaro,12,11,0.0
+VM,Vila Mariana,12,11,0.0
+PA,Parelheiros ,12,11,0.0
+AD,Cidade Ademar,12,11,0.0
+MB,M Boi Mirim,13,11,0.0
+CL,Campo Limpo,13,11,0.0
+CS,Capela do Socorro,13,11,0.0
+IP,Ipiranga,13,11,0.0
+JA,Jabaquara,13,11,0.0
+SA,Santo Amaro,13,11,0.0
+VM,Vila Mariana,13,11,0.0
+PA,Parelheiros ,13,11,0.3
+AD,Cidade Ademar,13,11,0.0
+MB,M Boi Mirim,14,11,0.1
+CL,Campo Limpo,14,11,0.1
+CS,Capela do Socorro,14,11,0.2
+IP,Ipiranga,14,11,0.1
+JA,Jabaquara,14,11,0.3
+SA,Santo Amaro,14,11,0.1
+VM,Vila Mariana,14,11,0.0
+PA,Parelheiros ,14,11,1.2999999999999998
+AD,Cidade Ademar,14,11,0.3
+MB,M Boi Mirim,15,11,29.7
+CL,Campo Limpo,15,11,32.4
+CS,Capela do Socorro,15,11,17.0
+IP,Ipiranga,15,11,43.4
+JA,Jabaquara,15,11,37.8
+SA,Santo Amaro,15,11,32.4
+VM,Vila Mariana,15,11,37.5
+PA,Parelheiros ,15,11,6.9
+AD,Cidade Ademar,15,11,28.5
+MB,M Boi Mirim,16,11,0.0
+CL,Campo Limpo,16,11,0.3
+CS,Capela do Socorro,16,11,0.1
+IP,Ipiranga,16,11,0.0
+JA,Jabaquara,16,11,0.0
+SA,Santo Amaro,16,11,0.0
+VM,Vila Mariana,16,11,0.0
+PA,Parelheiros ,16,11,0.0
+AD,Cidade Ademar,16,11,0.0
+MB,M Boi Mirim,17,11,0.0
+CL,Campo Limpo,17,11,0.0
+CS,Capela do Socorro,17,11,0.0
+IP,Ipiranga,17,11,0.0
+JA,Jabaquara,17,11,0.0
+SA,Santo Amaro,17,11,0.0
+VM,Vila Mariana,17,11,0.0
+PA,Parelheiros ,17,11,0.0
+AD,Cidade Ademar,17,11,0.0
+MB,M Boi Mirim,18,11,14.9
+CL,Campo Limpo,18,11,13.8
+CS,Capela do Socorro,18,11,8.6
+IP,Ipiranga,18,11,3.2
+JA,Jabaquara,18,11,11.6
+SA,Santo Amaro,18,11,16.4
+VM,Vila Mariana,18,11,4.1
+PA,Parelheiros ,18,11,8.1
+AD,Cidade Ademar,18,11,12.6
+MB,M Boi Mirim,19,11,17.900000000000002
+CL,Campo Limpo,19,11,22.3
+CS,Capela do Socorro,19,11,19.8
+IP,Ipiranga,19,11,27.300000000000004
+JA,Jabaquara,19,11,30.5
+SA,Santo Amaro,19,11,26.2
+VM,Vila Mariana,19,11,21.4
+PA,Parelheiros ,19,11,17.6
+AD,Cidade Ademar,19,11,24.3
+MB,M Boi Mirim,20,11,0.3
+CL,Campo Limpo,20,11,0.1
+CS,Capela do Socorro,20,11,0.2
+IP,Ipiranga,20,11,0.0
+JA,Jabaquara,20,11,0.0
+SA,Santo Amaro,20,11,0.1
+VM,Vila Mariana,20,11,0.0
+PA,Parelheiros ,20,11,4.6000000000000005
+AD,Cidade Ademar,20,11,0.1
+MB,M Boi Mirim,21,11,0.1
+CL,Campo Limpo,21,11,0.0
+CS,Capela do Socorro,21,11,0.0
+IP,Ipiranga,21,11,0.0
+JA,Jabaquara,21,11,0.0
+SA,Santo Amaro,21,11,0.0
+VM,Vila Mariana,21,11,0.0
+PA,Parelheiros ,21,11,0.1
+AD,Cidade Ademar,21,11,0.0
+MB,M Boi Mirim,22,11,0.2
+CL,Campo Limpo,22,11,0.4
+CS,Capela do Socorro,22,11,0.1
+IP,Ipiranga,22,11,0.6
+JA,Jabaquara,22,11,3.5
+SA,Santo Amaro,22,11,0.6
+VM,Vila Mariana,22,11,0.6
+PA,Parelheiros ,22,11,1.1
+AD,Cidade Ademar,22,11,1.4
+MB,M Boi Mirim,23,11,7.7
+CL,Campo Limpo,23,11,10.6
+CS,Capela do Socorro,23,11,13.499999999999998
+IP,Ipiranga,23,11,14.7
+JA,Jabaquara,23,11,17.099999999999998
+SA,Santo Amaro,23,11,16.3
+VM,Vila Mariana,23,11,11.6
+PA,Parelheiros ,23,11,30.2
+AD,Cidade Ademar,23,11,15.1
+MB,M Boi Mirim,24,11,0.5
+CL,Campo Limpo,24,11,0.8
+CS,Capela do Socorro,24,11,1.4
+IP,Ipiranga,24,11,2.1
+JA,Jabaquara,24,11,2.6
+SA,Santo Amaro,24,11,2.0000000000000004
+VM,Vila Mariana,24,11,1.7
+PA,Parelheiros ,24,11,6.7
+AD,Cidade Ademar,24,11,2.7
+MB,M Boi Mirim,25,11,7.299999999999999
+CL,Campo Limpo,25,11,6.0
+CS,Capela do Socorro,25,11,6.399999999999999
+IP,Ipiranga,25,11,5.6000000000000005
+JA,Jabaquara,25,11,6.9
+SA,Santo Amaro,25,11,6.300000000000001
+VM,Vila Mariana,25,11,4.0
+PA,Parelheiros ,25,11,5.9
+AD,Cidade Ademar,25,11,6.999999999999999
+MB,M Boi Mirim,26,11,0.0
+CL,Campo Limpo,26,11,0.0
+CS,Capela do Socorro,26,11,0.0
+IP,Ipiranga,26,11,0.0
+JA,Jabaquara,26,11,0.0
+SA,Santo Amaro,26,11,0.0
+VM,Vila Mariana,26,11,0.0
+PA,Parelheiros ,26,11,0.0
+AD,Cidade Ademar,26,11,0.0
+MB,M Boi Mirim,27,11,7.4
+CL,Campo Limpo,27,11,11.8
+CS,Capela do Socorro,27,11,2.7
+IP,Ipiranga,27,11,18.1
+JA,Jabaquara,27,11,13.0
+SA,Santo Amaro,27,11,9.6
+VM,Vila Mariana,27,11,15.3
+PA,Parelheiros ,27,11,0.5
+AD,Cidade Ademar,27,11,5.0
+MB,M Boi Mirim,28,11,17.5
+CL,Campo Limpo,28,11,15.7
+CS,Capela do Socorro,28,11,20.0
+IP,Ipiranga,28,11,14.2
+JA,Jabaquara,28,11,20.3
+SA,Santo Amaro,28,11,19.0
+VM,Vila Mariana,28,11,10.9
+PA,Parelheiros ,28,11,20.5
+AD,Cidade Ademar,28,11,18.8
+MB,M Boi Mirim,29,11,24.200000000000003
+CL,Campo Limpo,29,11,6.2
+CS,Capela do Socorro,29,11,13.1
+IP,Ipiranga,29,11,14.7
+JA,Jabaquara,29,11,18.200000000000003
+SA,Santo Amaro,29,11,15.7
+VM,Vila Mariana,29,11,5.1000000000000005
+PA,Parelheiros ,29,11,16.2
+AD,Cidade Ademar,29,11,21.300000000000004
+MB,M Boi Mirim,30,11,0.1
+CL,Campo Limpo,30,11,0.1
+CS,Capela do Socorro,30,11,0.4
+IP,Ipiranga,30,11,0.1
+JA,Jabaquara,30,11,0.0
+SA,Santo Amaro,30,11,0.0
+VM,Vila Mariana,30,11,0.0
+PA,Parelheiros ,30,11,1.0
+AD,Cidade Ademar,30,11,0.2
+MB,M Boi Mirim,1,12,0.0
+CL,Campo Limpo,1,12,0.0
+CS,Capela do Socorro,1,12,0.0
+IP,Ipiranga,1,12,0.0
+JA,Jabaquara,1,12,0.0
+SA,Santo Amaro,1,12,0.0
+VM,Vila Mariana,1,12,0.0
+PA,Parelheiros ,1,12,0.0
+AD,Cidade Ademar,1,12,0.0
+MB,M Boi Mirim,2,12,0.0
+CL,Campo Limpo,2,12,0.0
+CS,Capela do Socorro,2,12,0.0
+IP,Ipiranga,2,12,0.0
+JA,Jabaquara,2,12,0.0
+SA,Santo Amaro,2,12,0.0
+VM,Vila Mariana,2,12,0.0
+PA,Parelheiros ,2,12,0.0
+AD,Cidade Ademar,2,12,0.0
+MB,M Boi Mirim,3,12,0.0
+CL,Campo Limpo,3,12,0.0
+CS,Capela do Socorro,3,12,0.0
+IP,Ipiranga,3,12,0.0
+JA,Jabaquara,3,12,0.0
+SA,Santo Amaro,3,12,0.0
+VM,Vila Mariana,3,12,0.0
+PA,Parelheiros ,3,12,0.0
+AD,Cidade Ademar,3,12,0.0
+MB,M Boi Mirim,4,12,0.2
+CL,Campo Limpo,4,12,0.2
+CS,Capela do Socorro,4,12,0.5
+IP,Ipiranga,4,12,1.4
+JA,Jabaquara,4,12,1.7000000000000002
+SA,Santo Amaro,4,12,0.6
+VM,Vila Mariana,4,12,1.2
+PA,Parelheiros ,4,12,0.8
+AD,Cidade Ademar,4,12,1.4
+MB,M Boi Mirim,5,12,0.0
+CL,Campo Limpo,5,12,0.1
+CS,Capela do Socorro,5,12,0.0
+IP,Ipiranga,5,12,0.1
+JA,Jabaquara,5,12,0.2
+SA,Santo Amaro,5,12,0.0
+VM,Vila Mariana,5,12,0.1
+PA,Parelheiros ,5,12,0.0
+AD,Cidade Ademar,5,12,0.1
+MB,M Boi Mirim,6,12,0.0
+CL,Campo Limpo,6,12,0.0
+CS,Capela do Socorro,6,12,0.0
+IP,Ipiranga,6,12,0.0
+JA,Jabaquara,6,12,0.0
+SA,Santo Amaro,6,12,0.0
+VM,Vila Mariana,6,12,0.0
+PA,Parelheiros ,6,12,0.3
+AD,Cidade Ademar,6,12,0.0
+MB,M Boi Mirim,7,12,1.3
+CL,Campo Limpo,7,12,1.8
+CS,Capela do Socorro,7,12,11.8
+IP,Ipiranga,7,12,0.3
+JA,Jabaquara,7,12,1.0
+SA,Santo Amaro,7,12,2.2
+VM,Vila Mariana,7,12,0.4
+PA,Parelheiros ,7,12,16.0
+AD,Cidade Ademar,7,12,4.7
+MB,M Boi Mirim,8,12,2.3
+CL,Campo Limpo,8,12,2.7
+CS,Capela do Socorro,8,12,3.1
+IP,Ipiranga,8,12,2.7
+JA,Jabaquara,8,12,4.0
+SA,Santo Amaro,8,12,4.4
+VM,Vila Mariana,8,12,2.5
+PA,Parelheiros ,8,12,7.199999999999999
+AD,Cidade Ademar,8,12,4.3
+MB,M Boi Mirim,9,12,0.3
+CL,Campo Limpo,9,12,0.3
+CS,Capela do Socorro,9,12,0.6
+IP,Ipiranga,9,12,0.1
+JA,Jabaquara,9,12,0.2
+SA,Santo Amaro,9,12,0.2
+VM,Vila Mariana,9,12,0.1
+PA,Parelheiros ,9,12,3.3000000000000003
+AD,Cidade Ademar,9,12,0.4
+MB,M Boi Mirim,10,12,32.5
+CL,Campo Limpo,10,12,28.7
+CS,Capela do Socorro,10,12,34.3
+IP,Ipiranga,10,12,34.2
+JA,Jabaquara,10,12,41.1
+SA,Santo Amaro,10,12,44.9
+VM,Vila Mariana,10,12,24.6
+PA,Parelheiros ,10,12,17.2
+AD,Cidade Ademar,10,12,40.6
+MB,M Boi Mirim,11,12,0.8
+CL,Campo Limpo,11,12,0.3
+CS,Capela do Socorro,11,12,4.2
+IP,Ipiranga,11,12,0.4
+JA,Jabaquara,11,12,0.5
+SA,Santo Amaro,11,12,0.2
+VM,Vila Mariana,11,12,0.1
+PA,Parelheiros ,11,12,4.5
+AD,Cidade Ademar,11,12,1.0
+MB,M Boi Mirim,12,12,0.0
+CL,Campo Limpo,12,12,0.0
+CS,Capela do Socorro,12,12,0.0
+IP,Ipiranga,12,12,0.0
+JA,Jabaquara,12,12,0.0
+SA,Santo Amaro,12,12,0.0
+VM,Vila Mariana,12,12,0.0
+PA,Parelheiros ,12,12,0.0
+AD,Cidade Ademar,12,12,0.0
+MB,M Boi Mirim,13,12,0.0
+CL,Campo Limpo,13,12,0.0
+CS,Capela do Socorro,13,12,0.0
+IP,Ipiranga,13,12,0.0
+JA,Jabaquara,13,12,0.0
+SA,Santo Amaro,13,12,0.0
+VM,Vila Mariana,13,12,0.0
+PA,Parelheiros ,13,12,0.0
+AD,Cidade Ademar,13,12,0.0
+MB,M Boi Mirim,14,12,0.0
+CL,Campo Limpo,14,12,0.0
+CS,Capela do Socorro,14,12,0.0
+IP,Ipiranga,14,12,0.0
+JA,Jabaquara,14,12,0.0
+SA,Santo Amaro,14,12,0.0
+VM,Vila Mariana,14,12,0.0
+PA,Parelheiros ,14,12,0.0
+AD,Cidade Ademar,14,12,0.0
+MB,M Boi Mirim,15,12,0.0
+CL,Campo Limpo,15,12,0.0
+CS,Capela do Socorro,15,12,0.0
+IP,Ipiranga,15,12,0.0
+JA,Jabaquara,15,12,0.0
+SA,Santo Amaro,15,12,0.0
+VM,Vila Mariana,15,12,0.0
+PA,Parelheiros ,15,12,0.1
+AD,Cidade Ademar,15,12,0.0
+MB,M Boi Mirim,16,12,0.0
+CL,Campo Limpo,16,12,0.0
+CS,Capela do Socorro,16,12,0.0
+IP,Ipiranga,16,12,0.0
+JA,Jabaquara,16,12,0.0
+SA,Santo Amaro,16,12,0.0
+VM,Vila Mariana,16,12,0.0
+PA,Parelheiros ,16,12,0.0
+AD,Cidade Ademar,16,12,0.0
+MB,M Boi Mirim,17,12,10.6
+CL,Campo Limpo,17,12,7.5
+CS,Capela do Socorro,17,12,1.3
+IP,Ipiranga,17,12,0.0
+JA,Jabaquara,17,12,0.0
+SA,Santo Amaro,17,12,4.5
+VM,Vila Mariana,17,12,0.5
+PA,Parelheiros ,17,12,1.3
+AD,Cidade Ademar,17,12,0.1
+MB,M Boi Mirim,18,12,0.0
+CL,Campo Limpo,18,12,0.0
+CS,Capela do Socorro,18,12,0.0
+IP,Ipiranga,18,12,0.0
+JA,Jabaquara,18,12,0.0
+SA,Santo Amaro,18,12,0.0
+VM,Vila Mariana,18,12,0.0
+PA,Parelheiros ,18,12,0.0
+AD,Cidade Ademar,18,12,0.0
+MB,M Boi Mirim,19,12,0.0
+CL,Campo Limpo,19,12,0.0
+CS,Capela do Socorro,19,12,0.0
+IP,Ipiranga,19,12,0.0
+JA,Jabaquara,19,12,0.0
+SA,Santo Amaro,19,12,0.0
+VM,Vila Mariana,19,12,0.0
+PA,Parelheiros ,19,12,0.0
+AD,Cidade Ademar,19,12,0.0
+MB,M Boi Mirim,20,12,0.0
+CL,Campo Limpo,20,12,0.0
+CS,Capela do Socorro,20,12,0.0
+IP,Ipiranga,20,12,0.0
+JA,Jabaquara,20,12,0.0
+SA,Santo Amaro,20,12,0.0
+VM,Vila Mariana,20,12,0.0
+PA,Parelheiros ,20,12,0.0
+AD,Cidade Ademar,20,12,0.0
+MB,M Boi Mirim,21,12,0.0
+CL,Campo Limpo,21,12,0.0
+CS,Capela do Socorro,21,12,0.0
+IP,Ipiranga,21,12,0.0
+JA,Jabaquara,21,12,0.0
+SA,Santo Amaro,21,12,0.0
+VM,Vila Mariana,21,12,0.0
+PA,Parelheiros ,21,12,0.3
+AD,Cidade Ademar,21,12,0.0
+MB,M Boi Mirim,22,12,1.2
+CL,Campo Limpo,22,12,0.7
+CS,Capela do Socorro,22,12,1.4
+IP,Ipiranga,22,12,13.8
+JA,Jabaquara,22,12,7.5
+SA,Santo Amaro,22,12,9.1
+VM,Vila Mariana,22,12,10.0
+PA,Parelheiros ,22,12,0.1
+AD,Cidade Ademar,22,12,9.2
+MB,M Boi Mirim,23,12,13.5
+CL,Campo Limpo,23,12,15.4
+CS,Capela do Socorro,23,12,21.200000000000003
+IP,Ipiranga,23,12,42.1
+JA,Jabaquara,23,12,47.5
+SA,Santo Amaro,23,12,46.4
+VM,Vila Mariana,23,12,24.6
+PA,Parelheiros ,23,12,4.7
+AD,Cidade Ademar,23,12,47.9
+MB,M Boi Mirim,24,12,0.1
+CL,Campo Limpo,24,12,0.0
+CS,Capela do Socorro,24,12,0.2
+IP,Ipiranga,24,12,0.0
+JA,Jabaquara,24,12,0.1
+SA,Santo Amaro,24,12,0.1
+VM,Vila Mariana,24,12,0.0
+PA,Parelheiros ,24,12,0.1
+AD,Cidade Ademar,24,12,0.5
+MB,M Boi Mirim,25,12,0.0
+CL,Campo Limpo,25,12,0.0
+CS,Capela do Socorro,25,12,0.2
+IP,Ipiranga,25,12,0.1
+JA,Jabaquara,25,12,0.2
+SA,Santo Amaro,25,12,0.1
+VM,Vila Mariana,25,12,0.1
+PA,Parelheiros ,25,12,0.0
+AD,Cidade Ademar,25,12,0.5
+MB,M Boi Mirim,26,12,1.8
+CL,Campo Limpo,26,12,1.1
+CS,Capela do Socorro,26,12,0.5
+IP,Ipiranga,26,12,0.0
+JA,Jabaquara,26,12,0.2
+SA,Santo Amaro,26,12,0.2
+VM,Vila Mariana,26,12,0.1
+PA,Parelheiros ,26,12,0.2
+AD,Cidade Ademar,26,12,0.3
+MB,M Boi Mirim,27,12,0.0
+CL,Campo Limpo,27,12,0.0
+CS,Capela do Socorro,27,12,0.0
+IP,Ipiranga,27,12,0.0
+JA,Jabaquara,27,12,0.0
+SA,Santo Amaro,27,12,0.0
+VM,Vila Mariana,27,12,0.0
+PA,Parelheiros ,27,12,0.0
+AD,Cidade Ademar,27,12,0.0
+MB,M Boi Mirim,28,12,0.0
+CL,Campo Limpo,28,12,0.0
+CS,Capela do Socorro,28,12,0.0
+IP,Ipiranga,28,12,0.0
+JA,Jabaquara,28,12,0.0
+SA,Santo Amaro,28,12,0.0
+VM,Vila Mariana,28,12,0.0
+PA,Parelheiros ,28,12,0.0
+AD,Cidade Ademar,28,12,0.0
+MB,M Boi Mirim,29,12,0.0
+CL,Campo Limpo,29,12,0.0
+CS,Capela do Socorro,29,12,0.0
+IP,Ipiranga,29,12,0.0
+JA,Jabaquara,29,12,0.0
+SA,Santo Amaro,29,12,0.0
+VM,Vila Mariana,29,12,0.0
+PA,Parelheiros ,29,12,0.0
+AD,Cidade Ademar,29,12,0.0
+MB,M Boi Mirim,30,12,10.0
+CL,Campo Limpo,30,12,5.1
+CS,Capela do Socorro,30,12,9.5
+IP,Ipiranga,30,12,6.199999999999999
+JA,Jabaquara,30,12,10.6
+SA,Santo Amaro,30,12,9.2
+VM,Vila Mariana,30,12,4.7
+PA,Parelheiros ,30,12,8.5
+AD,Cidade Ademar,30,12,9.8
+MB,M Boi Mirim,31,12,0.0
+CL,Campo Limpo,31,12,0.0
+CS,Capela do Socorro,31,12,0.0
+IP,Ipiranga,31,12,0.0
+JA,Jabaquara,31,12,0.0
+SA,Santo Amaro,31,12,0.0
+VM,Vila Mariana,31,12,0.0
+PA,Parelheiros ,31,12,0.0
+AD,Cidade Ademar,31,12,0.0
